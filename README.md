@@ -32,7 +32,7 @@ This project is designed to be beginner-friendly and lightweight for everyday us
 |-----------------------------------|---------------------------------------|
 | `Nutrition Counter [BETA].py`     | Main application file                 |
 | `merged_food_dataset.csv`         | The dataset used for food info        |
-| `nutrition_program_icon2.ico`     | Optional app icon for customization   |
+| `nutrition_program_icon.ico`     | Optional app icon for customization   |
 | `README.md`                       | This file                             |
 
 ---
