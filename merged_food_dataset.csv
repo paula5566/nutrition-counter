@@ -1,0 +1,2396 @@
+id,food,Caloric Value,Fat,Protein,Carbohydrates,Cholesterol,Vitamin C,Iron,Calcium
+set1_0,cream cheese,51,5.0,0.9,0.8,14.6,0.004,0.082,0.008
+set1_1,neufchatel cheese,215,19.4,7.8,3.1,62.9,0.0,0.1,99.5
+set1_2,requeijao cremoso light catupiry,49,3.6,0.8,0.9,0.0,0.0,0.0,0.0
+set1_3,ricotta cheese,30,2.0,1.5,1.5,9.8,0.006,0.097,0.097
+set1_4,cream cheese low fat,30,2.3,1.2,1.2,8.1,0.0,0.008,22.2
+set1_5,cream cheese fat free,19,0.2,2.8,1.4,2.2,0.0,0.053,63.2
+set1_6,gruyere cheese,116,9.1,8.3,0.1,30.8,0.0,0.094,283.1
+set1_7,cheddar cheese,113,9.3,6.4,0.9,27.7,0.0,0.077,198.8
+set1_8,parmesan cheese,71,4.5,6.4,0.6,12.2,0.0,0.1,213.1
+set1_9,romano cheese,19,1.3,1.6,0.2,5.2,0.0,0.03,53.2
+set1_10,parmesan cheese grated,21,1.4,1.4,0.7,4.3,0.007,0.094,0.012
+set1_11,port salut cheese,465,37.2,31.4,0.8,162.4,0.0,0.6,858.0
+set1_12,swiss cheese,98,7.7,6.7,0.4,23.3,0.0,0.024,222.5
+set1_13,goat cheese hard,128,10.1,8.6,0.6,29.7,0.0,0.5,253.3
+set1_14,gouda cheese,100,7.7,7.0,0.6,31.9,0.0,0.06,196.0
+set1_15,pepper jack cheese lucerne,75,6.0,5.0,0.0,0.0,0.0,0.0,0.0
+set1_16,caraway cheese,106,8.3,7.1,0.9,26.3,0.0,0.2,190.5
+set1_17,gjetost cheese,1058,67.0,21.9,96.8,213.4,0.0,1.2,908.0
+set1_18,tilsit cheese,136,10.4,9.8,0.8,40.8,0.0,0.01,280.0
+set1_19,goat cheese,103,8.4,6.1,0.009,22.4,0.0,0.5,84.3
+set1_20,brick cheese,111,8.9,7.0,0.8,28.2,0.0,0.1,202.2
+set1_21,asadero cheese,402,31.9,25.5,3.2,118.7,0.0,0.6,746.9
+set1_22,camembert cheese,90,7.3,5.9,0.1,21.6,0.0,0.063,116.4
+set1_23,provolone cheese reduced fat,310,19.9,27.9,4.0,62.2,0.0,0.6,854.3
+set1_24,roquefort cheese,314,26.0,18.3,1.7,76.5,0.0,0.5,562.7
+set1_25,queso blanco cheese,366,28.7,24.0,3.0,82.6,0.0,0.2,814.2
+set1_26,queso seco cheese,315,23.6,23.8,2.0,75.7,0.0,0.2,641.2
+set1_27,goat cheese soft,75,6.0,5.2,0.0,13.0,0.0,0.5,39.6
+set1_28,mozzarella cheese,90,6.6,6.7,0.7,23.7,0.0,0.1,151.5
+set1_29,chihuahua cheese,494,39.2,28.5,7.3,138.6,0.0,0.6,859.3
+set1_30,limburger cheese,98,8.2,6.0,0.1,27.0,0.0,0.011,149.1
+set1_31,muenster cheese,486,39.7,30.9,1.5,126.7,0.0,0.5,946.4
+set1_32,queso fresco cheese,365,29.1,22.1,3.6,84.2,0.0,0.2,690.5
+set1_33,brie cheese,100,8.3,6.2,0.1,30.0,0.0,0.2,55.2
+set1_34,pimento cheese,525,43.7,31.0,2.4,131.6,3.2,0.6,859.6
+set1_35,mexican cheese,316,21.7,27.7,3.8,69.4,0.0,0.1,1283.5
+set1_36,feta cheese,80,6.4,4.3,1.2,26.7,0.0,0.2,147.9
+set1_37,mozzarella cheese fat free,159,0.0,35.8,4.0,20.3,0.0,0.4,1085.9
+set1_38,provolone cheese,463,35.1,33.8,2.8,91.1,0.0,0.7,997.9
+set1_39,anejo cheese,492,39.6,28.3,6.1,138.6,0.0,0.6,897.6
+set1_40,honey,64,0.0,0.08,17.3,0.0,0.1,0.017,1.3
+set1_41,apple butter,35,0.063,0.045,8.5,0.0,0.1,0.025,2.8
+set1_42,fruit jam,56,0.095,0.0,13.8,0.0,1.8,0.07,4.0
+set1_43,chocolate hazelnut spread,100,5.5,1.0,11.5,0.0,0.0,0.8,20.0
+set1_44,peanut butter,88,7.4,3.3,3.6,0.0,0.078,0.079,0.0
+set1_45,peanut spread,101,8.5,3.8,2.2,0.0,0.0,0.4,11.2
+set1_46,chicken spread,88,9.8,10.1,2.3,31.4,0.0,0.5,9.0
+set1_47,cheese spread,708,68.6,17.0,8.4,216.0,0.0,2.7,170.4
+set1_48,tahini,86,7.2,2.7,3.9,0.0,0.0,0.4,63.0
+set1_49,orange marmalade,49,0.0,0.014,13.3,0.0,1.0,0.053,7.6
+set1_50,american cheese spread,46,3.4,2.6,1.4,8.8,0.0,0.079,89.9
+set1_51,apricot jam,48,0.01,0.1,12.9,0.0,1.8,0.066,4.0
+set1_52,chunky peanut butter,94,8.0,3.8,3.5,0.0,0.0,0.3,7.2
+set1_53,ham and cheese spread,37,2.8,2.4,0.3,9.2,0.0,0.1,32.6
+set1_54,chicken and rice casserole homade,27,1.0,2.0,2.4,0.0,0.0,0.0,0.0
+set1_55,picnic loaf,65,4.7,4.2,1.3,10.6,0.0,0.3,13.2
+set1_56,corn tamale,309,12.0,5.8,44.3,0.0,0.0,0.9,39.8
+set1_57,baked potato with cheese sauce bacon,451,25.9,18.4,44.4,29.9,28.7,3.1,308.0
+set1_58,chinese egg roll,223,10.6,7.4,24.3,14.2,0.0,1.3,35.6
+set1_59,butter croissant,231,12.0,4.7,26.1,38.2,0.1,1.2,21.1
+set1_60,enchilada with cheese beef,323,17.6,11.9,30.5,40.3,1.3,3.1,228.5
+set1_61,corned beef hash with potatoes,387,24.2,20.6,21.9,75.5,2.1,2.4,44.8
+set1_62,biscuit with egg cheese bacon,436,25.3,17.4,35.4,240.7,0.0,2.3,149.4
+set1_63,bagel with ham egg cheese,483,18.5,26.7,52.4,242.6,0.0,4.1,185.3
+set1_64,quesadilla with chicken,529,27.5,27.1,43.3,66.6,0.2,3.2,484.2
+set1_65,corn rice,110,0.3,1.8,25.2,0.0,11.2,9.9,2.9
+set1_66,kung pao chicken,779,42.2,59.0,41.5,157.0,42.9,4.6,120.8
+set1_67,beef empanada,298,16.3,10.1,27.8,23.1,0.0,2.4,17.8
+set1_68,frijoles with cheese,225,7.8,11.4,28.7,36.7,1.5,2.2,188.7
+set1_69,burrito with beef,285,8.1,9.1,43.9,2.6,0.1,0.2,0.042
+set1_70,crispy chicken sandwich,350,17.6,14.8,33.2,0.0,0.0,1.9,46.6
+set1_71,enchilada with cheese,374,25.3,15.4,21.2,57.5,0.2,0.2,0.0
+set1_72,pork egg roll,189,6.1,8.4,25.1,11.9,24.9,1.3,28.9
+set1_73,corn on the cob with butter,155,3.4,4.5,31.9,5.8,6.9,0.9,4.4
+set1_74,pancakes with butter syrup,260,7.0,4.1,45.4,29.0,1.7,1.3,63.8
+set1_75,burrito with beans,224,6.7,7.0,35.7,2.2,1.0,2.3,56.4
+set1_76,scrambled eggs,100,7.6,6.5,1.0,200.2,1.6,1.2,26.8
+set1_77,baked potato with sour cream,393,22.3,6.7,50.0,24.2,33.8,3.1,105.7
+set1_78,turkey and gravy,161,6.3,14.1,11.1,43.2,0.0,2.2,33.6
+set1_79,chicken egg roll,158,3.6,8.4,22.8,11.2,9.0,1.4,37.6
+set1_80,vegetable egg roll,153,3.6,5.2,25.0,0.0,10.7,1.5,35.9
+set1_81,ham cheese roll,67,5.2,3.8,1.1,16.2,0.0,0.3,16.2
+set1_82,biscuit with ham,386,18.4,13.4,43.8,24.9,0.1,2.7,160.5
+set1_83,lemon chicken,1440,74.9,68.6,122.0,203.8,15.9,8.4,248.4
+set1_84,hummus,435,21.1,12.0,49.5,0.0,19.4,3.8,120.5
+set1_85,croissant with egg cheese,368,24.7,12.8,24.3,215.9,0.1,2.2,243.8
+set1_86,enchirito with cheese beef beans,344,16.1,17.9,33.8,50.2,4.6,2.4,218.1
+set1_87,sweet sour pork,38,2.2,1.2,3.3,3.4,0.3,0.4,6.4
+set1_88,crab cake,160,10.4,11.3,5.1,82.2,0.2,1.1,202.2
+set1_89,egg dinner roll,107,2.2,3.3,18.2,17.5,0.0,1.2,20.7
+set1_90,english muffin with egg cheese sausage,472,29.9,22.1,28.8,269.0,0.0,4.3,277.2
+set1_91,buttermilk pancakes,86,3.5,2.6,10.9,22.0,0.2,0.6,59.7
+set1_92,omelet,94,7.1,6.4,0.4,190.9,0.003,0.07,0.05
+set1_93,taco with chicken cheese lettuce,185,6.2,13.0,19.3,28.4,0.2,1.6,119.6
+set1_94,spinach souffle,230,17.6,10.7,8.0,160.5,9.9,1.6,224.4
+set1_95,english muffin with cheese sausage,365,22.3,14.3,27.3,46.4,0.0,3.4,226.8
+set1_96,potato gratin,328,18.6,12.4,27.6,56.4,24.3,1.6,291.6
+set1_97,biscuit with egg,436,25.3,17.4,35.4,240.7,0.1,2.3,149.4
+set1_98,french fries deep fried,222,10.5,2.4,29.4,0.0,0.3,0.038,0.075
+set1_99,sweet sour chicken,46,2.3,1.8,4.4,4.9,0.4,0.4,8.2
+set1_100,burrito with beans beef,460,18.0,27.8,47.0,62.7,4.6,4.6,216.9
+set1_101,nachos with cinnamon sugar,592,36.0,7.2,63.4,39.2,8.0,2.9,85.0
+set1_102,arroz con grandules,209,5.7,4.0,35.4,0.0,0.0,0.3,9.2
+set1_103,chili con carne,271,8.8,14.7,33.1,22.8,0.3,0.6,0.063
+set1_104,arroz con abichuelas,223,5.4,6.2,37.3,0.0,0.0,1.9,23.6
+set1_105,biscuit with sausage,412,27.1,10.7,33.3,31.1,0.0,2.1,52.2
+set1_106,vegetarian stew,304,7.4,42.0,17.3,0.0,0.0,3.2,76.6
+set1_107,chicken sandwich with cheese,632,38.8,29.4,41.6,77.5,3.0,3.6,257.6
+set1_108,biscuit with egg steak,410,28.4,17.9,21.3,272.3,0.1,5.3,137.6
+set1_109,taco salad,212,11.2,10.0,17.9,33.0,2.7,1.7,145.5
+set1_110,succotash,213,1.5,9.7,46.8,0.0,15.7,2.9,32.6
+set1_111,nachos with cheese jalapeno peppers,608,34.1,16.8,60.1,83.6,1.0,2.4,620.2
+set1_112,biscuit with egg ham,442,27.0,20.4,31.4,299.5,0.0,4.6,220.8
+set1_113,ladyfingers,103,2.6,3.0,16.9,62.5,1.0,1.0,13.3
+set1_114,mozzarella steak fried,102,5.9,4.6,7.7,10.2,0.0,0.2,107.9
+set1_115,tamale navajo,285,11.4,11.7,33.7,31.6,3.2,2.3,53.9
+set1_116,blueberry pancakes,84,3.5,2.3,11.0,21.3,0.8,0.7,78.3
+set1_117,chimichanga with beef cheese,443,23.4,20.1,39.3,51.2,2.7,3.8,237.9
+set1_118,egg cheese sandwich,340,19.4,15.6,25.9,290.5,1.5,3.0,224.8
+set1_119,biscuit with egg bacon,458,31.1,17.0,28.6,352.5,2.7,3.7,189.0
+set1_120,pupusas con queso,300,15.5,13.7,26.2,37.4,0.0,0.7,380.3
+set1_121,apple croissant,145,5.0,4.2,21.1,17.7,0.3,0.6,17.1
+set1_122,refried red beans,336,16.1,11.7,36.0,0.0,0.0,4.5,76.9
+set1_123,tostada with guacamole,180,11.6,6.2,16.0,19.6,1.8,0.8,211.4
+set1_124,chicken sandwich,468,20.9,30.4,39.1,65.5,0.7,0.2,0.012
+set1_125,fried rice,228,3.2,6.5,43.4,32.2,0.0,1.0,19.6
+set1_126,pupusas del cerdo,283,12.7,14.0,28.1,35.4,0.0,1.2,59.8
+set1_127,turkey pot pie,699,34.9,25.8,70.3,63.5,0.0,4.0,0.0
+set1_128,cheese croissant,331,16.7,7.4,37.6,45.6,0.2,1.7,42.4
+set1_129,chimichanga with beef,425,19.7,19.6,42.8,8.7,4.7,4.5,62.6
+set1_130,french toast with butter,178,9.4,5.2,18.0,58.1,0.004,0.9,36.5
+set1_131,ham egg cheese sandwich,347,16.3,19.2,30.9,246.0,2.7,3.1,211.6
+set1_132,english muffin with butter,189,5.8,4.9,30.4,12.6,0.8,1.6,102.7
+set1_133,savoury noodle one pan dinner tandaco,172,1.2,0.0,5.5,0.0,0.0,0.0,0.0
+set1_134,ham cheese sandwich,352,15.5,20.7,33.3,58.4,2.8,3.2,129.9
+set1_135,sweet gefilte fish,35,0.7,3.8,3.1,12.6,0.3,1.0,9.7
+set1_136,poached egg,72,4.7,6.3,0.4,185.0,0.0,0.9,28.0
+set1_137,tostada with beef cheese,315,16.3,19.0,22.8,40.8,2.6,2.9,216.8
+set1_138,tostada with beans cheese,223,9.9,9.6,26.5,30.2,1.3,1.9,210.2
+set1_139,pork tamale,247,12.8,10.4,22.4,28.4,0.0,1.2,106.5
+set1_140,nachos with cheese,274,17.2,3.5,27.9,2.4,0.2,0.029,0.05
+set1_141,pulled pork in barbecue sauce,418,11.0,32.8,46.7,87.2,0.5,3.1,109.6
+set1_142,baked potato with cheese sauce,474,28.7,14.6,46.5,17.8,26.0,3.0,310.8
+set1_143,baked beans,310,10.3,11.1,43.3,10.0,0.2,0.3,0.0
+set1_144,arroz con frijoles,220,5.6,6.8,35.6,0.0,0.0,2.3,54.0
+set1_145,taco with beef cheese lettuce,156,8.8,6.1,13.7,19.3,0.3,0.8,61.4
+set1_146,burrito with beans cheese beef,165,6.6,7.3,19.8,61.9,2.5,1.9,65.0
+set1_147,egg mix,30,2.2,2.4,0.098,81.5,0.034,0.055,0.078
+set1_148,falafel,57,3.0,2.3,5.4,0.0,0.01,0.002,0.0
+set1_149,taco salad with chili con carne,193,8.8,11.6,17.7,3.5,2.3,1.8,163.6
+set1_150,wonton wrappers,93,0.5,3.1,18.5,2.9,0.0,1.1,15.0
+set1_151,hushpuppies,512,20.5,11.7,69.9,68.4,0.3,4.6,422.6
+set1_152,chicken pot pie,598,34.6,14.6,57.3,51.3,3.0,1.8,63.4
+set1_153,general tsos chicken,1578,87.5,69.0,128.3,283.6,8.6,6.2,64.2
+set1_154,burrito with beans cheese,379,11.2,13.6,57.8,9.3,0.7,4.4,229.4
+set1_155,vegetarian fillets,247,15.3,19.6,7.7,0.0,0.0,1.7,80.8
+set1_156,biscuit with egg sausage,505,33.6,18.0,34.1,260.8,0.0,3.1,82.6
+set1_157,chicken chow mein,513,16.9,40.8,50.1,96.6,12.1,4.0,126.8
+set1_158,fruit burrito,231,9.5,2.5,35.0,3.7,0.7,1.1,15.5
+set1_159,arroz con leche,369,9.3,8.1,63.0,20.2,0.0,0.6,227.7
+set1_160,caramel custard flan,444,12.3,13.9,69.7,275.4,0.0,1.2,254.0
+set1_161,gelatin dessert,167,0.0,3.3,38.3,0.0,0.0,0.094,8.1
+set1_162,chocolate milk dessert,229,1.4,5.9,51.6,0.0,1.0,0.02,211.0
+set1_163,chocolate mousse,338,24.0,6.2,24.1,210.0,0.2,0.8,144.0
+set1_164,dulce de leche,60,1.4,1.3,10.5,5.5,0.5,0.001,47.7
+set1_165,apple crisp,454,9.7,4.9,87.0,0.0,6.2,2.3,98.7
+set1_166,spinach spaghetti cooked,182,0.9,6.4,36.6,0.0,0.0,1.5,42.0
+set1_167,corn pasta cooked,176,1.0,3.7,39.1,0.0,0.0,0.4,1.4
+set1_168,spaghetti with meat sauce,255,2.9,14.3,43.1,17.0,15.3,3.5,50.9
+set1_169,pasta with meatballs in tomato sauce,273,13.0,10.6,28.3,23.0,7.7,3.3,30.6
+set1_170,cheese tortellini,332,7.8,14.6,50.8,45.4,0.0,1.6,164.2
+set1_171,pasta with sliced franks in tomato sauce,227,6.0,11.0,32.0,22.7,9.6,2.3,151.2
+set1_172,lasagna,166,6.1,9.0,18.9,20.9,0.2,0.1,0.08
+set1_173,macaroni cheese,310,9.4,12.6,43.7,15.1,0.056,0.1,0.0
+set1_174,vegetable lasagna,316,13.7,15.6,32.2,31.8,2.5,1.2,340.5
+set1_175,spinach egg noodles cooked,211,2.5,8.1,38.8,52.8,0.0,1.7,30.4
+set1_176,cheese lasagna,316,13.0,15.9,33.6,31.6,41.6,3.1,269.7
+set1_177,pasta with tomato sauce,176,1.8,5.6,35.1,15.1,0.1,0.1,0.083
+set1_178,spinach pasta cooked,37,0.3,1.4,7.1,9.3,0.0,0.3,5.1
+set1_179,vegetable chicken soup,166,4.8,12.3,21.1,16.9,5.5,1.5,26.5
+set1_180,bean ham soup,198,2.5,10.3,33.5,4.9,2.7,2.5,93.1
+set1_181,cream of chicken soup,227,14.5,6.0,18.0,20.2,0.3,2.7,35.3
+set1_182,tomato soup canned,139,3.3,6.3,22.6,10.1,15.9,1.4,173.9
+set1_183,egg drop soup,65,1.5,2.8,10.3,55.4,15.7,0.6,16.9
+set1_184,scotch broth,197,6.4,12.1,23.0,11.9,2.1,2.0,35.8
+set1_185,cream of onion soup,268,12.8,6.7,31.7,36.6,3.1,1.5,82.4
+set1_186,chicken broth dry,10,0.2,0.7,1.1,0.6,0.07,0.059,9.1
+set1_187,vegetable soup with beef broth,162,3.8,6.0,26.3,2.5,4.7,1.9,34.4
+set1_188,chili with beans canned,287,14.1,14.6,30.5,43.5,4.4,8.8,120.3
+set1_189,beef noodle soup,168,6.2,9.6,17.9,10.0,0.8,2.2,30.0
+set1_190,consomme dry,17,0.2,2.2,1.9,0.0,0.2,0.2,12.5
+set1_191,chicken mushroom soup,126,6.1,2.0,15.1,10.1,0.0,0.9,29.0
+set1_192,beef vegetable soup,120,2.9,8.0,15.4,17.5,9.0,1.3,45.0
+set1_193,black bean soup,234,3.4,12.4,39.6,0.0,0.5,3.9,90.0
+set1_194,split pea soup with ham bacon,189,3.1,11.6,28.6,4.1,0.0,2.1,0.0
+set1_195,cream of mushroom soup,199,13.4,3.4,17.1,0.0,0.0,0.5,30.2
+set1_196,green pea soup,320,5.7,16.7,51.7,0.0,3.3,3.8,53.8
+set1_197,chicken broth soup,78,2.6,11.1,1.9,2.5,0.0,1.0,15.1
+set1_198,chicken mushroom chowder soup,431,23.7,16.2,38.3,32.3,10.8,2.6,0.0
+set1_199,chicken dumplings soup,235,13.4,13.6,14.7,80.5,0.0,1.5,35.8
+set1_200,chicken vegetable soup,148,5.6,7.1,17.0,16.9,1.9,1.7,33.9
+set1_201,turkey vegetable soup,72,3.0,3.1,8.6,2.4,0.0,0.8,16.9
+set1_202,wonton soup,71,0.6,4.6,11.7,8.9,1.6,0.5,11.2
+set1_203,beef stock,31,0.2,4.7,2.9,0.0,0.0,0.6,19.2
+set1_204,mushroom barley soup,186,5.5,4.6,29.3,0.0,0.0,1.2,30.5
+set1_205,gazpacho soup,70,0.4,10.7,6.6,0.0,10.7,1.5,36.9
+set1_206,beef mushroom soup,186,7.3,14.0,15.9,15.3,0.0,2.1,12.2
+set1_207,chicken rice soup,127,3.2,12.3,13.0,12.0,3.8,1.9,33.6
+set1_208,pepperpot soup,100,4.5,6.2,9.1,9.7,1.2,0.9,26.7
+set1_209,vegetable soup,149,4.0,4.3,24.6,0.0,3.0,2.2,42.8
+set1_210,chili beef soup,308,6.7,13.4,49.6,26.3,0.3,0.8,0.072
+set1_211,chicken soup,174,6.5,12.4,16.9,29.4,1.2,1.7,24.5
+set1_212,bean with frankfurters soup,188,7.0,10.0,22.0,12.5,1.0,2.4,87.5
+set1_213,pea soup,161,2.8,8.3,25.6,0.0,1.6,1.9,31.1
+set1_214,turkey soup,135,4.4,10.2,14.1,9.4,6.4,1.9,49.6
+set1_215,stockpot soup,201,7.8,9.8,23.1,7.7,4.1,1.8,43.9
+set1_216,hot sour soup,91,2.8,6.0,10.1,48.9,0.0,1.5,44.3
+set1_217,cheese soup,203,9.7,2.0,28.0,7.4,0.0,0.4,89.3
+set1_218,cream of potato soup,186,4.7,3.8,32.2,2.5,0.5,0.9,42.8
+set1_219,bean with bacon soup,106,2.1,5.5,16.4,2.7,1.1,1.3,55.7
+set1_220,fish stock,40,1.9,5.3,0.0,2.3,0.2,0.019,7.0
+set1_221,split pea soup with ham,381,8.9,20.7,56.2,16.2,3.0,4.6,43.2
+set1_222,beef broth soup,17,0.5,2.7,0.01,0.0,0.0,0.4,14.4
+set1_223,lentil soup with ham,139,2.8,9.3,20.2,7.4,4.2,2.7,42.2
+set1_224,tomato soup,98,0.7,2.2,22.5,0.0,19.1,0.9,19.2
+set1_225,fish broth,39,1.5,4.9,1.0,0.0,0.0,0.5,73.2
+set1_226,chili without beans canned,283,17.0,18.1,14.6,50.4,4.3,4.8,72.0
+set1_227,minestrone soup,167,5.0,8.6,22.6,2.5,2.2,1.8,68.9
+set1_228,clam chowder soup,154,4.4,4.4,24.5,5.0,8.1,3.3,47.9
+set1_229,tomato vegetable soup,54,0.8,1.9,9.9,0.0,2.9,0.6,19.6
+set1_230,cream of rice coup,127,0.2,2.2,28.1,0.0,0.0,0.5,7.3
+set1_231,cream of celery soup,181,11.2,3.3,17.7,27.7,0.5,1.3,80.6
+set1_232,chicken gravy,188,13.6,4.6,12.9,4.8,0.0,1.1,47.6
+set1_233,tomato rice soup,240,5.5,4.2,44.1,2.6,29.7,1.6,46.4
+set1_234,vegetable beef soup,128,2.0,18.1,9.6,8.8,0.0,0.0,0.0
+set1_235,tomato beef noodle soup,281,8.6,8.9,42.3,7.5,0.0,2.2,35.1
+set1_236,oyster stew soup,118,7.7,4.2,8.2,27.1,6.4,2.0,44.3
+set1_237,ramen noodle soup dry,371,13.3,8.9,53.9,0.0,0.3,3.4,24.7
+set1_238,chicken noodle soup,145,4.7,7.2,18.4,24.2,0.1,0.4,0.0
+set1_239,chicken bouillon dry,11,0.6,0.7,0.7,0.5,0.048,0.061,7.5
+set1_240,cream of asparagus soup,174,8.2,4.6,21.5,10.1,5.5,1.6,58.0
+set1_241,turkey noodle soup,139,4.0,7.8,17.3,10.1,0.3,1.9,22.7
+set1_242,cream of shrimp soup,181,10.4,5.6,16.5,32.8,0.0,1.1,35.3
+set1_243,bean with pork soup,335,11.5,15.3,44.1,5.2,3.1,4.0,156.0
+set1_244,chicken broth,12,0.5,1.0,1.0,0.0,16.5,0.5,14.1
+set1_245,beef broth powder,8,0.3,0.6,0.6,0.4,0.0,0.03,2.2
+set1_246,split pea soup,180,2.3,9.7,29.9,5.1,0.0,1.9,43.0
+set1_247,escarole soup,61,4.0,3.4,4.0,5.5,10.0,1.7,71.9
+set1_248,chicken stock,86,2.9,6.0,8.5,7.2,0.5,0.5,7.2
+set1_249,tomato bisque soup,248,5.0,4.5,47.7,10.3,11.9,1.7,80.0
+set1_250,shark fin soup,99,4.3,6.9,8.2,4.3,0.2,2.0,21.6
+set1_251,onion soup,113,3.5,7.5,16.4,0.0,2.5,1.4,54.1
+set1_252,chicken gumbo soup,113,2.9,5.3,16.8,7.6,10.1,1.8,47.9
+set1_253,crab soup,95,0.8,10.4,12.5,41.5,9.3,1.9,83.0
+set1_254,tripe soup,148,5.2,17.2,8.1,118.0,0.0,1.4,44.0
+set1_255,little india little lunch,164,10.6,0.0,2.0,0.0,0.0,0.0,0.0
+set1_256,original chicken sandwich chick fil a,125,5.1,0.0,0.0,0.0,0.0,0.0,0.0
+set1_257,sausage mcmuffin mcdonalds,383,24.2,14.6,28.2,44.9,0.0,2.3,257.6
+set1_258,sausage mcgriddles mcdonalds,421,24.0,11.4,42.2,32.4,0.0,1.9,85.1
+set1_259,crispy chicken drumstick kentucky fried chicken,70,3.0,10.6,0.0,56.2,0.0,0.4,6.6
+set1_260,chicken crispy drumsticks kentucky fried chicken,156,10.1,11.8,4.5,62.1,0.0,0.5,14.3
+set1_261,biscuit kentucky fried chicken,185,9.1,3.8,22.1,0.5,0.0,1.5,31.2
+set1_262,english muffin mcdonalds,97,2.3,5.7,2.9,20.7,0.0,13.1,0.08
+set1_263,french fries mcdonalds,378,18.1,4.0,49.8,0.0,0.4,0.1,0.003
+set1_264,hotdog,383,23.0,16.4,28.5,69.8,0.2,3.7,37.2
+set1_265,french fries burger king,207,9.2,2.4,28.6,0.0,0.2,0.005,0.083
+set1_266,original taco with beef cheese lettuce taco bell,158,8.8,6.1,13.7,19.3,0.3,0.8,61.4
+set1_267,hotdog with chili,296,13.4,13.5,31.3,51.3,2.7,3.3,19.4
+set1_268,chicken crispy wings kentucky fried chicken,148,10.1,9.2,5.1,47.1,0.0,0.3,15.4
+set1_269,egg white delight mcdonalds,250,16.0,0.0,0.0,0.0,0.0,0.0,0.0
+set1_270,french toast sticks burger king,73,3.7,1.3,8.7,0.0,0.0,0.4,11.1
+set1_271,mcchicken mcdonalds,358,17.3,13.7,36.6,35.4,0.0,0.1,0.0
+set1_272,nachos supreme taco bell,480,26.6,14.8,45.0,37.1,0.0,4.2,142.4
+set1_273,crispy chicken wing kentucky fried chicken,104,5.3,12.6,1.3,64.2,0.0,0.4,13.2
+set1_274,chicken strips burger king,105,5.5,6.6,7.4,15.8,0.1,0.005,0.046
+set1_275,crispy chicken breast kentucky fried chicken,214,6.7,38.2,0.4,121.8,0.0,0.7,28.0
+set1_276,sausage biscuit mcdonalds,440,29.7,11.3,31.8,33.9,0.0,2.4,64.4
+set1_277,sausage burrito mcdonalds,339,17.1,13.0,24.2,172.9,0.9,1.8,203.4
+set1_278,onion rings fried,27,1.6,0.3,2.8,0.0,0.055,0.038,7.5
+set1_279,onion rings burger king,379,23.0,3.5,39.7,0.0,1.3,0.7,104.7
+set1_280,turkey patty fried,79,5.0,3.9,4.4,21.0,0.0,0.6,3.9
+set1_281,hotcakes with syrup mcdonalds,601,17.8,9.0,101.8,19.9,0.0,2.8,126.0
+set1_282,crispy chicken thigh kentucky fried chicken,163,9.1,20.4,0.0,107.4,0.0,0.9,19.1
+set1_283,corn dog,195,9.4,6.7,21.0,34.3,0.059,0.1,0.086
+set1_284,chicken box mcdonalds,70,4.0,0.2,5.5,0.0,0.0,0.0,0.0
+set1_285,potato wedges kentucky fried chicken,379,19.8,5.4,45.0,0.0,0.0,1.4,34.8
+set1_286,scrambled eggs mcdonalds,98,7.5,7.7,0.9,217.8,0.0,1.1,33.7
+set1_287,egg mcmuffin mcdonalds,287,12.2,17.2,27.3,207.9,0.2,0.1,0.0
+set1_288,nachos taco bell,362,21.9,5.1,36.0,4.0,0.0,1.1,88.1
+set1_289,biscuit large mcdonalds,310,14.4,5.5,39.4,0.0,0.0,2.5,68.4
+set1_290,crispy chicken strips kentucky fried chicken,129,7.2,9.5,6.4,24.0,0.0,0.3,11.8
+set1_291,hotcakes mcdonalds,113,2.9,3.0,19.0,6.4,0.0,0.9,41.7
+set1_292,chicken crispy breast kentucky fried chicken,375,23.2,29.7,11.9,106.4,0.0,0.8,37.8
+set1_293,hotcakes sausage mcdonalds,776,34.9,15.5,102.4,50.2,0.0,3.2,134.6
+set1_294,chicken mcnuggets mcdonalds,48,3.2,2.5,2.4,7.0,0.072,0.017,0.0
+set1_295,chips chipotle,151,7.1,0.2,2.1,0.0,0.0,0.0,0.0
+set1_296,biscuit mcdonalds,261,12.2,4.7,33.3,0.0,0.0,2.1,57.8
+set1_297,rice bowl with chicken,36,0.4,1.6,6.4,4.5,0.8,0.008,3.7
+set1_298,spaghetti with meatballs,200,8.2,8.7,22.9,14.0,0.1,0.1,0.036
+set1_299,meat ravioli canned,259,8.9,8.9,36.0,13.1,0.0,2.8,34.1
+set1_300,cheese ravioli canned,186,3.5,6.0,33.0,7.3,0.0,1.8,79.9
+set1_301,premium crispy chicken ranch blt sandwich mcdonalds,586,22.9,35.3,59.8,72.0,10.3,3.4,84.0
+set1_302,steak sandwich,459,14.1,30.3,52.0,73.4,5.5,5.2,91.8
+set1_303,cheeseburger burger king,380,19.7,19.4,31.5,59.9,0.3,3.3,123.7
+set1_304,cheeseburger mcdonalds,313,14.0,15.4,33.1,41.7,0.7,2.8,198.7
+set1_305,double cheeseburger,643,36.9,37.0,41.0,114.0,0.5,0.2,0.054
+set1_306,double hamburger,942,58.6,52.1,51.4,172.0,0.4,0.4,0.094
+set1_307,premium grilled chicken classic sandwich mcdonalds,366,8.6,28.3,44.6,68.0,6.4,3.0,74.0
+set1_308,big n tasty with cheese mcdonalds,573,36.0,27.2,39.7,91.4,4.4,4.4,224.8
+set1_309,premium grilled chicken club sandwich mcdonalds,493,18.0,38.3,44.3,102.6,9.8,3.1,211.9
+set1_310,quarter pounder mcdonalds,417,19.8,24.1,37.9,66.7,1.5,4.1,143.6
+set1_311,premium crispy chicken classic sandwich mcdonalds,524,20.0,27.8,58.6,59.8,5.8,3.3,78.2
+set1_312,veggie burger,124,4.4,11.0,10.0,3.5,3.2,1.7,95.2
+set1_313,quarter pounder with cheese mcdonalds,513,28.3,29.0,39.7,93.5,1.6,4.2,286.6
+set1_314,beef sandwich steak raw,173,15.1,9.2,0.0,39.8,0.0,1.0,6.7
+set1_315,cheeseburger,292,13.2,15.0,28.7,41.4,1.1,0.1,0.04
+set1_316,premium grilled chicken ranch blt sandwich mcdonalds,412,10.9,33.7,44.3,76.8,9.9,3.0,76.8
+set1_317,double whopper with cheese burger king,1061,68.1,57.7,53.9,187.5,0.8,21.1,311.2
+set1_318,big mac mcdonalds,563,32.8,25.9,44.0,78.8,0.9,4.4,254.0
+set1_319,sandwich with cold cuts,833,39.3,41.1,79.9,105.6,0.8,0.5,0.023
+set1_320,filet o fish mcdonalds,378,19.6,15.1,35.4,42.9,0.4,2.1,160.8
+set1_321,hand breaded chicken tenders carls jr,57,2.9,0.0,0.2,0.0,0.0,0.0,0.0
+set1_322,grilled chicken sandwich wendys,370,8.0,0.0,0.0,0.0,0.0,0.0,0.0
+set1_323,sandwich with roast beef,410,13.0,28.6,44.3,73.4,5.6,2.8,41.0
+set1_324,hamburger burger king,258,10.4,14.7,26.5,34.7,0.056,0.1,0.049
+set1_325,big n tasty mcdonalds,524,31.7,24.7,38.5,76.6,4.4,4.4,150.8
+set1_326,roast beef sandwich,364,15.3,22.6,33.1,44.7,0.3,0.1,0.039
+set1_327,roast beef sandwich with cheese,473,18.0,32.2,45.4,77.4,0.0,5.1,183.0
+set1_328,hamburger,255,9.9,12.9,28.7,28.1,0.1,0.027,0.068
+set1_329,premium fish sandwich burger king,572,27.4,22.6,58.7,68.2,0.4,3.3,81.4
+set1_330,whopper burger king,790,48.4,35.4,52.8,113.8,0.6,6.3,259.1
+set1_331,sandwich with tuna salad,584,28.0,29.7,55.4,48.6,3.6,2.6,74.2
+set1_332,original chicken sandwich burger king,569,29.2,24.2,52.2,61.7,0.4,3.6,91.5
+set1_333,double whopper burger king,942,58.6,52.1,51.4,172.0,0.7,10.5,130.9
+set1_334,premium crispy chicken club sandwich mcdonalds,635,29.9,39.1,57.4,96.5,9.7,3.4,233.7
+set1_335,hamburger mcdonalds,251,9.6,12.3,28.8,25.7,0.0,0.049,0.0
+set1_336,pepperoni pizza dominos,308,12.6,12.7,36.0,28.3,0.9,2.6,159.3
+set1_337,sausage pizza,325,14.3,13.3,35.5,26.7,0.099,0.1,0.078
+set1_338,pepperoni pizza,313,13.2,13.0,35.5,27.8,0.093,0.1,0.05
+set1_339,pepperoni pizza pizza hut,269,10.9,12.3,30.3,25.0,0.0,2.1,148.8
+set1_340,cheese pizza pizza hut,260,10.5,11.5,30.0,23.0,0.0,1.9,200.6
+set1_341,cheese pizza,285,10.4,12.2,35.7,18.2,0.066,0.1,0.082
+set1_342,cheese pizza dominos,278,9.7,11.7,35.9,18.4,1.0,2.5,180.4
+set1_343,meat vegetable pizza,332,14.8,15.0,34.5,36.7,0.1,2.5,163.2
+set1_344,sucker raw,146,3.7,26.6,0.0,65.2,0.0,2.1,111.3
+set1_345,northern pike raw,348,2.7,76.3,0.0,154.4,15.0,2.2,225.7
+set1_346,haddock cooked,135,0.8,30.0,0.0,99.0,0.0,0.3,21.0
+set1_347,burbot cooked,104,0.9,22.3,0.0,69.3,0.0,1.0,57.6
+set1_348,pollock cooked,356,3.8,75.3,0.0,274.8,0.0,1.8,232.5
+set1_349,rainbow smelt raw,27,0.7,5.0,0.0,19.8,0.0,0.3,17.0
+set1_350,whitefish cooked,265,11.6,37.7,0.0,118.6,0.0,0.7,50.8
+set1_351,walleye pike raw,148,1.9,30.4,0.0,136.7,0.0,2.1,174.9
+set1_352,carp cooked,275,12.2,38.9,0.0,142.8,2.7,2.7,88.4
+set1_353,wolffish cooked,293,7.3,53.4,0.0,140.4,0.0,0.3,19.0
+set1_354,snapper cooked,218,2.9,44.7,0.0,79.9,2.7,0.4,68.0
+set1_355,roe cooked,58,2.3,8.1,0.5,135.6,4.6,0.2,7.9
+set1_356,anchovy raw,37,1.4,5.8,0.0,17.0,0.0,0.9,41.6
+set1_357,herring raw,291,16.6,33.0,0.0,110.4,1.3,2.0,104.9
+set1_358,cod raw,189,1.5,41.1,0.0,99.3,2.3,0.9,37.0
+set1_359,tilapia raw,111,2.0,23.3,0.0,58.0,0.0,0.6,11.6
+set1_360,whiting cooked,84,1.2,16.9,0.0,60.5,0.0,0.3,44.6
+set1_361,skipjack tuna cooked,407,4.0,86.9,0.0,184.8,3.1,4.9,114.0
+set1_362,salmon cooked,733,44.0,78.7,0.0,224.3,13.2,1.2,53.4
+set1_363,chum salmon cooked,474,14.9,79.5,0.0,292.6,0.0,2.2,43.1
+set1_364,american shad cooked,363,25.4,31.3,0.0,138.2,0.0,1.8,86.4
+set1_365,shark cooked,65,3.9,5.3,1.8,16.7,0.0,0.3,14.2
+set1_366,trout cooked,118,5.3,16.5,0.0,45.9,0.3,1.2,34.1
+set1_367,swordfish raw,196,9.0,26.7,0.0,89.8,0.0,0.5,6.8
+set1_368,rainbow trout cooked,119,5.2,16.9,0.0,49.7,0.3,0.093,0.003
+set1_369,fish sandwich with cheese,374,19.6,15.1,35.4,49.6,2.0,2.1,160.8
+set1_370,jellyfish dried,21,0.8,3.2,0.0,2.9,0.0,1.3,1.2
+set1_371,mullet raw,139,4.5,23.0,0.0,58.3,1.4,1.2,48.8
+set1_372,halibut cooked,353,5.1,71.7,0.0,190.8,2.0,0.095,0.0
+set1_373,lingcod raw,213,2.7,44.2,0.0,130.0,0.0,0.8,35.0
+set1_374,orange roughy cooked,30,0.3,6.4,0.0,22.6,0.0,0.3,3.1
+set1_375,cisco raw,77,1.5,15.0,0.0,39.5,0.0,0.3,9.5
+set1_376,florida pompano cooked,186,10.7,20.8,0.0,56.3,0.0,0.6,37.8
+set1_377,snapper raw,218,2.9,44.7,0.0,80.7,3.5,0.4,69.8
+set1_378,fish sandwich,565,27.4,22.6,58.7,77.0,0.2,0.2,0.0
+set1_379,haddock raw,143,0.9,31.5,0.0,104.2,0.0,0.3,21.2
+set1_380,ocean perch raw,51,1.0,9.8,0.0,33.3,0.0,0.1,17.9
+set1_381,cuttlefish cooked,45,0.4,9.2,0.5,63.4,2.4,3.1,50.9
+set1_382,cod cooked,189,1.5,41.1,0.0,99.0,1.8,0.9,25.2
+set1_383,seatrout raw,248,8.6,39.8,0.0,197.5,0.0,0.6,40.5
+set1_384,flounder raw,114,3.1,20.2,0.0,73.4,0.0,0.3,34.2
+set1_385,spot cooked,79,3.1,11.9,0.0,38.5,0.0,0.2,9.0
+set1_386,walleye pike cooked,148,1.9,30.4,0.0,136.4,0.0,2.1,174.8
+set1_387,perch raw,55,0.6,11.6,0.0,54.0,1.0,0.5,48.0
+set1_388,pumpkin seed sunfish raw,43,0.3,9.3,0.0,32.2,0.5,0.6,38.4
+set1_389,salt mackerel,415,34.1,25.2,0.0,129.2,0.0,1.9,89.8
+set1_390,mackerel cooked,231,15.7,21.0,0.0,66.0,0.4,1.4,13.2
+set1_391,tilapia cooked,111,2.3,22.8,0.0,49.6,0.0,0.6,12.2
+set1_392,drum raw,236,9.8,34.7,0.0,126.7,2.0,1.8,118.8
+set1_393,atlantic croaker fried,192,11.0,15.8,6.6,73.1,0.0,0.7,27.8
+set1_394,pumpkin seed sunfish cooked,42,0.3,9.2,0.0,31.8,0.4,0.6,38.1
+set1_395,wolffish raw,294,7.3,53.6,0.0,140.8,0.0,0.3,18.4
+set1_396,bluefin tuna cooked,276,9.4,44.9,0.0,73.5,0.0,2.0,15.0
+set1_397,scup cooked,68,1.8,12.1,0.0,33.5,0.0,0.3,25.5
+set1_398,herring cooked,290,16.6,32.9,0.0,110.1,1.0,2.0,105.8
+set1_399,bluefish raw,186,6.4,30.1,0.0,88.5,0.0,0.7,10.5
+set1_400,sheepshead cooked,234,3.0,48.4,0.0,119.0,0.0,1.2,68.8
+set1_401,bass cooked,91,2.9,15.0,0.0,53.9,1.3,1.2,63.9
+set1_402,pout cooked,279,3.2,58.4,0.0,183.6,0.0,1.0,35.6
+set1_403,chinook salmon raw,709,41.3,78.9,0.0,198.0,15.8,1.0,103.0
+set1_404,rockfish raw,172,2.6,35.1,0.0,95.5,0.0,0.6,26.7
+set1_405,tilefish raw,371,8.9,67.6,0.0,193.0,0.0,1.0,100.4
+set1_406,scup raw,174,4.5,31.3,0.0,86.3,0.0,0.9,66.4
+set1_407,sablefish cooked,755,59.3,51.9,0.0,190.3,0.0,5.0,135.9
+set1_408,tuna salad,383,19.0,32.9,19.3,26.7,4.5,2.1,34.9
+set1_409,coho salmon cooked,255,11.8,34.7,0.0,90.1,2.1,0.6,17.2
+set1_410,roe raw,20,0.9,3.1,0.2,52.4,2.2,0.085,3.1
+set1_411,sea bass raw,125,2.6,23.8,0.0,52.9,0.0,0.4,12.9
+set1_412,pink salmon cooked,349,12.0,56.0,0.0,125.4,1.6,0.2,0.066
+set1_413,sockeye salmon cooked,493,17.3,82.1,0.0,189.1,2.6,0.2,0.089
+set1_414,whitefish raw,265,11.6,37.8,0.0,118.8,0.0,0.7,51.5
+set1_415,greenland halibut cooked,760,56.4,58.6,0.0,187.6,0.0,2.7,12.7
+set1_416,northern pike cooked,350,2.7,76.5,0.0,155.0,11.8,2.2,226.3
+set1_417,salmon raw,824,53.1,80.9,0.0,217.8,15.4,1.3,35.6
+set1_418,turbot cooked,388,12.0,65.4,0.0,197.2,5.4,1.5,73.1
+set1_419,surimi,28,0.3,4.3,1.9,8.5,0.0,0.057,2.5
+set1_420,chinook salmon cooked,711,41.2,79.2,0.0,261.8,12.6,2.8,86.2
+set1_421,mullet cooked,140,4.5,23.1,0.0,58.6,1.1,1.3,28.8
+set1_422,chum salmon raw,3,0.1,0.6,0.0,2.1,0.0,0.038,0.3
+set1_423,butterfish raw,47,2.6,5.5,0.0,20.8,0.0,0.2,7.0
+set1_424,sea bass cooked,125,2.6,23.9,0.0,53.5,0.0,0.4,13.1
+set1_425,greenland halibut raw,759,56.5,58.6,0.0,187.7,0.0,2.7,12.2
+set1_426,halibut raw,371,5.4,75.7,0.0,199.9,0.0,0.7,28.6
+set1_427,sturgeon cooked,184,7.0,28.2,0.0,104.7,0.0,1.2,23.1
+set1_428,fish fillet fried,211,11.2,13.3,15.4,30.9,0.0,1.9,16.4
+set1_429,rainbow trout raw,111,4.9,15.8,0.0,46.6,2.3,0.2,19.8
+set1_430,pout raw,278,3.2,58.6,0.0,183.0,0.0,1.0,35.2
+set1_431,rainbow smelt cooked,35,0.9,6.4,0.0,25.5,0.0,0.3,21.8
+set1_432,monkfish raw,22,0.4,4.1,0.0,7.1,0.3,0.059,2.3
+set1_433,trout raw,117,5.2,16.4,0.0,45.8,0.4,1.2,34.0
+set1_434,shark raw,37,1.3,5.9,0.0,14.4,0.0,0.2,9.6
+set1_435,burbot raw,104,0.9,22.4,0.0,69.6,0.0,1.0,58.0
+set1_436,dolphinfish cooked,173,1.4,37.7,0.0,149.5,0.0,2.3,30.2
+set1_437,crayfish cooked,25,0.4,5.0,0.0,38.8,0.1,0.3,14.4
+set1_438,dolphinfish raw,173,1.4,37.7,0.0,148.9,0.0,2.3,30.6
+set1_439,perch cooked,54,0.5,11.4,0.0,52.9,0.8,0.5,46.9
+set1_440,cusk raw,106,0.8,23.2,0.0,50.0,0.0,1.0,12.2
+set1_441,bluefin tuna raw,41,1.4,6.6,0.0,10.8,0.0,0.3,2.3
+set1_442,milkfish cooked,54,2.4,7.4,0.0,19.0,0.0,0.1,18.4
+set1_443,carp raw,277,12.2,38.9,0.0,143.9,3.5,2.7,89.4
+set1_444,sturgeon raw,30,1.1,4.6,0.0,17.0,0.0,0.2,3.7
+set1_445,orange roughy raw,22,0.2,4.6,0.0,17.0,0.0,0.3,2.5
+set1_446,catfish fried,199,11.6,15.7,7.0,61.8,0.0,1.2,38.3
+set1_447,cuttlefish raw,22,0.2,4.6,0.2,31.7,1.5,1.7,25.5
+set1_448,bass raw,90,2.9,14.9,0.0,53.7,1.6,1.2,63.2
+set1_449,flounder cooked,109,3.0,19.4,0.0,71.1,0.1,0.099,0.1
+set1_450,milkfish raw,42,1.9,5.8,0.0,14.7,0.0,0.057,14.4
+set1_451,eel raw,375,23.8,37.6,0.0,257.0,3.7,1.0,40.8
+set1_452,catfish raw,189,9.4,24.2,0.0,87.5,0.0,0.4,12.7
+set1_453,fish sticks,78,4.5,3.1,6.1,7.8,0.038,0.3,0.089
+set1_454,coho salmon raw,254,12.2,33.8,0.0,81.1,1.7,0.5,19.1
+set1_455,monkfish cooked,27,0.6,5.3,0.0,9.1,0.3,0.1,2.8
+set1_456,yellowtail cooked,546,19.6,86.6,0.0,207.3,8.5,1.8,84.7
+set1_457,yellowfin tuna cooked,37,0.2,8.2,0.0,13.3,0.0,0.3,1.1
+set1_458,ling cooked,168,1.2,36.8,0.0,77.0,0.0,1.3,66.4
+set1_459,eel cooked,67,4.2,6.7,0.0,45.6,0.5,0.2,7.4
+set1_460,sablefish raw,753,59.1,51.8,0.0,189.1,0.0,4.9,135.1
+set1_461,salmon nuggets,60,3.3,3.6,4.0,7.4,0.0,0.4,2.3
+set1_462,yellowtail raw,546,19.6,86.5,0.0,205.7,10.5,1.8,86.0
+set1_463,butterfish cooked,47,2.6,5.5,0.0,20.8,0.0,0.2,7.0
+set1_464,caviar,42,2.9,3.9,0.6,94.1,0.0,1.9,44.0
+set1_465,pollock raw,355,3.8,75.0,0.0,274.1,0.0,1.8,231.6
+set1_466,catfish cooked,206,10.3,26.4,0.0,94.4,0.3,0.098,0.01
+set1_467,whiting raw,83,1.2,16.8,0.0,61.6,0.0,0.3,44.2
+set1_468,pink salmon raw,404,14.0,65.2,0.0,146.3,0.0,1.2,22.3
+set1_469,yellowfin tuna raw,31,0.1,6.9,0.0,11.0,0.0,0.2,1.1
+set1_470,mackerel raw,230,15.6,20.8,0.0,78.4,0.4,1.8,13.4
+set1_471,turbot raw,388,12.0,65.5,0.0,195.8,6.9,1.5,73.4
+set1_472,cusk cooked,106,0.8,23.1,0.0,50.4,0.0,1.0,12.4
+set1_473,atlantic croaker raw,82,2.5,14.0,0.0,48.2,0.0,0.3,11.9
+set1_474,sucker cooked,148,3.7,26.6,0.0,65.7,0.0,2.1,111.6
+set1_475,spot raw,79,3.1,11.8,0.0,38.4,0.0,0.2,9.0
+set1_476,drum cooked,236,9.7,34.6,0.0,126.3,1.5,1.8,118.6
+set1_477,crayfish raw,3,0.048,0.6,0.0,4.3,0.078,0.053,1.0
+set1_478,tilefish cooked,441,14.1,73.5,0.0,192.0,0.0,0.9,78.0
+set1_479,bluefish cooked,186,6.4,30.1,0.0,88.9,0.0,0.7,10.5
+set1_480,grouper cooked,238,2.6,50.2,0.0,94.9,0.0,2.3,42.4
+set1_481,sheepshead raw,257,5.7,48.1,0.0,119.0,0.0,1.1,50.0
+set1_482,herring kippered,87,4.9,9.8,0.0,32.8,0.4,0.6,33.6
+set1_483,grouper raw,238,2.6,50.2,0.0,95.8,0.0,2.3,69.9
+set1_484,ocean perch cooked,48,0.9,9.3,0.0,31.5,0.021,0.073,0.069
+set1_485,ling raw,168,1.2,36.7,0.0,77.2,0.0,1.3,65.6
+set1_486,lingcod cooked,329,4.1,68.4,0.0,202.3,0.0,1.2,54.4
+set1_487,florida pompano raw,184,10.6,20.7,0.0,56.0,0.0,0.7,24.6
+set1_488,rockfish cooked,162,2.4,33.1,0.0,90.9,0.4,0.046,0.0
+set1_489,seatrout cooked,247,8.6,39.9,0.0,197.2,0.0,0.7,40.9
+set1_490,sockeye salmon raw,562,22.2,84.4,0.0,209.9,0.0,1.7,39.6
+set1_491,swordfish cooked,182,8.4,24.9,0.0,82.7,0.7,0.045,0.022
+set1_492,american shad raw,362,25.3,31.2,0.0,138.0,0.0,1.8,86.5
+set1_493,sardine canned in oil,310,17.1,36.7,0.0,211.6,0.0,4.4,569.2
+set1_494,anchovy canned in oil,8,0.4,1.2,0.0,3.4,0.0,0.2,9.3
+set1_495,salmon canned,520,20.3,79.1,0.0,143.9,0.0,2.6,918.8
+set1_496,sardines in tomato sauce canned,165,9.3,18.6,0.5,54.3,0.9,2.0,213.6
+set1_497,sockeye salmon canned,563,24.9,79.5,0.0,266.2,0.0,2.2,781.8
+set1_498,tuna canned,102,2.4,18.9,0.0,33.6,0.0,0.8,11.2
+set1_499,pink salmon canned,530,20.4,80.9,0.0,226.1,0.0,2.6,883.7
+set1_500,cod canned,328,2.7,71.0,0.0,171.6,3.1,1.5,65.5
+set1_501,eastern oyster canned,110,4.0,11.4,6.3,89.1,8.1,10.9,72.9
+set1_502,chum salmon canned,520,20.3,79.1,0.0,143.9,0.0,2.6,918.8
+set1_503,tuna canned in oil,331,14.4,47.2,0.0,55.2,0.0,1.2,7.1
+set1_504,wild pink salmon oceans,320,16.0,0.0,0.0,0.0,0.0,0.0,0.0
+set1_505,shrimp canned,128,1.7,26.1,0.0,322.6,5.2,2.7,185.6
+set1_506,alaska king crab raw,144,1.0,31.5,0.0,72.2,12.0,1.0,79.1
+set1_507,scallops fried,64,3.2,2.6,6.4,18.0,0.0,0.3,3.1
+set1_508,shrimp cooked,7,0.092,1.3,0.013,11.6,0.0,0.009,5.0
+set1_509,clams fried,19,1.0,1.3,1.0,5.7,0.9,1.3,5.9
+set1_510,alaska king crab cooked,130,2.1,25.9,0.0,71.0,10.2,1.0,79.1
+set1_511,scallops cooked,11,0.058,2.1,0.5,4.1,0.032,0.057,0.0
+set1_512,squid fried,140,6.0,14.4,6.2,208.0,3.4,0.8,31.2
+set1_513,oyster raw,41,1.2,4.7,2.5,25.0,4.0,2.6,4.0
+set1_514,abalone,89,0.6,14.5,5.1,72.3,1.7,2.7,26.4
+set1_515,queen crab raw,25,0.3,5.2,0.0,15.6,2.0,0.7,7.4
+set1_516,whelk cooked,78,0.2,13.5,4.4,36.8,1.9,2.8,32.0
+set1_517,oyster cooked,41,1.2,4.7,2.5,25.0,3.2,2.3,4.0
+set1_518,eastern oyster cooked,8,0.2,0.7,0.7,3.7,0.6,0.8,5.5
+set1_519,blue mussels cooked,344,9.0,47.6,14.8,112.0,27.2,13.4,66.0
+set1_520,octopus raw,23,0.3,4.2,0.6,13.6,1.4,1.5,15.0
+set1_521,spiny lobster cooked,233,3.2,43.0,5.1,146.7,3.4,2.3,102.7
+set1_522,blue mussels raw,129,3.4,17.9,5.5,42.0,12.0,5.9,39.0
+set1_523,queen crab cooked,98,1.3,20.2,0.0,60.4,6.1,2.4,28.1
+set1_524,dungeness crab cooked,140,1.6,28.3,1.2,96.5,4.6,0.5,74.9
+set1_525,dungeness crab raw,140,1.6,28.4,1.2,96.2,5.7,0.6,75.0
+set1_526,shrimp fried,52,3.2,1.3,4.8,9.9,0.0,0.1,4.9
+set1_527,shrimp raw,4,0.023,0.7,0.041,6.3,0.0,0.072,2.7
+set1_528,blue crab cooked,71,0.6,15.2,0.0,82.5,0.1,0.7,0.027
+set1_529,shrimp imitation,29,0.4,3.5,2.6,10.2,0.0,0.2,5.4
+set1_530,conch baked,165,1.5,33.4,2.2,82.6,0.0,1.8,124.5
+set1_531,squid raw,26,0.4,4.4,0.9,65.9,1.3,0.2,9.1
+set1_532,scallop raw,10,0.091,1.8,0.5,3.6,0.0,0.068,0.9
+set1_533,lobster raw,116,1.1,24.8,0.0,190.5,0.0,0.4,126.0
+set1_534,scallop imitation,28,0.1,3.6,3.0,6.2,0.0,0.058,2.3
+set1_535,blue crab raw,18,0.2,3.8,0.018,16.4,0.6,0.2,18.7
+set1_536,whelk raw,39,0.1,6.7,2.2,18.4,1.1,1.4,16.1
+set1_537,spiny lobster raw,234,3.2,43.1,5.1,146.3,4.2,2.5,102.4
+set1_538,clams canned,227,2.5,38.8,9.4,80.0,0.0,4.3,104.0
+set1_539,lobster cooked,134,1.3,28.5,0.0,219.0,0.2,2.3,0.0
+set1_540,eastern oyster fried,29,1.8,1.3,1.7,10.4,0.6,1.0,9.1
+set1_541,clams raw,195,2.2,33.3,8.1,68.1,0.0,3.7,88.5
+set1_542,octopus cooked,139,1.8,25.3,3.7,81.6,6.8,8.1,90.1
+set1_543,eastern oyster raw,8,0.2,0.7,0.8,3.5,0.7,0.8,6.2
+set1_544,oyster fried,61,3.0,2.1,6.7,18.1,0.7,0.7,4.6
+set1_545,sturgeon smoked,49,1.2,8.8,0.0,22.6,0.0,0.3,4.8
+set1_546,chinook salmon smoked,159,5.9,24.9,0.0,31.3,0.0,1.2,15.0
+set1_547,cisco smoked,50,3.4,4.6,0.0,9.1,0.0,0.1,7.4
+set1_548,haddock smoked,33,0.3,7.1,0.0,21.8,0.0,0.4,13.9
+set1_549,whitefish smoked,147,1.3,31.8,0.0,44.9,0.0,0.7,24.5
+set1_550,red salmon sockeye filets smoked,373,12.3,65.5,0.0,167.4,0.0,1.1,62.6
+set2_0,eggnog,224,10.6,11.6,20.4,149.9,3.8,0.5,330.2
+set2_1,beer light,96,0.0,0.8,5.4,0.0,0.0,0.014,13.2
+set2_2,beer budweiser,12,0.0,0.1,0.9,0.0,0.0,0.0,1.2
+set2_3,weizenbier erdinger,220,18.0,0.0,0.0,0.0,0.0,0.0,0.0
+set2_4,beer light budweiser,9,0.0,0.066,0.4,0.0,0.0,0.0,0.9
+set2_5,beer,142,0.0,1.5,11.7,0.0,0.0,0.031,13.2
+set2_6,root beer,202,0.0,0.0,52.3,0.0,0.0,0.037,0.0
+set2_7,whiskey sour mix,26,0.072,0.051,6.3,0.0,0.8,0.047,0.6
+set2_8,whiskey sour,158,0.0,0.0,13.9,0.0,1.7,0.047,1.1
+set2_9,tequila sunrise,232,0.2,0.6,23.8,0.0,40.7,0.038,0.0
+set2_10,daiquiri,112,0.036,0.035,4.2,0.0,1.0,0.033,1.8
+set2_11,pina colada,245,2.7,0.6,32.0,0.0,0.019,0.1,0.08
+set2_12,whiskey,58,0.0,0.0,0.1,0.0,0.0,0.072,0.0
+set2_13,rum,49,0.0,0.0,0.0,0.0,0.0,0.045,0.0
+set2_14,vodka smirnoff,13,0.4,0.0,2.0,0.0,0.0,0.0,0.0
+set2_15,coffee liqueur,96,0.038,0.041,13.8,0.0,0.0,0.02,0.3
+set2_16,gin,53,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+set2_17,dessert wine sweet,165,0.0,0.2,14.1,0.0,0.0,0.2,8.2
+set2_18,chenin blanc white wine,118,0.0,0.1,4.9,0.0,0.0,0.0,0.0
+set2_19,gamay red wine,115,0.0,0.1,3.5,0.0,0.0,0.0,0.0
+set2_20,late harvest white wine,172,0.0,0.1,20.6,0.0,0.0,0.0,0.0
+set2_21,gewurztraminer white wine,119,0.0,0.1,3.8,0.0,0.0,0.0,0.0
+set2_22,burgundy red wine,172,0.0,0.1,7.4,0.0,0.0,0.0,0.0
+set2_23,zinfandel red wine,129,0.0,0.1,4.2,0.0,0.0,0.0,0.0
+set2_24,muller thurgau white wine,112,0.0,0.1,5.2,0.0,0.0,0.0,0.0
+set2_25,mouvedre red wine,129,0.0,0.1,3.9,0.0,0.0,0.0,0.0
+set2_26,table wine,123,0.0,0.1,4.0,0.0,0.0,0.5,11.8
+set2_27,wine light,73,0.0,0.1,1.7,0.0,0.0,0.6,13.3
+set2_28,white wine,121,0.0,0.1,3.8,0.0,0.0,0.4,13.2
+set2_29,petite sirah red wine,125,0.0,0.1,3.9,0.0,0.0,0.0,0.0
+set2_30,non alcoholic wine,2,0.0,0.1,0.3,0.0,0.0,0.1,2.7
+set2_31,pinot noir red wine,121,0.0,0.1,3.4,0.0,0.0,0.0,0.0
+set2_32,pinot gris grigio white wine,122,0.0,0.1,3.0,0.0,0.0,0.0,0.0
+set2_33,riesling white wine,118,0.0,0.1,5.5,0.0,0.0,0.0,0.0
+set2_34,barbera red wine,170,0.0,0.1,5.6,0.0,0.0,0.0,0.0
+set2_35,lemberger red wine,118,0.0,0.1,3.6,0.0,0.0,0.0,0.0
+set2_36,merlot red wine,122,0.0,0.1,3.7,0.0,0.0,0.7,11.8
+set2_37,sangiovese red wine,126,0.0,0.1,3.9,0.0,0.0,0.0,0.0
+set2_38,sauvignon blanc white wine,119,0.0,0.1,3.0,0.0,0.0,0.0,0.0
+set2_39,syrah red wine,122,0.0,0.1,3.8,0.0,0.0,0.0,0.0
+set2_40,carignane red wine,370,0.0,0.4,12.0,0.0,0.0,0.0,0.0
+set2_41,pinot blanc white wine,119,0.0,0.1,2.9,0.0,0.0,0.0,0.0
+set2_42,semillon white wine,121,0.0,0.1,4.6,0.0,0.0,0.0,0.0
+set2_43,dessert wine dry,760,0.0,1.0,58.4,0.0,0.0,0.2,0.0
+set2_44,red wine,125,0.0,0.1,3.8,0.0,0.0,0.7,11.8
+set2_45,cabernet sauvignon red wine,166,0.0,0.1,5.2,0.0,0.0,0.0,0.0
+set2_46,muscat white wine,123,0.0,0.1,7.8,0.0,0.0,0.0,0.0
+set2_47,cooking wine,2,0.0,0.028,0.3,0.0,0.0,0.1,0.4
+set2_48,chardonnay white wine,168,0.0,0.1,4.3,0.0,0.0,0.5,18.0
+set2_49,claret red wine,122,0.0,0.1,4.4,0.0,0.0,0.0,0.0
+set2_50,rice sake,197,0.0,0.7,7.4,0.0,0.0,0.1,7.4
+set2_51,fume blanc white wine,121,0.0,0.1,3.3,0.0,0.0,0.0,0.0
+set2_52,cabarnet franc red wine,122,0.0,0.1,3.6,0.0,0.0,0.0,0.0
+set2_53,chocolate frosting,81,3.6,0.2,13.0,0.0,0.0,0.3,1.6
+set2_54,white sugar,19,0.0,0.0,5.0,0.0,0.0,0.078,0.046
+set2_55,egg substitute,115,0.0,24.0,4.8,0.0,1.2,4.8,175.2
+set2_56,agave syrup,21,0.081,0.025,5.3,0.0,0.0,0.042,0.088
+set2_57,splenda sweetener,336,0.0,0.0,91.2,0.0,0.0,0.0,0.0
+set2_58,vanilla extract,12,0.069,0.0,0.5,0.0,0.0,0.019,0.5
+set2_59,egg yolk dried,27,2.3,1.3,0.054,92.3,0.0,0.4,12.3
+set2_60,granulated sugar,16,0.0,0.0,4.2,0.0,0.0,0.01,0.027
+set2_61,baking chocolate,145,15.2,3.7,8.7,0.0,0.0,5.0,29.3
+set2_62,bakers yeast,18,0.3,1.4,3.1,0.0,0.04,0.6,3.2
+set2_63,fondant,106,0.009,0.0,26.4,0.0,0.0,0.09,0.8
+set2_64,brown sugar,16,0.0,0.024,4.1,0.0,0.0,0.071,3.5
+set2_65,white frosting dry,768,0.0,4.8,196.4,0.0,0.0,0.2,8.3
+set2_66,maple sugar,42,0.061,0.036,10.9,0.0,0.0,0.2,10.8
+set2_67,fructose sweetener,15,0.0,0.0,4.2,0.0,0.0,0.067,0.0
+set2_68,saccharin sweetener,360,0.0,0.9,89.1,0.0,0.0,0.058,0.0
+set2_69,egg white raw,17,0.063,3.6,0.2,0.0,0.0,0.045,2.3
+set2_70,turbinado sugar,18,0.0,0.0,4.6,0.0,0.0,0.018,0.6
+set2_71,vanilla frosting,1931,75.0,0.0,313.7,0.0,0.0,0.7,13.9
+set2_72,aspartame sweetener,365,0.0,2.2,89.1,0.0,0.0,0.022,0.0
+set2_73,egg raw,80,5.3,7.0,0.4,208.3,0.0,1.0,31.4
+set2_74,pineapple topping,860,0.3,0.3,225.8,0.0,10.5,0.4,20.4
+set2_75,egg white dried,26,0.087,5.8,0.3,0.0,0.0,0.028,6.2
+set2_76,egg yolk raw,55,4.5,2.7,0.6,184.5,0.0,0.5,21.9
+set2_77,baking soda,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+set2_78,egg dried,30,2.2,2.4,0.047,81.5,0.0,0.2,11.8
+set2_79,strawberry topping,53,0.096,0.014,13.9,0.0,2.9,0.014,1.3
+set2_80,bakers yeast dry,13,0.3,1.6,1.6,0.0,0.038,0.051,1.2
+set2_81,almond paste,1040,63.0,20.4,108.5,0.0,0.2,3.6,390.4
+set2_82,cream of tartar,8,0.0,0.0,1.8,0.0,0.0,0.1,0.2
+set2_83,popover dry mix,631,7.3,17.7,120.7,0.0,0.2,5.0,54.4
+set2_84,egg substitute powder,126,3.7,15.7,6.2,161.9,0.2,0.9,92.3
+set2_85,gelatin powder,17,0.086,4.3,0.0,0.0,0.0,0.099,2.8
+set2_86,tapioca pearls,544,0.093,0.3,134.8,0.0,0.0,2.4,30.4
+set2_87,baking powder,2,0.0,0.0,1.3,0.0,0.0,0.5,270.3
+set2_88,egg boiled,93,6.4,7.5,0.7,223.8,0.0,0.7,30.0
+set2_89,millet flour,444,5.1,12.8,86.9,0.0,0.0,4.7,16.7
+set2_90,triticale flour,439,2.4,17.1,95.1,0.0,0.0,3.4,45.5
+set2_91,corn flour white,414,4.2,9.6,87.3,0.0,0.0,1.7,157.3
+set2_92,rice flour brown,574,4.4,11.4,120.8,0.0,0.0,3.1,17.4
+set2_93,sorghum flour,437,4.0,9.5,93.7,0.0,0.0,3.6,14.5
+set2_94,cornmeal whole grain,442,4.4,9.9,93.8,0.0,0.0,4.2,7.3
+set2_95,cornmeal white,581,2.7,11.2,124.7,0.0,0.0,1.7,4.7
+set2_96,barley flour,511,2.4,15.5,110.3,0.0,0.0,4.0,47.4
+set2_97,safflower seed meal,97,0.7,10.1,13.8,0.0,0.0,1.4,21.8
+set2_98,sesame flour,658,46.4,38.5,33.3,0.0,0.0,19.0,198.8
+set2_99,whole grain wheat flour,408,3.0,15.9,86.4,0.0,0.0,4.3,40.8
+set2_100,corn flour yellow,422,4.5,8.1,89.9,0.0,0.0,2.8,8.2
+set2_101,corn flour whole grain,422,4.5,8.1,89.9,0.0,0.0,2.8,8.2
+set2_102,cottonseed flour low fat,94,0.4,14.1,10.2,0.0,0.7,3.6,134.1
+set2_103,sunflower seed flour,13,0.013,1.9,1.4,0.0,0.003,0.3,4.6
+set2_104,sesame meal,160,13.6,4.8,7.4,0.0,0.0,4.1,43.3
+set2_105,acorn flour,626,37.7,9.4,68.3,0.0,0.0,1.5,53.8
+set2_106,rice flour white,578,2.2,9.4,126.6,0.0,0.0,0.6,15.8
+set2_107,sesame flour low fat,94,0.5,14.2,10.0,0.0,0.0,4.0,42.2
+set2_108,potato flour,571,0.5,11.0,133.0,0.0,1.2,0.3,0.0
+set2_109,cornmeal yellow,581,2.7,11.2,124.7,0.0,0.0,1.7,4.7
+set2_110,rye flour,364,1.4,10.0,78.2,0.0,0.0,0.9,13.3
+set2_111,arrowroot flour,457,0.1,0.4,112.8,0.0,0.0,0.4,51.2
+set2_112,chickpea flour,356,6.2,20.6,53.2,0.0,0.0,4.5,41.4
+set2_113,wheat flour,455,1.2,12.9,95.4,0.0,0.0,5.8,18.8
+set2_114,cornstarch,488,0.03,0.3,116.8,0.0,0.0,0.6,2.6
+set2_115,carob flour,13,0.061,0.3,5.3,0.0,0.088,0.2,20.9
+set2_116,buckwheat flour,402,3.7,15.1,84.7,0.0,0.0,4.9,49.2
+set2_117,pecan pie,503,27.1,6.0,63.7,106.1,0.2,1.8,39.0
+set2_118,apple pie,331,15.6,3.0,46.4,0.0,2.1,1.4,8.8
+set2_119,vanilla wafer pie crust,935,63.7,6.5,88.4,68.6,0.2,2.9,73.9
+set2_120,chocolate pie crust,881,40.8,11.1,117.4,0.0,0.0,7.8,58.2
+set2_121,apple strudel,195,8.0,2.3,29.2,4.3,1.2,0.3,10.7
+set2_122,chocolate snack cake,200,8.0,1.8,30.2,0.0,1.0,1.8,58.0
+set2_123,fruit fried pie,404,20.6,3.8,54.5,0.0,1.7,1.6,28.2
+set2_124,pumpkin pie,316,14.4,7.0,40.9,65.1,2.6,2.0,145.7
+set2_125,corn cake,35,0.2,0.7,7.5,0.0,0.0,0.1,1.7
+set2_126,sponge snack cake,157,4.8,1.5,26.9,17.2,0.089,0.6,10.1
+set2_127,danish pastry with nuts,280,16.4,4.6,29.7,29.9,1.1,1.2,61.1
+set2_128,chocolate cream pie,301,19.2,2.6,33.3,5.0,0.0,1.1,35.6
+set2_129,angel food cake,72,0.2,1.7,16.2,0.0,0.0,0.1,39.2
+set2_130,lemon meringue pie,362,16.4,4.8,49.7,67.3,4.2,1.3,15.2
+set2_131,danish pastry with cinnamon,349,16.7,4.8,46.9,27.3,2.6,1.8,37.0
+set2_132,cinnamon coffeecake,238,13.3,3.9,26.6,18.2,0.2,1.1,30.8
+set2_133,cheesecake,257,18.0,4.4,20.4,44.0,0.3,0.5,40.8
+set2_134,fruitcake,139,3.9,1.2,26.5,2.2,0.2,0.9,14.2
+set2_135,egg custard,293,12.9,14.2,31.0,236.9,0.0,1.0,301.7
+set2_136,mince pie,477,17.8,4.3,79.2,0.0,9.7,2.5,36.3
+set2_137,yellow cake with chocolate frosting,546,25.6,4.6,79.7,23.0,0.0,2.9,46.1
+set2_138,danish pastry with fruit,335,15.9,4.8,45.1,18.8,1.6,1.4,21.6
+set2_139,white cake with coconut frosting,399,11.5,4.9,70.8,1.1,0.1,1.3,100.8
+set2_140,danish pastry with cheese,353,24.6,5.8,28.7,20.0,2.6,1.8,70.1
+set2_141,graham cracker pie crust,917,45.4,9.3,117.7,0.0,0.0,4.8,53.1
+set2_142,blueberry pie,360,17.5,4.0,49.2,0.0,1.0,1.8,10.3
+set2_143,yellow cake with vanilla frosting,239,9.3,2.2,37.6,35.2,0.0,0.7,39.7
+set2_144,pie crust,121,8.0,1.5,10.9,0.0,0.0,0.7,2.3
+set2_145,chocolate cake with chocolate frosting,537,27.7,4.8,72.9,30.4,0.1,4.2,41.4
+set2_146,cheese coffeecake,258,11.6,5.3,33.7,64.6,0.041,0.5,44.8
+set2_147,vanilla cream pie,350,18.1,6.0,41.1,78.1,0.6,1.3,113.4
+set2_148,pineapple cake,367,13.9,4.0,58.1,25.3,1.4,1.7,138.0
+set2_149,peach pie,262,11.7,2.2,38.5,0.0,1.1,0.6,9.4
+set2_150,fruit coffeecake,156,5.1,2.6,25.8,3.5,0.4,1.2,22.5
+set2_151,pound cake,116,6.0,1.7,14.6,66.3,0.0,0.4,10.5
+set2_152,pound cake bread,215,9.6,3.9,28.2,0.0,0.0,1.2,25.3
+set2_153,white cake,264,9.2,4.0,42.3,1.5,0.1,1.1,96.2
+set2_154,coffeecake with chocolate frosting,298,9.7,4.5,48.4,62.1,0.015,0.5,34.2
+set2_155,popcorn cake,38,0.3,1.0,8.0,0.0,0.0,0.2,0.9
+set2_156,banana cream pie,3190,161.3,52.2,390.2,604.9,19.0,12.3,889.5
+set2_157,baked apple pie mcdonalds,91,4.4,0.9,12.3,0.0,9.1,0.6,5.4
+set2_158,sponge cake,187,2.7,4.6,36.4,107.1,0.0,1.0,26.5
+set2_159,yellow cake,245,9.9,3.6,36.0,36.7,0.1,1.1,99.3
+set2_160,shortcake,98,4.0,1.7,13.7,0.8,0.07,0.7,58.0
+set2_161,cherry pie,486,22.0,5.0,69.3,0.0,1.8,3.3,18.0
+set2_162,dutch apple pie,397,15.8,3.0,61.0,0.0,7.8,1.2,19.2
+set2_163,chocolate cake,352,14.3,5.0,50.7,55.1,0.2,1.5,57.0
+set2_164,marshmallow,64,0.033,0.4,16.3,0.0,0.0,0.038,0.6
+set2_165,sugar apple,72,0.2,1.6,18.2,0.0,0.2,0.075,0.0
+set2_166,toffee,67,3.9,0.1,7.8,12.5,0.099,0.092,0.097
+set2_167,vanilla fudge with nuts,123,3.9,0.8,21.1,3.7,0.074,0.1,13.3
+set2_168,peanuts chocolate coated,21,1.3,0.5,2.0,0.4,0.0,0.037,4.2
+set2_169,caramel with nuts chocolate coated,66,2.9,1.3,8.5,0.0,0.2,0.2,10.9
+set2_170,gingerbread,263,12.1,2.9,36.4,23.7,0.082,2.1,52.5
+set2_171,rolo nestle,24,1.0,0.009,0.2,0.0,0.0,0.0,0.0
+set2_172,vanilla fudge,108,1.5,0.3,23.2,4.2,0.0,0.036,10.8
+set2_173,halavah,328,15.1,8.7,42.3,0.0,0.097,3.2,23.1
+set2_174,praline,189,10.1,1.3,23.2,0.0,0.1,0.5,16.8
+set2_175,fruit juice bar,67,0.089,0.9,15.6,0.0,7.3,0.1,3.9
+set2_176,peanut brittle,138,5.4,2.1,20.2,3.4,0.0,0.3,7.6
+set2_177,butterscotch,21,0.2,0.079,4.8,0.5,0.0,0.02,0.2
+set2_178,chocolate coffee beans,155,9.4,2.1,15.6,5.7,0.0,0.6,47.8
+set2_179,nougat with almonds,56,0.2,0.5,12.9,0.0,0.096,0.082,4.5
+set2_180,carob,135,7.8,2.0,14.1,0.3,0.007,0.011,0.051
+set2_181,peanut butter fudge,62,1.1,0.6,12.4,0.5,0.0,0.072,6.7
+set2_182,sugar coated almonds,17,0.6,0.4,2.4,0.0,0.0,0.061,3.5
+set2_183,chocolate coated marshmallow,118,4.7,1.1,19.0,0.0,0.093,0.7,12.9
+set2_184,raisins chocolate coated,390,14.8,4.1,68.4,3.0,0.2,1.7,86.0
+set2_185,chewing gum sugarless,5,0.013,0.0,1.9,0.0,0.0,0.0,0.4
+set2_186,chewing gum,11,0.032,0.0,2.9,0.0,0.0,0.0,0.0
+set2_187,chocolate syrup,109,0.4,0.8,25.4,0.0,0.009,0.8,5.5
+set2_188,chocolate fudge syrup,67,1.7,0.9,12.0,0.2,0.023,0.2,9.3
+set2_189,m ms milk chocolate mars,207,8.9,1.8,29.9,5.9,0.2,0.5,44.1
+set2_190,milk chocolate with almonds,216,14.1,3.7,21.9,7.8,0.084,0.7,91.8
+set2_191,chocolate fudge,70,1.8,0.4,13.0,2.4,0.0,0.3,8.3
+set2_192,milk chocolate with rice cereal,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+set2_193,m ms peanut chocolate mars,93,4.7,1.7,10.9,1.4,0.0,0.2,18.4
+set2_194,dark chocolate,165,9.7,1.5,18.0,2.1,0.064,0.3,0.087
+set2_195,chocolate semisweet,806,50.4,7.1,107.4,0.0,0.0,5.3,53.8
+set2_196,after eight mints nestle,36,1.0,0.1,6.7,0.0,0.0,0.062,1.1
+set2_197,milk chocolate,37,2.1,0.5,4.2,1.6,0.0,0.2,13.2
+set2_198,white chocolate,162,9.6,1.8,17.8,6.3,0.2,0.025,59.7
+set2_199,chocolate,208,14.0,1.6,24.8,0.0,0.0,1.1,9.8
+set2_200,twix mars,146,7.2,1.4,18.8,2.0,0.099,0.042,0.085
+set2_201,kit kat nestle,62,3.3,0.7,7.6,1.1,0.0,0.059,0.0
+set2_202,snickers mars,280,13.6,4.3,35.1,7.4,0.077,0.2,0.015
+set2_203,milky way mars,264,10.0,2.3,41.3,5.2,0.068,0.047,0.038
+set2_204,clif bar,235,4.0,10.0,44.5,0.0,60.0,4.5,250.2
+set2_205,gum drops,18,0.042,0.0,4.4,0.0,0.0,0.0,0.0
+set2_206,skittles wild berry mars,249,2.6,0.1,56.3,0.0,41.6,0.0,0.0
+set2_207,skittles original mars,251,2.7,0.1,56.3,0.0,41.4,0.0,0.0
+set2_208,skittles tropical mars,251,2.7,0.1,56.3,0.0,41.6,0.0,0.0
+set2_209,fruit leather,52,0.4,0.029,12.0,0.0,16.8,0.1,4.5
+set2_210,taffy,60,0.5,0.087,13.7,1.4,0.0,0.0,0.034
+set2_211,eisbonbons mac iver,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+set2_212,caramels,39,0.8,0.5,7.8,0.7,0.024,0.049,13.9
+set2_213,hard candy,24,0.067,0.0,5.9,0.0,0.0,0.038,0.2
+set2_214,jellybeans,4,0.043,0.0,1.0,0.0,0.0,0.029,0.08
+set2_215,jellies,56,0.069,0.005,14.7,0.0,0.2,0.084,1.5
+set2_216,wheat germ toasted,115,3.2,8.7,14.9,0.0,1.8,2.7,13.5
+set2_217,crispy brown rice,124,1.1,2.3,27.5,0.0,0.0,0.4,9.0
+set2_218,bran flakes asda,109,0.6,0.0,0.2,0.0,0.0,0.0,0.0
+set2_219,amaranth cooked,251,3.9,9.3,46.0,0.0,0.0,5.2,115.6
+set2_220,triticale,645,4.0,25.1,138.5,0.0,0.0,4.9,71.0
+set2_221,barley raw,42,0.1,1.2,9.3,0.0,0.0,0.3,3.5
+set2_222,bulgur dry,171,0.7,6.1,37.9,0.0,0.0,1.2,17.5
+set2_223,cottonseed kernels roasted,754,54.1,48.6,32.6,0.0,13.4,8.0,149.0
+set2_224,rice bran,373,24.6,15.8,58.6,0.0,0.0,21.9,67.3
+set2_225,chaptti roti indian bread,491,2.5,7.0,0.089,0.0,0.0,0.0,0.0
+set2_226,quinoa cooked,222,3.6,8.1,39.4,0.0,0.0,2.8,31.5
+set2_227,dar vida swiss original,116,3.1,0.0,0.5,0.0,0.0,0.0,0.0
+set2_228,teff cooked,255,1.6,9.8,50.0,0.0,0.0,5.2,123.5
+set2_229,couscous dry,650,1.1,22.1,134.0,0.0,0.0,1.9,41.5
+set2_230,weetabix weetabix,2078,11.5,0.0,0.0,0.0,0.0,0.0,0.0
+set2_231,oat bran cooked,88,1.9,7.0,25.1,0.0,0.0,1.9,21.9
+set2_232,buckwheat cooked,155,1.0,5.7,33.5,0.0,0.0,1.3,11.8
+set2_233,millet puffed,74,0.7,2.7,16.8,0.0,0.0,0.6,1.7
+set2_234,oat bran raw,23,0.5,1.3,4.9,0.0,0.0,40.0,18.0
+set2_235,popcorn oil popped,64,4.8,0.8,5.0,0.0,0.086,0.2,0.4
+set2_236,kamut cooked,251,1.6,11.1,52.4,0.0,0.0,3.5,17.2
+set2_237,wheat bran,125,2.5,9.0,37.4,0.0,0.0,6.1,42.3
+set2_238,cheese popcorn,58,3.7,1.0,5.7,1.2,0.074,0.2,12.4
+set2_239,raisin bran crunch kelloggs,90,0.5,1.9,21.2,0.0,0.0,0.0,0.0
+set2_240,couscous cooked,176,0.3,6.0,36.5,0.0,0.0,0.6,12.6
+set2_241,multigrain cheerios general mills,4,0.005,0.038,1.0,0.072,0.0,0.0,0.0
+set2_242,bulgur cooked,151,0.4,5.6,33.8,0.0,0.0,1.7,18.2
+set2_243,popcorn air popped,31,0.4,1.0,6.2,0.0,0.0,0.3,0.6
+set2_244,teff raw,708,4.6,25.7,141.1,0.0,0.0,14.7,347.4
+set2_245,spelt cooked,246,1.6,10.7,51.3,0.0,0.0,3.2,19.4
+set2_246,millet raw,756,8.4,22.0,145.7,0.0,0.0,6.0,16.0
+set2_247,popcorn unpopped,106,1.2,3.1,20.9,0.0,0.0,0.9,1.4
+set2_248,whole wheat cooked,150,1.0,4.8,33.2,0.0,0.0,1.5,16.9
+set2_249,wheat sprouted,214,1.4,8.1,45.9,0.0,2.8,2.3,30.2
+set2_250,whole wheat dry,96,0.6,3.1,21.1,0.0,0.0,0.9,11.2
+set2_251,caramel popcorn,122,3.6,1.1,22.4,1.4,0.0,0.5,12.2
+set2_252,wheat puffed,44,0.1,1.8,9.6,0.0,0.0,3.8,3.4
+set2_253,roggenmischbrot sonnenblumenkerne aldi,82,3.1,0.0,0.0,0.0,0.0,0.0,0.0
+set2_254,wheat germ,112,3.0,7.2,16.1,0.0,0.0,1.9,12.1
+set2_255,microwave popcorn,465,26.3,7.3,49.8,0.0,0.3,0.2,0.052
+set2_256,millet cooked,207,1.7,6.1,41.2,0.0,0.0,1.1,5.2
+set2_257,kamut raw,627,4.1,27.3,130.9,0.0,0.5,1.0,0.043
+set2_258,wheat durum,651,4.7,26.3,136.6,0.0,0.0,6.8,65.3
+set2_259,sorghum,651,6.3,21.7,143.3,0.0,0.0,8.4,53.8
+set2_260,white wheat,657,3.3,21.7,145.7,0.0,0.0,8.8,61.4
+set2_261,rye,571,2.8,17.5,128.2,0.0,0.0,4.4,40.6
+set2_262,spelt raw,588,4.2,25.4,122.1,0.0,0.0,7.7,47.0
+set2_263,buckwheat raw,41,0.4,1.6,8.6,0.0,0.0,0.3,2.2
+set2_264,honey cereali general mills,104,2.0,0.0,3.0,0.0,0.0,0.0,0.0
+set2_265,barley cooked,193,0.7,3.5,44.3,0.0,0.0,2.1,17.3
+set2_266,oats,39,0.7,1.7,6.6,0.0,0.0,0.5,5.4
+set2_267,amaranth raw,37,0.7,1.4,6.5,0.0,0.4,0.8,15.9
+set2_268,semolina,601,1.8,21.2,121.6,0.0,0.0,7.3,28.4
+set2_269,quinoa dry,221,3.6,8.5,38.5,0.0,0.0,2.7,28.2
+set2_270,wheat shredded,155,1.0,5.2,36.2,0.0,4.6,1.4,23.0
+set2_271,cattail,5,0.0,0.2,1.0,0.0,0.1,0.2,10.3
+set2_272,peanut granola bar,116,5.7,2.4,15.0,0.0,0.012,0.6,9.8
+set2_273,vanilla bluberry bar kind,49,1.4,0.0,0.9,0.0,0.0,0.0,0.0
+set2_274,coconut granola bar,150,9.1,1.5,15.6,0.0,0.1,0.5,11.9
+set2_275,almond granola bar,119,6.1,1.8,14.9,0.0,0.0,0.6,7.7
+set2_276,chocolate chip granola bar,105,3.9,1.8,17.3,0.0,0.1,0.7,18.5
+set2_277,fruit granola bar,82,0.2,1.4,18.6,0.0,0.4,1.0,0.7
+set2_278,granola bar,99,4.2,2.1,13.5,0.0,0.2,0.6,12.8
+set2_279,peanut bar,209,13.5,6.2,19.0,0.0,0.0,0.4,31.2
+set2_280,milk cereal bar,103,2.7,1.6,18.0,1.5,3.9,1.5,102.5
+set2_281,almond rice bar,128,5.7,2.0,18.1,0.0,3.2,1.8,20.7
+set2_282,fruit nut squares,55,1.3,0.3,10.3,0.0,0.065,0.1,2.4
+set2_283,rice wheat cereal bar,90,2.0,2.0,16.0,0.0,0.0,0.6,6.8
+set2_284,crisped rice bar,113,3.8,1.4,20.4,0.0,0.0,1.8,5.9
+set2_285,brown rice raw,685,5.4,14.7,142.9,0.0,0.0,2.7,42.6
+set2_286,rice pilaf cooked,352,8.8,7.0,61.1,0.0,0.0,2.0,69.0
+set2_287,beef flavored rice raw,657,2.3,19.8,139.1,0.0,0.0,5.2,58.6
+set2_288,wild rice cooked,166,0.6,6.5,35.0,0.0,0.0,1.0,4.9
+set2_289,wild rice raw,571,1.7,23.6,119.8,0.0,0.0,3.1,33.6
+set2_290,congee with pork shrimp and squid plus egg,178,0.3,0.0,0.0,0.0,0.0,0.0,0.0
+set2_291,white rice pasta cooked,246,5.7,5.1,43.3,2.0,0.4,1.9,16.2
+set2_292,chicken flavored rice raw,601,2.2,17.9,127.3,0.0,0.0,4.7,30.2
+set2_293,instant white rice raw,361,0.9,7.4,78.2,0.0,0.0,6.0,20.9
+set2_294,rice crisps,107,0.4,1.8,24.1,0.0,12.9,2.9,1.4
+set2_295,parboiled white rice raw,692,1.9,13.9,149.6,0.0,0.0,6.2,131.4
+set2_296,instant white rice cooked,193,0.8,3.6,41.4,0.0,0.0,2.9,13.2
+set2_297,rice pilaf raw,732,2.8,21.3,155.7,0.0,0.0,5.0,169.3
+set2_298,rice cracker cake,111,1.2,2.0,23.0,0.0,0.0,0.4,3.1
+set2_299,parboiled white rice cooked,194,0.6,4.6,41.2,0.0,0.0,2.9,30.0
+set2_300,white rice steamed,199,0.4,4.2,44.7,0.0,0.0,0.5,6.6
+set2_301,brown rice cake,35,0.3,0.7,7.3,0.0,0.0,0.1,1.0
+set2_302,glutinous white rice raw,685,1.0,12.6,151.1,0.0,0.0,3.0,20.4
+set2_303,white rice pasta raw,600,4.0,15.3,122.8,3.3,1.0,6.5,75.0
+set2_304,glutinous white rice cooked,169,0.3,3.5,36.7,0.0,0.0,0.2,3.5
+set2_305,brown rice cooked,218,1.6,4.5,45.8,0.0,0.0,1.0,19.5
+set2_306,beef flavored rice cooked,319,7.9,7.0,54.4,0.0,0.0,2.2,24.7
+set2_307,white rice cooked,205,0.4,4.3,44.5,0.0,0.0,1.9,15.8
+set2_308,chicken flavored rice cooked,317,8.0,6.2,54.8,0.0,0.0,2.2,16.3
+set2_309,white rice raw,675,1.2,13.2,147.9,0.0,0.0,8.0,51.8
+set2_310,cheese imitation,441,36.2,28.3,1.1,17.0,0.0,0.8,796.7
+set2_311,cheshire cheese,110,8.7,6.6,1.4,29.1,0.0,0.005,182.0
+set2_312,monterey cheese,421,34.2,27.7,0.8,100.6,0.0,0.8,843.0
+set2_313,edam cheese,107,8.3,7.5,0.4,26.7,0.0,0.1,219.3
+set2_314,fontina cheese,420,33.6,27.6,1.7,125.3,0.0,0.2,594.0
+set2_315,monterey cheese low fat,350,24.4,31.9,0.8,73.5,0.0,0.8,796.7
+set2_316,colby cheese,445,36.3,26.8,2.9,107.4,0.0,0.9,774.1
+set2_317,american cheese,93,7.9,4.5,0.9,25.0,0.0,0.2,261.3
+set2_318,blue cheese,106,8.6,6.4,0.7,22.5,0.0,0.063,158.4
+set3_0,nectarine,66,0.5,1.6,15.8,0.0,0.007,0.1,0.081
+set3_1,kiwifruit gold,51,0.2,0.8,12.8,0.0,130.7,0.2,13.8
+set3_2,prickly pear raw,8,0.072,0.001,1.9,0.0,2.1,0.021,34.2
+set3_3,pineapple,45,0.1,0.5,11.8,0.0,0.1,0.091,0.061
+set3_4,rowan,253,4.6,5.2,54.5,0.0,58.8,5.0,34.2
+set3_5,muscadine grapes,3,0.056,0.014,0.8,0.0,0.0,0.014,2.2
+set3_6,heidelbeeren jutro,17,0.2,0.0,0.4,0.0,0.0,0.0,0.0
+set3_7,prunes stewed,316,0.7,3.4,83.2,0.0,0.0,3.3,67.2
+set3_8,tangerine,40,0.2,0.6,10.1,0.0,20.3,0.1,28.1
+set3_9,prunes,237,0.5,2.6,62.3,0.0,0.0,2.5,50.4
+set3_10,lemon peel,1,0.002,0.032,0.3,0.0,2.6,0.032,2.7
+set3_11,banana,134,0.5,1.6,34.3,0.0,0.6,0.1,0.035
+set3_12,raspberries,5,0.034,0.1,1.2,0.0,0.068,0.034,0.031
+set3_13,apricot,17,0.1,0.5,3.9,0.0,0.026,0.012,0.039
+set3_14,strawberry guava,4,0.008,0.01,1.0,0.0,2.2,0.071,1.3
+set3_15,kiwifruit green,42,0.4,0.8,10.1,0.0,0.086,0.002,0.091
+set3_16,figs,37,0.2,0.4,9.6,0.0,1.0,0.2,17.5
+set3_17,clementine,35,0.1,0.6,8.9,0.0,0.018,0.093,0.0
+set3_18,orange,86,0.2,1.7,21.6,0.0,0.1,0.094,0.0
+set3_19,bartlett pear,112,0.3,0.7,26.6,0.0,7.8,0.3,15.9
+set3_20,red white currants,63,0.2,1.6,15.5,0.0,45.9,1.1,37.0
+set3_21,blueberries,84,0.5,1.1,21.4,0.0,0.058,0.063,0.041
+set3_22,mulberries,6,0.049,0.2,1.5,0.0,0.025,0.041,0.074
+set3_23,java plum,2,0.029,0.034,0.5,0.0,0.4,0.054,0.6
+set3_24,prune puree,46,0.02,0.4,11.7,0.0,0.0,0.0,0.0
+set3_25,applesauce,102,0.2,0.4,27.5,0.0,0.08,0.014,0.043
+set3_26,blackberries raw,62,0.7,2.0,13.8,0.0,30.2,0.9,41.8
+set3_27,plum,30,0.2,0.5,7.5,0.0,0.038,0.056,0.047
+set3_28,american grapes,2,0.087,0.035,0.4,0.0,0.032,0.099,0.3
+set3_29,peach,59,0.4,1.4,14.3,0.0,0.075,0.1,0.042
+set3_30,honeydew melon,64,0.2,1.0,16.1,0.0,31.9,0.3,10.6
+set3_31,yellow plantain fried,399,12.7,2.4,68.9,0.0,0.0,1.0,10.1
+set3_32,rose hips,206,0.4,2.0,48.5,0.0,541.0,1.3,214.6
+set3_33,lemons,17,0.2,0.6,5.4,0.0,30.7,0.3,15.1
+set3_34,lime,20,0.1,0.5,7.1,0.0,19.5,0.4,22.1
+set3_35,pomegranate,117,1.6,2.4,26.4,0.0,0.1,0.2,0.066
+set3_36,gooseberries,66,0.9,1.3,15.3,0.0,0.1,0.1,0.0
+set3_37,asian pear,51,0.3,0.6,13.0,0.0,4.6,0.0,4.9
+set3_38,abiyuch,157,0.2,3.4,40.1,0.0,123.3,3.7,18.2
+set3_39,horned melon kiwano,92,2.6,3.7,15.8,0.0,11.1,2.4,27.2
+set3_40,fruit walnut salad mcdonalds,312,13.3,4.8,43.8,5.3,383.6,0.9,171.6
+set3_41,grapefruit,53,0.2,1.0,13.3,0.0,0.027,0.087,0.0
+set3_42,japanese persimmon,118,0.3,1.0,31.2,0.0,0.2,0.2,0.066
+set3_43,wild raspberries,81,0.4,1.5,18.0,0.0,34.3,0.8,46.8
+set3_44,pink lady apple,18,0.1,0.1,3.9,0.0,0.0,0.0,0.0
+set3_45,maraschino cherries,8,0.083,0.06,2.1,0.0,0.0,0.091,2.7
+set3_46,black currants,71,0.5,1.6,17.2,0.0,202.7,1.7,61.6
+set3_47,plantain cooked,179,0.3,1.2,48.0,0.0,16.8,0.9,3.1
+set3_48,crab apple,84,0.3,0.4,21.9,0.0,8.8,0.4,19.8
+set3_49,pom potes materne,19,0.2,0.0,0.2,0.0,0.0,0.0,0.0
+set3_50,apple,95,0.3,0.5,25.1,0.0,0.03,0.086,0.044
+set3_51,cantaloupe melon,60,0.3,1.5,14.4,0.0,0.1,0.018,0.028
+set3_52,prickly pear cooked,7,0.043,0.091,1.6,0.0,0.5,0.0,0.0
+set3_53,guava,37,0.5,1.4,7.9,0.0,0.069,0.1,0.019
+set3_54,strawberries,4,0.069,0.01,0.9,0.0,7.1,0.04,1.9
+set3_55,japanese persimmon dried,93,0.2,0.5,25.0,0.0,0.0,0.3,8.5
+set3_56,watermelon,86,0.4,1.7,21.6,0.0,0.1,0.1,0.016
+set3_57,elderberries,106,0.7,1.0,26.7,0.0,52.2,2.3,55.1
+set3_58,kumquat,13,0.2,0.4,3.0,0.0,0.013,0.092,0.0
+set3_59,orange peel,6,0.017,0.093,1.5,0.0,8.2,0.097,9.7
+set3_60,pokeberry shoots cooked,33,0.7,3.8,5.1,0.0,135.3,2.0,87.5
+set3_61,breadfruit,227,0.5,2.4,59.7,0.0,0.2,0.2,0.045
+set3_62,pear,101,0.2,0.6,27.1,0.0,7.7,0.3,16.0
+set3_63,sour cherries,52,0.3,1.0,12.5,0.0,0.053,0.1,0.02
+set3_64,plantain raw,218,0.6,2.3,57.1,0.0,32.9,1.0,5.4
+set3_65,blackberries frozen,97,0.6,1.8,23.7,0.0,4.7,1.2,43.8
+set3_66,cherries,5,0.056,0.068,1.3,0.0,0.079,0.026,0.053
+set3_67,plantain fried,16,0.6,0.023,2.6,0.0,0.2,0.039,0.2
+set3_68,carambola starfruit,26,0.3,0.9,5.7,0.0,0.039,0.1,0.0
+set3_69,chayote cooked,35,0.8,1.0,7.2,0.0,12.8,0.4,20.8
+set3_70,apple dippers mcdonalds,33,0.0,0.0,8.2,0.0,188.4,0.021,42.2
+set3_71,white grapefruit,78,0.2,1.6,19.8,0.0,78.6,0.1,28.3
+set3_72,cherimoya,176,1.6,3.7,41.6,0.0,0.6,0.2,0.0
+set3_73,melon balls,57,0.4,1.5,13.7,0.0,10.7,0.5,17.3
+set3_74,golden delicious apple,62,0.2,0.3,14.8,0.0,0.038,0.035,0.043
+set3_75,pokeberry shoots raw,37,0.6,4.2,5.9,0.0,0.2,0.3,0.0
+set3_76,cranberries,21,0.014,0.2,5.4,0.0,0.098,0.033,0.063
+set3_77,quince,52,0.012,0.4,14.1,0.0,0.08,0.1,0.0
+set3_78,chayote raw,25,0.2,1.1,6.0,0.0,0.1,0.2,0.046
+set3_79,orange with peel,100,0.5,2.1,24.6,0.0,112.9,1.3,111.3
+set3_80,chokecherries,249,2.6,4.7,51.8,0.0,8.5,1.1,92.4
+set3_81,mango,202,1.3,2.8,50.3,0.0,0.4,0.4,0.019
+set3_82,wild plum,147,0.3,0.7,35.3,0.0,16.6,0.3,17.7
+set3_83,jeijoa,148,1.0,1.7,37.0,0.0,79.9,0.3,41.3
+set3_84,groundcherries,74,1.0,2.7,15.7,0.0,15.4,1.4,12.6
+set3_85,pesca,30,0.1,0.0,0.0,0.0,0.0,0.0,0.0
+set3_86,persimmon,32,0.1,0.2,8.4,0.0,16.5,0.6,6.8
+set3_87,grapes,3,0.044,0.045,0.9,0.0,0.2,0.012,0.5
+set3_88,rambutan canned,175,0.4,1.4,44.7,0.0,10.5,0.7,47.1
+set3_89,figs canned,14,0.039,0.1,3.8,0.0,0.3,0.069,7.6
+set3_90,prunes canned,246,0.5,2.0,65.1,0.0,6.6,1.0,39.8
+set3_91,pineapples canned,28,0.05,0.2,7.4,0.0,4.5,0.1,6.6
+set3_92,prune plums canned,27,0.075,0.2,7.0,0.0,1.3,0.2,4.6
+set3_93,tangerines canned,92,0.1,1.5,23.8,0.0,85.2,0.7,27.4
+set3_94,fruit cocktail canned,109,0.053,1.1,28.1,0.0,6.4,0.5,19.0
+set3_95,sour cherries canned,189,0.3,1.9,48.6,0.0,5.0,3.3,25.2
+set3_96,mangosteen canned,143,1.1,0.8,35.1,0.0,5.7,0.6,23.5
+set3_97,apricot juice,117,0.07,1.5,30.1,0.0,0.1,0.1,0.053
+set3_98,strawberries canned,234,0.7,1.4,59.8,0.0,80.5,1.2,33.0
+set3_99,peach canned,110,0.094,1.6,28.9,0.0,9.0,0.7,15.0
+set3_100,fruit salad canned,125,0.008,1.3,32.5,0.0,8.2,0.6,27.4
+set3_101,gooseberries canned,184,0.5,1.6,47.3,0.0,25.2,0.8,40.3
+set3_102,grapefruit canned,88,0.2,1.4,22.3,0.0,53.2,1.0,36.6
+set3_103,pear canned,38,0.001,0.3,9.8,0.0,1.2,0.2,6.8
+set3_104,raspberries canned,233,0.3,2.1,59.8,0.0,22.3,1.1,28.2
+set3_105,papaya canned,80,0.2,0.001,21.8,0.0,1.4,0.1,8.2
+set3_106,grapes canned,98,0.3,1.2,25.2,0.0,2.5,2.4,24.5
+set3_107,apple dried,145,0.2,0.6,39.1,0.0,2.6,0.8,7.7
+set3_108,peach dried,199,0.6,3.0,50.8,0.0,9.5,3.4,23.2
+set3_109,plantain chips,150,8.4,0.6,18.1,0.0,9.1,0.3,2.5
+set3_110,golden raisins,498,0.8,5.6,131.2,0.0,5.3,3.0,87.5
+set3_111,raisins seeded,488,0.9,4.2,129.5,0.0,8.9,4.3,46.2
+set3_112,zante currants dried,408,0.4,5.9,106.7,0.0,6.8,4.7,123.8
+set3_113,pear dried,94,0.2,0.7,25.1,0.0,2.5,0.8,12.2
+set3_114,raisins,90,0.056,1.0,23.8,0.0,0.081,0.018,0.068
+set3_115,prune plums dried,308,0.5,2.7,81.5,0.0,6.7,2.6,52.1
+set3_116,cranberries dried,370,1.6,0.053,98.8,0.0,0.2,0.6,12.0
+set3_117,figs dried,21,0.008,0.3,5.4,0.0,0.1,0.2,13.6
+set3_118,longans dried,5,0.091,0.027,1.3,0.0,0.5,0.009,0.8
+set3_119,banana chips,147,9.5,0.7,16.5,0.0,1.8,0.4,5.1
+set3_120,lychee dried,7,0.003,0.01,1.8,0.0,4.6,0.036,0.8
+set3_121,apricot dried,17,0.015,0.2,4.4,0.0,0.012,0.2,3.9
+set3_122,longan,2,0.076,0.009,0.5,0.0,2.7,0.066,0.039
+set3_123,mamey sapote,217,0.8,2.5,56.2,0.0,40.3,1.4,31.5
+set3_124,waxgourd cooked,19,0.4,0.7,4.3,0.0,18.4,0.7,31.5
+set3_125,jackfruit,33,0.2,0.6,8.1,0.0,0.1,0.071,0.0
+set3_126,loquats,9,0.071,0.09,2.4,0.0,0.2,0.007,3.2
+set3_127,mammy apple mamey,431,4.2,4.2,105.8,0.0,118.4,5.9,93.1
+set3_128,nance,82,1.3,0.7,19.0,0.0,0.098,0.037,0.078
+set3_129,coconut whole coconut,3336,71.5,0.0,0.0,0.0,0.0,0.0,0.0
+set3_130,prickly pear,42,0.5,0.8,9.9,0.0,0.097,0.051,0.0
+set3_131,lychee,6,0.016,0.024,1.6,0.0,0.038,0.022,0.086
+set3_132,naranjilla lulo pulp,30,0.3,0.5,7.1,0.0,3.8,0.4,9.6
+set3_133,coconut meat dried,187,18.3,1.9,6.7,0.0,0.4,0.9,7.4
+set3_134,waxgourd raw,17,0.3,0.5,4.0,0.0,17.2,0.5,25.1
+set3_135,surinam cherry pitanga,2,0.059,0.045,0.5,0.0,1.8,0.0,0.6
+set3_136,passion fruit,17,0.1,0.4,4.2,0.0,0.074,0.015,0.03
+set3_137,sapodilla,141,1.9,0.7,33.9,0.0,25.0,1.4,35.7
+set3_138,pummelo,48,0.06,1.0,12.0,0.0,0.005,0.097,0.0
+set3_139,coconut meat,1405,133.0,13.2,60.5,0.0,13.1,9.6,55.6
+set3_140,soursop,149,0.7,2.3,37.9,0.0,46.4,1.4,31.5
+set3_141,papaya,62,0.4,0.7,15.7,0.0,0.014,0.017,0.06
+set3_142,acerola cherry,2,0.052,0.079,0.4,0.0,0.076,0.007,0.0
+set3_143,ohelo berries,39,0.3,0.5,9.6,0.0,8.4,0.1,9.8
+set3_144,loganberries,81,0.5,2.2,19.1,0.0,22.5,0.9,38.2
+set3_145,casaba melon,48,0.2,1.9,11.2,0.0,37.1,0.6,18.7
+set3_146,durian,51,1.9,0.5,9.5,0.0,0.1,0.094,0.0
+set3_147,coriander leaves raw,4,0.086,0.3,0.6,0.0,4.3,0.3,10.7
+set3_148,garden cress raw,3,0.062,0.2,0.5,0.0,0.017,0.009,0.04
+set3_149,pasilla peppers dried,24,1.1,0.9,3.6,0.0,0.4,0.7,6.8
+set3_150,parsley dried,1,0.096,0.1,0.3,0.0,0.6,0.1,5.7
+set3_151,ancho pepper dried,48,1.4,2.0,8.7,0.0,0.3,1.9,10.4
+set3_152,coriander seeds,5,0.3,0.2,1.0,0.0,0.4,0.3,12.8
+set3_153,dill weed dried,253,4.4,20.0,55.8,0.0,1.7,0.5,0.0
+set3_154,borage,19,0.6,1.6,2.7,0.0,31.2,2.9,82.8
+set3_155,epazote,0,0.06,0.059,0.094,0.0,0.026,0.067,0.0
+set3_156,chives dried,1,0.055,0.013,0.1,0.0,0.054,0.047,0.0
+set3_157,thyme fresh,1,0.068,0.091,0.2,0.0,0.057,0.018,0.0
+set3_158,butterbur,4,0.2,0.1,0.5,0.0,14.8,0.8,42.2
+set3_159,wasabi root,142,0.8,6.2,30.6,0.0,54.5,1.3,166.4
+set3_160,rosemary dried,4,0.2,0.081,0.8,0.0,0.7,0.4,15.4
+set3_161,ginger root,2,0.028,0.068,0.4,0.0,0.1,0.061,0.3
+set3_162,white pepper,7,0.0,0.2,1.6,0.0,0.075,0.069,0.0
+set3_163,cloves ground,6,0.3,0.1,1.4,0.0,0.083,0.2,13.3
+set3_164,paprika,19,0.9,1.0,3.7,0.0,0.1,0.061,0.061
+set3_165,mace ground,25,1.7,0.4,2.7,0.0,1.1,0.7,13.4
+set3_166,bay leaf,2,0.042,0.086,0.4,0.0,0.3,0.3,5.0
+set3_167,eppaw,150,1.8,4.6,31.7,0.0,0.2,0.2,0.0
+set3_168,tarragon dried,2,0.047,0.1,0.3,0.0,0.3,0.2,6.8
+set3_169,ginger ground,6,0.043,0.2,1.3,0.0,0.094,0.4,2.1
+set3_170,savory ground,4,0.029,0.074,1.0,0.0,0.0,0.043,0.0
+set3_171,black pepper,6,0.006,0.2,1.5,0.0,0.073,0.001,0.045
+set3_172,spearmint fresh,3,0.089,0.2,0.5,0.0,0.033,0.008,0.0
+set3_173,poultry seasoning,14,0.3,0.4,2.9,0.0,0.5,1.6,43.8
+set3_174,nutmeg ground,12,0.8,0.1,1.1,0.0,0.001,0.018,4.0
+set3_175,curry powder,20,0.9,0.8,3.7,0.0,0.05,0.034,0.094
+set3_176,peppermint,1,0.004,0.038,0.2,0.0,0.061,0.078,0.0
+set3_177,salt,0,0.0,0.0,0.0,0.0,0.0,0.006,4.3
+set3_178,coriander leaves dried,2,0.098,0.1,0.3,0.0,0.014,0.017,0.094
+set3_179,sage ground,2,0.046,0.058,0.4,0.0,0.2,0.2,11.6
+set3_180,garlic powder,10,0.029,0.5,2.3,0.0,0.093,0.003,0.008
+set3_181,dill weed fresh,4,0.063,0.3,0.6,0.0,0.003,0.09,0.0
+set3_182,cardamom,6,0.1,0.2,1.4,0.0,0.4,0.3,7.7
+set3_183,saffron,2,0.092,0.071,0.5,0.0,0.023,0.037,0.0
+set3_184,allspice ground,5,0.2,0.1,1.4,0.0,0.7,0.1,12.6
+set3_185,parsley fresh,1,0.078,0.1,0.2,0.0,0.081,0.085,0.013
+set3_186,oregano dried,265,4.3,9.0,68.9,0.0,1.0,0.6,0.6
+set3_187,marjoram dried,5,0.1,0.2,1.0,0.0,0.055,0.029,0.047
+set3_188,chives raw,1,0.088,0.03,0.1,0.0,0.097,0.059,0.08
+set3_189,fireweed leaves,24,0.6,1.1,4.4,0.0,0.5,0.6,98.7
+set3_190,rosemary fresh,1,0.1,0.005,0.1,0.0,0.043,0.092,0.0
+set3_191,garlic,4,0.026,0.2,0.9,0.0,0.061,0.069,0.003
+set3_192,cinnamon ground,6,0.044,0.1,2.1,0.0,0.071,0.2,26.1
+set3_193,chervil dried,5,0.002,0.4,0.9,0.0,1.0,0.6,25.6
+set3_194,cayenne pepper,1,0.094,0.039,0.2,0.0,0.2,0.003,0.4
+set3_195,turmeric ground,8,0.2,0.2,1.4,0.0,0.6,0.9,4.0
+set3_196,mustard,3,0.2,0.2,0.3,0.0,0.015,0.086,0.012
+set3_197,chili powder,8,0.4,0.4,1.3,0.0,0.031,0.032,0.047
+set3_198,thyme dried,276,7.4,9.1,63.9,0.0,0.6,0.9,1.7
+set3_199,spearmint dried,1,0.018,0.094,0.3,0.0,0.092,0.021,0.0
+set3_200,basil dried,2,0.027,0.2,0.3,0.0,0.047,0.082,0.078
+set3_201,dandelion greens cooked,35,0.6,2.1,6.7,0.0,18.9,1.9,147.0
+set3_202,basil fresh,2,0.089,0.2,0.2,0.0,0.074,0.075,0.047
+set3_203,dock,29,0.9,2.7,4.3,0.0,0.2,0.2,0.0
+set3_204,garden cress cooked,31,0.8,2.6,5.1,0.0,31.1,1.1,82.4
+set3_205,onion powder,8,0.024,0.2,1.9,0.0,0.6,0.052,9.2
+set3_206,dandelion greens raw,25,0.4,1.5,5.1,0.0,19.3,1.7,102.9
+set3_207,yokan,36,0.022,0.5,8.5,0.0,0.025,0.048,0.0
+set3_208,fava beans cooked,187,0.7,12.9,33.4,0.0,0.1,0.4,0.067
+set3_209,french beans raw,631,3.7,34.6,118.0,0.0,8.5,6.3,342.2
+set3_210,chickpeas canned,352,7.0,17.8,57.0,0.0,0.3,2.7,113.9
+set3_211,yellow beans cooked,255,1.9,16.2,44.7,0.0,0.2,0.3,0.0
+set3_212,mung beans cooked,212,0.8,14.2,38.7,0.0,0.1,0.3,0.005
+set3_213,white beans canned,299,0.8,19.0,55.5,0.0,0.0,7.8,191.3
+set3_214,pink beans cooked,252,0.8,15.3,47.2,0.0,0.3,0.5,0.083
+set3_215,pink beans raw,720,2.4,44.0,134.8,0.0,0.0,14.2,273.0
+set3_216,navy beans raw,701,3.1,46.4,126.4,0.0,0.0,11.4,305.8
+set3_217,snap beans cooked,44,0.4,2.4,9.9,0.0,0.061,0.015,0.053
+set3_218,black eyed cowpeas raw,131,0.5,4.3,27.3,0.0,3.6,1.6,182.7
+set3_219,edamame cooked,189,8.1,18.5,13.8,0.0,0.2,0.5,0.041
+set3_220,black eyed cowpeas cooked,160,0.6,5.2,33.5,0.0,0.1,0.2,0.0
+set3_221,hyacinth beans cooked,227,1.1,15.8,40.2,0.0,0.014,0.7,0.0
+set3_222,cowpeas canned,185,1.3,11.4,32.7,0.0,6.5,2.3,48.0
+set3_223,pinto beans cooked,245,1.1,15.4,44.8,0.0,0.4,0.4,0.097
+set3_224,winged beans cooked,253,10.0,18.3,25.7,0.0,0.0,7.4,244.2
+set3_225,pinto beans raw,670,2.4,41.3,120.7,0.0,12.2,9.8,218.1
+set3_226,black turtle beans raw,624,1.7,39.1,116.4,0.0,0.0,16.0,294.4
+set3_227,fava beans raw,512,2.3,39.2,87.4,0.0,2.1,10.1,154.5
+set3_228,lima beans canned,190,0.4,11.9,35.9,0.0,0.0,4.4,50.6
+set3_229,hyacinth beans raw,722,3.5,50.2,127.6,0.0,0.0,10.7,273.0
+set3_230,white beans raw,673,1.7,47.2,121.7,0.0,0.0,21.1,484.8
+set3_231,snap beans canned,66,0.4,3.5,15.4,0.0,14.9,4.0,105.4
+set3_232,navy beans canned,296,1.1,19.7,53.6,0.0,1.8,4.8,123.1
+set3_233,mung beans raw,718,2.4,49.4,129.6,0.0,9.9,14.0,273.2
+set3_234,adzuki beans raw,648,1.0,39.1,123.9,0.0,0.0,9.8,130.0
+set3_235,black turtle beans cooked,241,0.6,15.1,45.0,0.0,0.1,0.5,0.004
+set3_236,pink lentils raw,662,4.2,47.9,113.6,0.0,3.3,14.5,78.7
+set3_237,yellow beans raw,676,5.1,43.1,119.0,0.0,0.0,13.7,325.4
+set3_238,white beans cooked,249,0.6,17.4,44.9,0.0,0.2,0.5,0.029
+set3_239,lentils raw,678,2.0,49.5,115.4,0.0,8.4,14.5,107.5
+set3_240,cranberry beans cooked,241,0.8,16.5,43.3,0.0,0.1,0.4,0.0
+set3_241,chickpeas raw,728,12.1,38.6,121.3,0.0,8.0,12.5,210.0
+set3_242,lentils cooked,230,0.8,17.9,39.9,0.0,0.4,0.5,0.077
+set3_243,baked beans canned,239,0.9,12.1,53.7,0.0,0.0,3.0,86.4
+set3_244,cranberry beans canned,216,0.7,14.4,39.3,0.0,2.1,4.0,88.4
+set3_245,black beans cooked,227,0.9,15.2,40.8,0.0,0.0,3.6,46.4
+set3_246,lima beans cooked,216,0.7,14.7,39.3,0.0,0.3,0.4,0.052
+set3_247,mungo beans raw,706,3.4,52.2,122.1,0.0,0.0,15.7,285.7
+set3_248,pigeon peas raw,703,3.1,44.5,128.7,0.0,0.0,10.7,266.5
+set3_249,fava beans canned,182,0.6,14.0,31.8,0.0,4.6,2.6,66.6
+set3_250,yellow snap beans raw,31,0.1,1.8,7.1,0.0,16.3,1.0,37.0
+set3_251,snap beans raw,31,0.2,1.8,7.0,0.0,12.2,1.0,37.0
+set3_252,yellow snap beans canned,36,0.2,1.9,8.4,0.0,8.2,2.2,57.6
+set3_253,pigeon peas cooked,203,0.6,11.4,39.1,0.0,0.0,1.9,72.2
+set3_254,catjang cowpeas raw,573,3.5,39.8,99.6,0.0,2.5,16.6,142.0
+set3_255,navy beans cooked,255,1.1,15.0,47.4,0.0,0.0,4.3,125.6
+set3_256,mothbeans raw,672,3.2,45.0,120.6,0.0,7.8,21.3,294.0
+set3_257,cowpeas cooked,81,0.4,5.4,14.5,0.0,0.025,0.2,0.033
+set3_258,mothbeans cooked,207,1.0,13.8,37.1,0.0,1.8,5.6,5.3
+set3_259,french beans cooked,228,1.3,12.5,42.5,0.0,0.2,0.2,0.0
+set3_260,lima beans raw,602,1.2,38.2,112.8,0.0,0.0,13.4,144.2
+set3_261,winged beans raw,744,29.7,54.0,75.9,0.0,0.0,24.5,800.8
+set3_262,adzuki beans cooked,294,0.2,17.3,57.0,0.0,0.2,0.7,0.0
+set3_263,black beans raw,662,2.8,41.9,121.0,0.0,0.0,9.7,238.6
+set3_264,catjang cowpeas cooked,200,1.2,13.9,34.7,0.0,0.2,0.5,0.0
+set3_265,baby lima beans cooked,189,0.5,12.0,35.0,0.0,0.2,0.4,0.06
+set3_266,cowpeas raw,41,0.3,3.1,8.9,0.0,31.0,0.9,61.1
+set3_267,shellie beans canned,74,0.5,4.3,15.2,0.0,0.1,0.2,0.051
+set3_268,yardlong beans raw,579,2.2,40.6,103.4,0.0,2.7,14.4,230.5
+set3_269,pinto beans canned,197,1.3,11.0,36.4,0.0,1.7,3.5,112.8
+set3_270,chickpeas cooked,269,4.2,14.5,45.0,0.0,2.1,4.7,80.4
+set3_271,cranberry beans raw,653,2.4,44.9,117.1,0.0,0.0,9.8,247.7
+set3_272,mungo beans cooked,189,1.0,13.6,33.0,0.0,1.8,3.2,95.4
+set3_273,tamarinds,5,0.013,0.057,1.3,0.0,0.058,0.032,0.03
+set3_274,yellow snap beans cooked,44,0.4,2.4,9.9,0.0,0.062,0.1,0.025
+set3_275,yardlong beans cooked,202,0.8,14.2,36.1,0.0,0.2,0.4,0.0
+set3_276,bacon beef steak,146,12.5,8.2,0.2,28.9,0.0,0.5,4.0
+set3_277,lamb foreshank raw,912,60.7,85.8,0.0,326.6,0.0,7.6,49.9
+set3_278,bacon,106,10.2,3.3,0.2,0.0,0.0,0.1,1.0
+set3_279,lamb rib cooked,915,76.0,53.9,0.0,247.4,0.0,4.1,56.1
+set3_280,lamb shank raw,912,61.2,84.3,0.0,303.9,0.0,7.8,36.3
+set3_281,scrapple,60,3.9,2.3,4.0,13.9,0.7,0.5,2.0
+set3_282,chicken nuggets,61,4.1,3.2,3.0,8.6,0.095,0.091,0.058
+set3_283,ground lamb cooked,886,61.5,77.5,0.0,303.6,0.0,5.6,68.9
+set3_284,lamb meat cooked,678,45.0,63.8,0.0,240.0,0.0,4.8,40.0
+set3_285,meat extender,275,2.6,33.5,33.7,0.0,0.0,10.6,179.5
+set3_286,lamb leg raw,1043,77.4,81.2,0.0,313.0,0.0,7.5,40.8
+set3_287,lamb loin cooked,202,14.8,16.1,0.0,64.0,0.0,1.2,12.8
+set3_288,chicken patty,172,11.7,8.9,7.7,25.8,0.0,0.6,11.4
+set3_289,lamb shank roasted,605,33.5,71.0,0.0,242.1,0.0,5.3,26.9
+set3_290,barbecue loaf,40,2.0,3.6,1.5,8.5,0.0,0.3,12.7
+set3_291,lamb sirloin cooked,765,54.2,64.5,0.0,254.1,0.0,5.2,28.8
+set3_292,poultry salad,26,1.8,1.5,1.0,3.9,0.1,0.097,1.3
+set3_293,ground lamb raw,80,6.6,4.7,0.0,20.7,0.0,0.4,4.5
+set3_294,lamb loin raw,88,7.5,4.6,0.0,20.9,0.0,0.5,4.2
+set3_295,lamb sirloin raw,1234,100.3,76.8,0.0,326.6,0.0,7.3,45.4
+set3_296,sausage patty mcdonalds,115,11.2,4.3,0.4,20.9,0.0,0.3,6.5
+set3_297,lamb foreshank cooked,360,19.9,42.0,0.0,156.9,0.0,3.2,29.6
+set3_298,ham salad,97,7.0,3.9,4.8,16.7,0.0,0.3,3.6
+set3_299,lamb rib raw,1687,156.0,65.9,0.0,344.7,0.0,6.3,68.0
+set3_300,lamb shoulder raw,1198,97.3,75.2,0.0,326.6,0.0,6.8,72.6
+set3_301,lamb meat raw,1102,84.6,79.6,0.0,317.5,0.0,7.3,54.4
+set3_302,lamb shoulder cooked,750,53.5,62.5,0.0,252.9,0.0,5.2,54.5
+set3_303,mutton cooked,66,3.1,9.5,0.027,30.8,0.0,1.3,2.8
+set3_304,lamb leg cooked,684,43.7,67.7,0.0,246.5,0.0,5.2,29.2
+set3_305,beef stick,110,9.9,4.3,1.1,26.6,1.4,0.7,13.6
+set3_306,veal sirloin cooked,517,26.9,64.1,0.0,221.4,0.0,2.5,34.9
+set3_307,veal rib cooked,444,22.2,57.4,0.0,246.0,0.0,2.5,38.9
+set3_308,veal meat cooked,483,23.8,62.9,0.0,238.3,0.0,2.4,46.0
+set3_309,beef rib roasted,238,19.1,15.4,0.0,57.0,0.0,1.6,6.7
+set3_310,veal sirloin raw,689,35.4,86.5,0.0,353.8,0.0,3.5,49.9
+set3_311,beef top loin filet grilled,323,19.0,37.0,0.8,116.1,0.6,0.2,0.019
+set3_312,beef under blade steak cooked,983,46.7,140.8,0.0,480.4,1.5,0.5,0.044
+set3_313,mock tender steak raw,244,8.3,42.2,0.0,132.7,0.0,4.8,21.8
+set3_314,ground beef cooked,375,24.8,35.5,0.0,122.3,0.6,0.1,0.052
+set3_315,ground beef raw,1506,136.1,65.1,0.0,353.8,0.0,7.4,108.9
+set3_316,beef diced asda,48,0.7,0.0,10.5,0.0,0.0,0.0,0.0
+set3_317,veal rib raw,735,40.9,85.5,0.0,372.0,0.0,3.9,59.0
+set3_318,ground veal raw,41,1.9,5.5,0.0,23.2,0.0,0.2,4.2
+set3_319,t bone steak cooked,1049,74.1,89.3,0.0,301.3,2.4,0.2,0.0
+set3_320,veal leg round raw,531,14.0,95.2,0.0,353.8,0.0,3.6,22.7
+set3_321,beef top sirloin steak raw,1222,77.3,123.4,0.0,456.0,0.0,9.0,145.9
+set3_322,beef plate steak grilled,508,35.6,47.1,0.0,177.5,0.8,0.4,0.047
+set3_323,ground veal cooked,514,22.6,72.9,0.0,308.0,0.0,3.0,50.8
+set3_324,veal leg round cooked,574,17.2,98.4,0.0,364.5,0.0,3.6,21.8
+set3_325,porterhouse steak raw,1170,91.1,81.6,0.0,308.4,0.0,8.8,27.2
+set3_326,veal shank raw,513,15.8,86.9,0.0,340.2,0.0,3.4,90.7
+set3_327,veal breast cooked,753,47.5,76.3,0.0,319.8,0.0,2.2,25.5
+set3_328,corned beef canned,53,3.1,5.7,0.0,18.1,0.0,0.4,2.5
+set3_329,rib eye steak grilled,680,47.7,62.4,0.0,195.8,0.0,6.0,30.1
+set3_330,veal shoulder raw,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+set3_331,t bone steak raw,1052,76.3,85.7,0.0,281.2,0.0,9.5,27.2
+set3_332,sirloin steak,324,14.1,49.5,0.0,144.4,1.1,0.2,0.0
+set3_333,mock tender steak cooked,137,4.9,21.9,0.0,55.3,0.0,2.6,6.8
+set3_334,beef round steak cooked,385,12.1,64.8,0.0,174.3,0.0,5.2,14.4
+set3_335,chuck blade roast raw,1125,88.0,77.8,0.0,322.1,0.0,9.3,45.4
+set3_336,beef shoulder steak raw,349,17.3,48.2,0.0,164.9,0.0,6.0,28.7
+set3_337,beef top blade cooked,184,10.0,21.9,0.0,51.9,0.0,2.3,6.0
+set3_338,corned beef cooked,53,4.0,3.8,0.006,20.6,0.0,0.4,1.7
+set3_339,beef round steak raw,753,36.0,100.1,0.0,313.0,0.0,8.4,95.3
+set3_340,beef shoulder steak grilled,155,5.8,24.0,0.0,68.9,0.0,2.5,10.2
+set3_341,chuck eye steak raw,856,62.8,72.4,0.0,261.1,0.0,8.1,53.8
+set3_342,beef bottom round steak cooked,980,35.1,155.8,0.0,426.4,0.0,13.0,31.8
+set3_343,porterhouse steak cooked,235,16.4,20.4,0.0,57.0,0.0,2.5,6.0
+set3_344,beef under blade steak raw,1235,80.8,126.8,0.0,431.0,0.0,12.6,62.9
+set3_345,beef plate steak raw,617,46.8,47.8,0.9,188.9,0.0,9.1,16.0
+set3_346,beef meat canned,111,7.9,9.2,0.0,34.7,0.0,1.0,4.5
+set3_347,beef breakfast strips raw,92,8.8,2.8,0.2,18.5,5.4,0.3,0.9
+set3_348,beef brisket cooked,589,43.6,46.0,0.0,165.5,0.0,4.4,12.5
+set3_349,corned beef raw,898,67.6,66.6,0.6,244.9,122.5,7.7,31.8
+set3_350,beef mince meat asda,55,3.1,0.0,6.8,0.0,0.0,0.0,0.0
+set3_351,pastrami beef fat free,9,0.1,1.9,0.1,4.5,3.3,0.3,0.9
+set3_352,rib eye steak raw,743,54.5,62.8,0.4,221.7,0.0,5.9,26.1
+set3_353,beef tenderloin steak cooked,374,24.0,37.0,0.0,135.8,0.0,2.4,26.6
+set3_354,chuck blade roast cooked,842,62.0,66.1,0.0,256.9,0.0,7.7,32.1
+set3_355,cured beef dried,4,0.019,0.9,0.06,2.2,0.0,0.004,0.2
+set3_356,beef flank steak cooked,380,17.5,51.8,0.0,152.3,0.0,3.4,33.8
+set3_357,chuck eye steak grilled,853,60.5,76.9,0.0,268.0,1.1,0.2,0.02
+set3_358,veal meat raw,653,30.7,87.8,0.0,372.0,0.0,3.8,68.0
+set3_359,veal loin cooked,80,4.9,8.5,0.0,33.4,0.0,0.3,7.9
+set3_360,veal loin raw,46,2.6,5.3,0.0,22.4,0.0,0.2,4.5
+set3_361,veal shoulder cooked,435,19.4,61.2,0.0,240.7,0.0,2.7,66.9
+set3_362,beef tenderloin steak raw,405,29.8,32.2,0.0,139.4,0.0,2.3,37.7
+set3_363,veal shank cooked,371,12.0,61.2,0.0,240.6,0.0,2.4,64.0
+set3_364,beef brisket raw,1139,86.5,83.6,0.0,308.4,0.0,7.7,27.2
+set3_365,pastrami beef,104,4.1,15.5,0.3,48.3,0.2,1.6,7.1
+set3_366,beef flank steak raw,47,2.3,6.0,0.0,19.2,0.0,0.4,7.6
+set3_367,beef top sirloin steak cooked,430,25.2,47.7,0.0,162.8,0.0,3.1,35.4
+set3_368,veal breast raw,943,66.9,79.2,0.0,322.1,0.0,2.4,31.8
+set3_369,beef rib raw,1433,123.8,73.8,0.0,322.1,0.0,7.8,36.3
+set3_370,beef jerky,82,5.1,6.6,2.2,9.6,0.0,1.1,4.0
+set3_371,beef breakfast strips cooked,51,3.9,3.5,0.2,13.4,0.0,0.4,1.0
+set3_372,pork olive loaf,66,4.6,3.3,2.6,10.6,0.0,0.2,30.5
+set3_373,beef luncheon meat jellied,31,0.9,5.3,0.0,9.5,0.0,1.0,2.8
+set3_374,turkey pastrami,38,1.8,4.6,0.5,19.4,2.3,1.2,3.1
+set3_375,pork salami,41,3.4,2.3,0.2,7.9,0.0,0.1,1.3
+set3_376,canadian style bacon raw,45,2.0,5.9,0.5,14.3,0.0,0.2,2.3
+set3_377,honey loaf,85,3.6,9.9,2.6,26.2,0.0,0.6,30.8
+set3_378,pork beef salami,37,3.1,2.1,0.076,10.6,0.032,0.042,0.0
+set3_379,beef pork bologna,92,7.4,4.6,1.6,18.0,0.2,0.4,25.5
+set3_380,pork beef salami cooked,41,3.2,2.7,0.3,10.9,0.0,0.2,1.8
+set3_381,pork breakfast strips raw,88,8.4,2.7,0.2,15.6,6.1,0.2,1.8
+set3_382,pickle pimiento loaf,86,6.1,4.3,3.2,22.0,3.0,0.5,41.4
+set3_383,luxury loaf,39,1.3,5.2,1.4,10.1,0.0,0.3,10.1
+set3_384,mortadella,47,3.8,2.5,0.5,8.4,0.0,0.2,2.7
+set3_385,pork bologna,69,5.6,4.3,0.2,16.5,0.0,0.2,3.1
+set3_386,turkey salami cooked,9,0.5,1.0,0.081,3.8,0.0,0.026,2.0
+set3_387,pepperoni beef,10,0.9,0.5,0.0,2.1,0.097,0.035,0.4
+set3_388,peppered loaf,42,1.8,4.9,1.3,13.1,0.0,0.3,15.4
+set3_389,luncheon meat beef,10,0.3,1.8,0.0,3.2,0.0,0.3,0.9
+set3_390,lebanon bologna,98,6.0,10.8,0.3,31.4,0.5,1.2,11.4
+set3_391,chicken pork bologna,94,8.6,2.9,1.2,24.4,3.7,0.3,54.9
+set3_392,turkey roll,40,1.9,4.9,0.6,14.9,0.0,0.4,8.6
+set3_393,beef salami cooked,68,5.8,3.3,0.5,18.5,0.0,0.6,1.6
+set3_394,yachtwurst cooked,150,12.7,8.3,0.8,35.8,0.0,0.6,10.6
+set3_395,italian salami,43,3.7,2.2,0.1,8.0,0.0,0.2,1.0
+set3_396,turkey ham,38,1.6,5.5,0.3,18.8,0.0,0.4,1.4
+set3_397,turkey bologna,59,4.5,3.2,1.3,21.0,3.7,0.8,34.4
+set3_398,sliced turkey breast,17,0.6,2.4,0.4,7.8,0.006,0.023,0.0
+set3_399,luncheon meat pork beef,99,9.0,3.5,0.7,15.4,0.0,0.2,2.5
+set3_400,beef bologna,90,7.8,3.3,1.3,17.1,0.085,0.01,0.053
+set3_401,turkey bacon cooked,313,22.9,24.3,2.5,80.4,0.0,1.7,7.4
+set3_402,ground emu cooked,178,5.1,31.0,0.0,94.8,0.9,0.3,0.044
+set3_403,ostrich leg raw,94,1.5,19.0,0.0,56.1,0.0,2.0,4.3
+set3_404,ostrich strip raw,108,2.4,20.1,0.0,62.1,0.0,3.6,4.3
+set3_405,emu fillet cooked,607,9.1,123.2,0.0,323.1,0.0,18.0,23.6
+set3_406,ostrich tenderloin raw,105,2.7,18.8,0.0,68.0,0.0,4.1,5.1
+set3_407,emu drums cooked,649,8.4,134.7,0.0,378.6,0.0,30.2,25.0
+set3_408,green turtle raw,25,0.1,5.6,0.0,14.2,0.0,0.4,33.4
+set3_409,ground bison cooked,448,21.6,63.6,0.0,177.5,0.0,8.0,35.0
+set3_410,goat meat raw,494,10.5,93.4,0.0,258.6,0.0,12.8,59.0
+set3_411,ground emu raw,157,4.7,26.6,0.0,80.7,0.0,4.7,8.2
+set3_412,ground ostrich raw,180,9.5,22.0,0.0,77.4,0.0,3.2,7.6
+set3_413,ostrich tip cooked,123,2.2,24.2,0.0,72.3,0.0,2.4,5.1
+set3_414,caribou cooked,210,6.4,38.0,0.0,141.2,0.0,6.3,6.6
+set3_415,ground ostrich cooked,163,6.6,24.3,0.0,77.2,0.5,0.1,0.0
+set3_416,ostrich leg cooked,120,1.6,24.7,0.0,62.1,0.0,2.7,5.1
+set3_417,ostrich top loin cooked,132,3.3,23.9,0.0,79.1,0.5,0.1,0.046
+set3_418,ostrich strip cooked,139,3.6,25.0,0.0,82.5,0.0,4.1,4.3
+set3_419,ostrich tip raw,97,2.0,18.6,0.0,61.2,0.0,2.4,4.3
+set3_420,ostrich round raw,99,2.0,18.7,0.0,60.4,0.0,3.0,4.3
+set3_421,ground bison raw,124,6.1,17.2,0.099,46.8,0.0,2.4,9.4
+set3_422,ostrich fan raw,99,2.3,18.5,0.0,62.1,0.0,3.7,5.1
+set3_423,ostrich top loin raw,101,2.5,18.4,0.0,63.8,0.0,2.7,5.1
+set3_424,veal brain cooked,461,32.6,38.9,0.0,10509.0,44.1,5.7,54.2
+set3_425,veal tongue cooked,515,25.8,65.9,0.0,606.9,15.3,5.3,23.0
+set3_426,beef heart cooked,47,1.3,8.1,0.057,60.0,0.048,0.2,0.038
+set3_427,turkey liver cooked,100,4.3,14.3,0.0,343.4,12.0,0.9,10.1
+set3_428,veal thymus cooked,35,0.9,6.4,0.0,99.1,11.2,0.4,1.1
+set3_429,beef brain cooked,688,55.6,44.1,0.0,7002.5,11.6,7.8,31.6
+set3_430,beef pancreas cooked,602,38.2,60.2,0.0,581.6,45.1,5.8,35.5
+set3_431,beef tripe cooked,80,3.4,10.0,1.7,133.5,0.0,0.6,68.9
+set3_432,chicken gizzard cooked,223,3.9,44.1,0.0,536.5,0.0,4.6,24.7
+set3_433,pork pancreas cooked,537,26.5,69.8,0.0,771.8,14.0,6.6,39.2
+set3_434,beef tongue cooked,80,6.3,5.5,0.0,37.4,0.4,0.7,1.4
+set3_435,lamb heart cooked,353,15.1,47.7,3.7,475.6,13.4,10.5,26.7
+set3_436,beef spleen cooked,447,12.9,77.3,0.0,1068.8,154.9,121.2,37.0
+set3_437,veal kidneys cooked,300,10.4,48.4,0.0,1455.4,14.7,5.6,53.4
+set3_438,chicken heart cooked,268,11.5,38.3,0.1,350.9,2.6,13.1,27.6
+set3_439,lamb tongue cooked,701,51.7,55.0,0.0,482.0,17.9,6.7,25.5
+set3_440,veal heart cooked,368,13.4,57.7,0.3,348.5,19.8,8.6,15.8
+set3_441,chicken liver cooked,76,2.8,11.3,0.5,248.2,0.4,0.2,0.0
+set3_442,lamb pancreas cooked,541,34.9,52.7,0.0,924.0,46.2,4.9,27.7
+set3_443,veal spleen cooked,445,10.0,83.1,0.0,1542.2,138.0,25.4,24.2
+set3_444,lamb liver cooked,739,29.6,102.7,8.5,1683.4,13.4,27.8,26.9
+set3_445,turkey gizzard cooked,70,2.1,11.9,0.0,203.4,2.8,1.7,7.7
+set3_446,lamp spleen cooked,460,14.1,78.1,0.0,1135.8,76.7,114.1,38.4
+set3_447,turkey heart cooked,35,1.5,5.0,0.0,71.8,0.6,1.4,4.2
+set3_448,beef liver cooked,130,3.6,19.8,3.5,269.3,0.7,9.7,0.07
+set3_449,lamb lungs cooked,431,11.8,75.7,0.0,1082.0,106.7,17.4,45.7
+set3_450,pork brain cooked,527,36.3,46.4,0.0,9748.6,53.5,7.0,34.4
+set3_451,goose liver,125,4.0,15.4,5.9,484.1,4.2,28.7,40.4
+set3_452,pork kidneys cooked,211,6.6,35.6,0.0,672.0,14.8,7.4,18.2
+set3_453,lamb brain cooked,503,35.3,43.5,0.0,7089.2,41.6,5.8,41.6
+set3_454,pork heart cooked,215,7.3,34.2,0.6,320.5,2.9,8.5,10.2
+set3_455,lamb kidneys cooked,349,9.2,60.3,2.5,1440.8,30.6,31.6,45.9
+set3_456,beef lungs cooked,364,11.2,61.8,0.0,839.3,99.1,16.4,33.3
+set3_457,veal pancreas cooked,614,35.0,69.8,0.0,0.0,14.4,5.7,43.2
+set3_458,pork liver cooked,584,15.6,92.1,13.3,1256.7,83.5,63.4,35.4
+set3_459,beef kidneys cooked,45,1.3,7.7,0.0,202.6,0.0,1.6,5.4
+set3_460,turkey giblets cooked,164,6.3,25.1,0.0,495.0,0.5,0.7,0.014
+set3_461,duck liver raw,60,2.0,8.2,1.6,226.6,2.0,13.4,4.8
+set3_462,veal liver cooked,154,5.0,22.7,3.0,408.8,0.7,12.0,0.043
+set3_463,pork lungs cooked,297,9.3,49.8,0.0,1161.0,23.7,49.2,24.0
+set3_464,veal lungs cooked,312,7.9,56.2,0.0,789.0,102.0,10.8,21.0
+set3_465,beef thymus cooked,1215,95.2,83.2,0.0,1120.1,115.1,5.7,38.1
+set3_466,ham,46,2.5,4.6,1.0,16.0,1.1,0.3,6.7
+set3_467,pork meat cooked,283,14.1,14.1,0.0,112.6,0.0,0.7,10.7
+set3_468,bacon roasted,43,3.3,3.0,0.1,8.8,0.09,0.096,0.097
+set3_469,pork top loin roasts raw,3644,182.8,468.4,0.0,1404.8,0.0,11.6,153.7
+set3_470,pork blade roll raw,76,6.2,4.7,0.0,15.0,0.014,0.2,2.0
+set3_471,pork backribs raw,2399,174.9,204.2,0.0,739.0,0.0,8.1,332.0
+set3_472,pork spareribs cooked,703,53.6,51.4,0.0,214.2,0.0,3.3,83.2
+set3_473,pork stomach cooked,44,2.1,6.1,0.029,89.4,0.0,0.3,4.2
+set3_474,honey smoked ham cooked,67,1.3,9.9,4.0,12.1,0.3,0.2,3.3
+set3_475,boston butt steak raw,844,56.1,79.0,0.0,281.2,0.0,5.1,72.6
+set3_476,pork sirloin chops cooked,140,4.5,23.3,0.0,65.6,0.4,0.012,0.0
+set3_477,pork country style ribs raw,242,15.1,24.8,0.0,94.7,0.0,1.1,28.2
+set3_478,ham patties,205,18.3,8.3,1.1,45.5,0.0,0.7,5.2
+set3_479,pork feet cooked,67,4.5,6.2,0.0,30.3,0.0,0.3,0.0
+set3_480,ground pork cooked,930,65.0,80.4,0.0,294.2,2.2,4.0,68.9
+set3_481,pork centre loin chops cooked,328,17.4,40.2,0.0,131.9,1.1,0.1,0.0
+set3_482,pork leg cap steak cooked,307,8.6,53.5,0.0,157.1,0.0,1.9,13.6
+set3_483,pork blade chops raw,376,15.4,55.8,0.0,155.2,0.0,1.9,78.9
+set3_484,pork tenderloin raw,606,17.8,104.3,0.0,328.3,0.0,4.9,30.3
+set3_485,pork sirloin chops raw,1090,23.3,205.5,0.0,567.6,0.0,5.0,81.1
+set3_486,pork leg cap steak raw,284,7.8,50.0,0.0,145.5,0.0,1.9,16.2
+set3_487,pork carcass raw,1706,159.1,63.1,0.0,335.7,1.8,3.1,86.2
+set3_488,pork splean cooked,446,9.6,84.3,0.0,1507.0,34.7,66.5,38.9
+set3_489,chopped ham,50,2.9,4.6,1.2,16.5,0.0,0.2,2.0
+set3_490,pork centre loin chops raw,338,18.0,41.2,0.0,137.3,0.0,1.3,37.8
+set3_491,pork blade chops cooked,265,14.6,32.4,1.1,100.9,0.0,1.2,10.5
+set3_492,boston butt steak cooked,494,32.7,46.4,0.0,181.3,0.0,3.2,48.1
+set3_493,pork meat raw,179,18.6,2.6,0.0,20.4,0.0,0.07,4.0
+set3_494,pork top loin chops raw,287,12.8,39.9,0.0,124.0,0.0,0.9,13.0
+set3_495,pork blade steak braised,694,44.7,68.2,0.087,256.1,1.2,0.5,0.0
+set3_496,pork boston steaks cooked,438,28.1,43.2,0.0,160.6,0.5,2.4,60.8
+set3_497,bacon cooked,43,3.1,3.5,0.068,10.1,0.047,0.047,0.0
+set3_498,pickled pork hocks,48,3.0,5.4,0.0,25.2,0.0,0.3,5.4
+set3_499,pork boston roast cooked,705,49.4,60.5,0.0,225.3,1.8,3.8,73.4
+set3_500,canadian style bacon grilled,43,2.0,5.7,0.3,13.6,0.0,0.2,2.4
+set3_501,ham steak,70,2.4,11.1,0.0,25.7,18.4,0.6,2.3
+set3_502,pork backfat,3683,402.3,13.2,0.0,258.6,0.5,0.8,9.1
+set3_503,bacon baked,44,3.5,2.9,0.1,8.7,0.084,0.054,0.047
+set3_504,pork arm picnic raw,5298,343.4,513.6,0.0,1729.4,0.0,15.6,329.4
+set3_505,salt pork raw,212,22.8,1.4,0.0,24.3,0.0,0.1,1.7
+set3_506,pork arm picnic cooked,5292,322.7,560.3,0.0,1936.7,0.0,20.7,360.3
+set3_507,pork top loin chops cooked,270,11.2,39.4,0.0,97.2,0.7,0.1,0.0
+set3_508,ground pork raw,329,26.5,21.1,0.0,90.0,0.9,1.1,17.5
+set3_509,pork shoulder raw,1070,81.6,77.9,0.0,322.1,3.2,4.8,68.0
+set3_510,pork chitterlings cooked,66,5.8,3.5,0.0,78.4,0.0,0.056,0.0
+set3_511,pork breakfast strips cooked,52,4.1,3.3,0.1,11.9,0.0,0.2,1.6
+set3_512,pork blade roll roasted,1079,88.3,65.0,1.4,251.9,12.0,3.3,26.3
+set3_513,pork tail cooked,1089,98.5,46.8,0.0,354.8,0.0,2.2,38.5
+set3_514,pork centre rib roasts raw,275,9.7,44.0,0.0,113.1,0.0,1.2,48.5
+set3_515,pork centre rib roasts roasted,1942,114.9,211.3,0.0,610.7,3.8,0.7,0.0
+set3_516,minced ham,55,4.3,3.4,0.4,14.7,0.0,0.2,2.1
+set3_517,ham roasted,316,21.3,28.7,0.6,86.8,19.6,1.9,11.2
+set3_518,pork loin raw,232,14.7,23.1,0.0,73.7,0.7,0.9,21.1
+set3_519,pork backribs roasted,2564,188.9,202.0,0.0,737.5,3.6,0.9,0.0
+set3_520,pork belly raw,2350,240.5,42.4,0.0,326.6,1.4,2.4,22.7
+set3_521,ham raw,266,18.2,23.8,0.046,54.6,0.0,1.2,8.4
+set3_522,ham extra lean,45,2.3,5.1,0.6,14.8,0.0,0.3,2.0
+set3_523,pork feet pickled,635,45.5,52.8,0.029,376.5,0.0,1.4,145.2
+set3_524,pork shoulder cooked,394,28.9,31.4,0.0,121.5,0.7,1.8,32.4
+set3_525,pork top loin roasts roasted,1628,74.8,224.3,0.0,678.4,5.9,0.7,0.0
+set3_526,pork skin,154,8.9,17.3,0.0,26.9,0.1,0.2,8.5
+set3_527,pork country style ribs cooked,235,15.2,22.8,0.0,88.6,0.0,1.2,29.2
+set3_528,pork blade steak raw,664,43.7,67.6,0.6,243.7,0.0,3.8,59.0
+set3_529,pork tenderloin cooked,153,6.2,22.7,0.0,71.4,0.8,1.1,3.8
+set3_530,pork loin cooked,213,12.1,24.2,0.0,71.2,0.5,1.0,18.7
+set3_531,pork ears cooked,184,12.0,17.7,0.2,99.9,0.0,1.7,20.0
+set3_532,pork tongue cooked,626,43.0,55.7,0.0,337.3,3.9,11.5,43.9
+set3_533,pork spareribs raw,3593,303.5,200.6,0.0,1037.6,0.0,11.8,194.6
+set3_534,ham patties grilled,205,18.5,8.0,1.0,43.2,0.0,1.0,5.4
+set3_535,chicken skin roasted,508,45.6,22.8,0.0,93.0,0.0,1.7,15.7
+set3_536,turkey breast raw,3554,158.9,495.6,0.0,1471.6,0.0,27.2,294.3
+set3_537,ground turkey raw,169,8.7,22.4,0.0,78.7,0.0,1.2,21.7
+set3_538,chicken wing cooked,52,3.5,4.8,0.0,14.7,0.0,0.2,2.5
+set3_539,turkey roast roasted,209,7.8,28.8,4.1,71.6,0.0,2.2,6.8
+set3_540,pheasant meat raw,1448,74.3,181.6,0.0,568.0,42.4,9.2,96.0
+set3_541,chicken back raw,188,17.0,8.3,0.0,46.6,0.9,0.6,7.7
+set3_542,chicken back cooked,93,6.5,8.0,0.0,28.1,0.0,0.4,6.5
+set3_543,chicken leg fried,431,25.5,34.4,13.8,142.2,0.0,2.2,28.4
+set3_544,chicken feet cooked,975,66.2,88.0,0.9,381.0,0.0,4.1,399.2
+set3_545,turkey steak fried,179,10.8,9.1,10.9,41.0,0.0,1.4,9.0
+set3_546,turkey taco meat cooked,271,13.9,30.7,5.5,129.9,0.0,3.3,126.3
+set3_547,chicken leg raw,736,54.9,56.3,0.6,319.9,0.7,2.4,31.0
+set3_548,chicken meat raw,1978,138.6,171.1,0.0,690.0,14.7,8.3,101.2
+set3_549,chicken neck cooked,94,6.9,7.5,0.0,26.6,0.0,0.9,10.3
+set3_550,chicken drumstick fried,193,11.3,15.8,6.0,61.9,0.0,1.0,12.2
+set3_551,quail egg,14,1.0,1.2,0.08,76.0,0.0,0.3,5.8
+set3_552,duck meat cooked,472,39.7,26.6,0.0,117.6,0.0,3.8,15.4
+set3_553,chicken wing roasted,216,14.3,20.2,0.0,119.9,0.5,0.092,0.024
+set3_554,quail meat cooked,1028,63.9,113.7,0.0,389.6,10.4,20.1,68.0
+set3_555,goose meat cooked,427,30.7,35.2,0.0,127.4,0.0,4.0,18.2
+set3_556,chicken breast cooked,114,4.5,17.3,0.0,48.7,0.0,0.6,8.1
+set3_557,chicken neck raw,149,13.1,7.0,0.0,49.5,0.0,1.0,9.0
+set3_558,duck egg,130,9.6,9.0,1.0,618.8,0.0,2.7,44.8
+set3_559,pheasant breast raw,484,11.8,88.7,0.0,211.1,21.8,2.9,10.9
+set3_560,duck meat raw,5123,498.8,145.7,0.0,963.7,35.5,30.4,139.5
+set3_561,squab meat raw,585,47.4,36.8,0.0,189.1,10.3,7.0,23.9
+set3_562,chicken drumstick raw,211,12.4,23.4,0.1,122.4,0.0,0.8,13.3
+set3_563,turkey meat roasted,284,11.1,42.8,0.031,163.5,0.0,1.6,21.0
+set3_564,chicken breast raw,299,16.1,36.3,0.0,111.4,0.0,1.3,19.1
+set3_565,ground chicken cooked,474,27.4,58.4,0.0,268.6,1.4,0.2,0.044
+set3_566,turkey wing cooked,426,23.1,50.9,0.0,150.7,0.0,2.7,44.6
+set3_567,goose meat raw,6077,550.7,259.8,0.0,1310.4,68.8,41.0,196.6
+set3_568,turkey breast roasted,3266,128.0,496.1,0.0,1278.7,0.0,24.2,362.9
+set3_569,chicken fajita strips,13,0.5,1.7,0.2,8.3,0.0,0.097,1.2
+set3_570,crispy chicken strips tyson,145,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+set4_0,chocolate pudding fat free,105,0.3,2.2,23.6,1.1,0.0,1.9,44.1
+set4_1,tapioca pudding,143,4.3,2.1,23.9,1.1,0.3,0.1,78.1
+set4_2,tapioca pudding fat free,105,0.4,1.6,23.9,1.1,0.3,0.1,58.2
+set4_3,rice pudding,122,2.4,3.6,20.8,13.6,0.074,0.014,0.063
+set4_4,corn pudding,328,12.6,11.1,42.4,180.0,0.3,0.1,0.066
+set4_5,chocolate pudding,213,6.9,3.1,34.5,1.5,0.5,1.9,76.5
+set4_6,lemon pudding,173,4.4,4.1,30.2,16.5,1.2,0.058,148.5
+set4_7,vanilla pudding,195,5.7,2.2,33.9,1.5,0.3,0.1,73.5
+set4_8,profeel proteiinirahka valio,140,0.4,175.0,19.3,0.0,0.0,0.0,0.0
+set4_9,cottage cheese creamed,20,0.9,2.2,0.7,3.4,0.0,0.071,16.6
+set4_10,zaziki milfina,51,4.4,0.0,0.0,0.0,0.0,0.0,0.0
+set4_11,cottage cheese low fat,163,2.3,28.0,6.1,9.0,0.0,0.3,137.9
+set4_12,cottage cheese nonfat,104,0.4,15.0,9.7,10.2,0.0,0.2,124.7
+set4_13,vanilla yogurt low fat,208,3.1,12.1,33.8,12.3,2.0,0.2,419.0
+set4_14,classique yogurt plain 2 liberte,30,1.2,3.3,1.7,0.017,0.0,0.0,0.0
+set4_15,yoplait light strawberry yogurt yoplait,79,0.0,0.0,0.074,0.0,0.0,0.0,0.0
+set4_16,vanilla yogurt,145,2.1,8.4,23.5,8.5,1.4,0.1,290.7
+set4_17,chocolate yogurt,168,0.0,5.3,35.3,1.5,0.0,0.6,132.0
+set4_18,yogurt parfait,125,1.5,5.0,23.6,4.5,21.3,0.7,156.5
+set4_19,yogurt,92,4.9,5.2,7.0,19.5,0.8,0.001,181.5
+set4_20,chocolate frozen yogurt,221,6.3,5.2,37.6,22.6,0.0,0.8,174.0
+set4_21,frozen yogurt,221,6.3,5.2,37.6,22.6,1.2,0.8,174.0
+set4_22,yogurt low fat,154,3.8,12.9,17.2,14.7,2.0,0.2,448.4
+set4_23,vanilla yoghurt oikos,120,1.8,0.0,0.0,0.0,0.0,0.0,0.0
+set4_24,fruit yogurt,149,1.7,6.0,28.0,7.5,0.9,0.066,207.0
+set4_25,danone low fat alsafi,88,1.7,0.0,0.089,0.0,0.0,0.0,0.0
+set4_26,fruit n yogurt parfait mcdonalds,156,1.9,4.1,30.9,7.5,20.7,0.7,128.1
+set4_27,triple zero greek yogurt dannon oikos,120,0.0,0.038,22.5,0.0,0.0,0.0,0.0
+set4_28,greek yogurt,100,0.7,17.3,6.1,8.5,0.0,0.1,187.0
+set4_29,chocolate rasberry protein mini proteinfx,102,2.9,0.0,0.0,0.0,0.0,0.0,0.0
+set4_30,gushers fruit gushers,360,6.0,0.0,0.2,0.0,0.0,0.0,0.0
+set4_31,egg fried,90,6.8,6.3,0.4,184.5,0.0,0.9,28.5
+set4_32,glucerna abbott,1010,35.6,0.0,120.9,0.0,0.0,0.0,0.0
+set4_33,sports drink,26,0.0,0.0,7.2,0.0,15.1,0.1,0.0
+set4_34,peanut butter cookie protein syntha 6,200,6.0,0.0,5.0,0.0,0.0,0.0,0.0
+set4_35,hanfprotein pulver rohkostqualitat veganz,107,3.1,0.0,14.2,0.0,0.0,0.0,0.0
+set4_36,smoothie high protein creamy chocolate slimfast,110,3.5,12.0,2.1,5.0,0.0,0.0,0.0
+set4_37,egg large,138,9.3,0.0,0.0,0.0,0.0,0.0,0.0
+set4_38,boysenberries frozen,66,0.3,1.5,16.1,0.0,4.1,1.1,35.6
+set4_39,malt beverage,88,0.3,0.5,19.1,0.0,1.2,0.1,16.6
+set4_40,chocolate powder for milk,88,0.5,1.0,19.9,0.0,6.0,0.0,100.1
+set4_41,vegetable fruit juice,9,0.017,0.071,2.2,0.0,9.6,0.013,0.9
+set4_42,cocoa powder unsweetened,12,0.7,1.1,3.1,0.0,0.0,0.7,6.9
+set4_43,coconut milk,35,3.6,0.3,0.8,0.0,0.4,0.2,2.4
+set4_44,cocoa powder,28,0.3,0.5,5.9,0.0,0.016,0.075,9.3
+set4_45,rice drink,113,2.3,0.7,22.0,0.0,0.059,0.013,0.078
+set4_46,coconut water,46,0.5,1.7,8.9,0.0,5.8,0.7,57.6
+set4_47,caramel med iced coffee dunkin donuts,268,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+set4_48,instant coffee with water decaffeinated,4,0.0,0.2,0.8,0.0,0.0,0.042,7.2
+set4_49,instant coffee powder,353,0.5,12.2,75.4,0.0,0.0,4.4,141.0
+set4_50,instant coffee powder decaffeinated,6,0.069,0.2,1.4,0.0,0.0,0.056,2.5
+set4_51,instant cappuccino powder,53,0.7,0.4,11.2,0.3,0.1,0.036,17.3
+set4_52,coffee decaffeinated,0,0.0,0.2,0.0,0.0,0.0,0.1,4.7
+set4_53,espresso decaffeinated,3,0.011,0.065,0.5,0.0,0.026,0.087,0.6
+set4_54,instant coffee with water,4,0.0,0.2,0.6,0.0,0.0,0.015,7.2
+set4_55,coffee,2,0.069,0.3,0.0,0.0,0.0,0.051,4.7
+set4_56,espresso,3,0.086,0.021,0.5,0.0,0.099,0.049,0.6
+set4_57,whey protein powder vanilla eas,108,1.7,0.0,0.0,0.0,0.0,0.0,0.0
+set4_58,energy drink sugar free red bull,13,0.2,0.6,1.8,0.0,0.0,0.023,32.5
+set4_59,powerade coca cola,9,0.009,0.0,2.3,0.0,0.0,0.096,0.3
+set4_60,amp energy pepsi,110,0.2,0.6,29.0,0.0,0.0,0.053,31.2
+set4_61,gatorade g2 pepsi,2,0.052,0.069,0.6,0.0,0.0,0.0,0.0
+set4_62,amp energy sugar free pepsi,5,0.0,0.0,2.5,0.0,0.0,0.0,0.0
+set4_63,energy drink red bull,111,0.0,1.2,26.4,0.0,5.6,0.049,0.0
+set4_64,powerade zero ion4 coca cola,0,0.0,0.0,0.0,0.0,0.7,0.072,0.6
+set4_65,full throttle coca cola,110,0.2,0.6,29.0,0.0,0.0,0.037,31.2
+set4_66,passion fruit juice purple,148,0.4,1.7,35.7,0.0,45.0,0.9,9.9
+set4_67,pomegranate juice,134,0.7,0.4,32.7,0.0,0.2,0.2,27.4
+set4_68,cranberry apricot juice,157,0.0,0.5,39.7,0.0,0.0,0.4,22.1
+set4_69,pineapple juice,133,0.3,0.9,32.2,0.0,0.3,0.2,0.062
+set4_70,passion fruit juice yellow,126,0.1,1.0,33.6,0.0,73.6,0.6,9.9
+set4_71,orange apricot juice,128,0.3,0.8,31.8,0.0,50.0,0.3,12.5
+set4_72,tangerine juice,106,0.5,1.2,24.9,0.0,0.1,0.06,0.0
+set4_73,orange juice,90,0.4,1.4,20.8,0.0,0.052,0.06,0.053
+set4_74,grapefruit juice,96,0.2,1.2,22.7,0.0,0.1,0.004,0.0
+set4_75,pineapple grapefruit juice,118,0.3,0.5,29.0,0.0,115.0,0.8,17.5
+set4_76,tamarind nectar,143,0.3,0.2,37.0,0.0,17.8,1.9,25.1
+set4_77,apple juice,114,0.3,0.2,28.0,0.0,0.025,0.065,0.0
+set4_78,limeade,128,0.0,0.0,34.1,0.0,7.7,0.0,4.9
+set4_79,guava nectar,158,0.2,0.2,40.8,0.0,0.057,0.055,0.087
+set4_80,orange grapefruit juice,106,0.2,1.5,25.4,0.0,71.9,1.1,19.8
+set4_81,orange juice sainsburys,14,0.088,0.0,0.0,0.0,0.0,0.0,0.0
+set4_82,cranberry apple juice,154,0.3,0.0,38.8,0.0,96.8,0.2,7.4
+set4_83,pineapple orange juice,125,0.0,3.3,29.5,0.0,56.3,0.7,12.5
+set4_84,pear nectar,150,0.062,0.3,39.4,0.0,0.017,0.2,0.0
+set4_85,blackberry juice,95,1.5,0.8,19.5,0.0,28.3,1.2,30.0
+set4_86,lemon juice,54,0.6,0.9,16.6,0.0,0.1,0.073,0.0
+set4_87,cranberry grape juice,137,0.2,0.5,34.3,0.0,78.4,0.04,19.6
+set4_88,citrus fruit juice,114,0.057,0.8,28.3,0.0,67.2,2.8,22.3
+set4_89,prune juice,182,0.006,1.6,44.7,0.0,10.5,3.0,30.7
+set4_90,guanabana nectar,148,0.4,0.3,37.5,0.0,27.9,0.9,17.6
+set4_91,fruit juice,108,0.1,0.3,26.3,0.0,0.001,0.039,0.0
+set4_92,horchata,15,0.2,0.1,3.3,0.0,0.0,0.057,5.1
+set4_93,fruit punch,98,0.4,0.2,24.4,0.0,11.2,0.5,16.4
+set4_94,apricot nectar,139,0.2,0.9,35.7,0.0,1.5,0.9,17.4
+set4_95,orangensaft ja,86,0.0,0.0,1.4,0.0,0.0,0.0,0.0
+set4_96,fruchtcocktail granini,102,0.4,0.0,1.0,0.0,0.0,0.0,0.0
+set4_97,peach nectar,125,1.3,0.5,29.7,0.0,0.091,0.2,0.0
+set4_98,orange pineapple juice,15,0.08,0.1,3.6,0.0,12.0,0.086,2.4
+set4_99,cranberry juice,92,0.3,0.8,24.4,0.0,0.1,0.1,0.099
+set4_100,white grapefruit juice,96,0.2,1.2,22.7,0.0,93.9,0.5,22.2
+set4_101,mango nectar,128,0.2,0.3,32.9,0.0,0.038,0.087,0.047
+set4_102,acerola cherry juice,56,0.7,1.0,11.6,0.0,3872.0,1.2,24.2
+set4_103,apple juice concentrate,350,0.8,1.1,86.5,0.0,4.4,1.9,42.2
+set4_104,papaya nectar,143,0.4,0.4,36.3,0.0,0.017,0.029,0.076
+set4_105,apple juice martinellis,122,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+set4_106,lime juice,61,0.2,1.0,20.4,0.0,72.6,0.2,33.9
+set4_107,grape juice,152,0.3,0.9,37.4,0.0,0.3,0.6,27.8
+set4_108,water dannon,0,0.0,0.0,0.0,0.0,0.0,0.0,9.9
+set4_109,tap water,0,0.0,0.0,0.0,0.0,0.0,0.0,7.1
+set4_110,table water,0,0.0,0.0,0.0,0.0,0.0,0.0,70.0
+set4_111,fruit flavored water,52,0.0,0.0,13.0,0.0,30.1,0.0,40.3
+set4_112,water,0,0.0,0.0,0.0,0.0,0.0,0.0,23.7
+set4_113,cola light coca cola,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+set4_114,lemon lime soda,151,0.0,0.3,38.4,0.0,0.0,0.061,7.4
+set4_115,tonic water,114,0.0,0.0,29.6,0.0,0.0,0.09,3.4
+set4_116,lemonade low calorie,7,0.0,0.092,1.6,0.0,7.6,0.1,66.9
+set4_117,ginger ale,68,0.0,0.0,17.5,0.0,0.0,0.024,0.0
+set4_118,ice tea lemon flavor nestle,88,0.0,0.0,22.3,0.0,0.0,0.0,7.4
+set4_119,sprite coca cola,80,0.063,0.1,20.3,0.0,0.0,0.042,0.0
+set4_120,cola coca cola,151,0.0,0.0,38.9,0.0,0.0,0.048,7.4
+set4_121,cola,74,0.07,0.1,19.1,0.0,0.0,0.012,0.0
+set4_122,cream soda,252,0.0,0.0,65.7,0.0,0.0,0.2,24.7
+set4_123,club soda,0,0.0,0.0,0.0,0.0,0.0,0.015,0.0
+set4_124,pink lemonade,86,0.3,0.1,21.6,0.0,6.2,0.092,8.0
+set4_125,grape soda,160,0.0,0.0,41.7,0.0,0.0,0.3,11.2
+set4_126,cola without caffeine coca cola,151,0.0,0.0,38.9,0.0,0.0,0.026,7.4
+set4_127,white lemonade,80,0.003,0.1,20.8,0.0,0.007,0.013,0.0
+set4_128,chocolate soda,207,0.0,0.0,52.6,0.0,0.0,0.5,19.7
+set4_129,sweet tea lipton,130,0.0,0.0,35.0,0.0,0.0,0.0,0.0
+set4_130,hibiscus tea,74,1.3,0.9,14.8,0.0,36.8,17.3,2.0
+set4_131,instant lemon tea,2,0.0,0.1,0.3,0.0,0.009,0.026,0.0
+set4_132,pesca tea santal,116,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+set4_133,instant lemon tea sweetened,91,0.2,0.071,22.3,0.0,0.0,0.0,5.2
+set4_134,tea with milk and sugar yorkshire,15,0.5,0.0,0.4,0.0,0.0,0.0,0.0
+set4_135,tea blueberry muffin tekanne,4,0.2,0.0,0.4,0.0,0.0,0.0,0.0
+set4_136,chamomile tea,2,0.0,0.0,0.4,0.0,0.0,0.2,4.0
+set4_137,black tea,2,0.0,0.0,0.7,0.0,0.0,0.088,0.0
+set4_138,herb tea,2,0.0,0.0,0.4,0.0,0.0,0.2,4.0
+set4_139,clam tomato juice,80,0.3,1.0,18.2,0.0,8.3,0.2,13.3
+set4_140,tomato juice,41,0.7,2.1,8.6,0.0,0.2,0.1,0.056
+set4_141,vegetable juice,53,0.2,1.5,11.1,0.0,0.3,0.5,0.007
+set4_142,tomato vegetable juice,53,0.2,1.5,11.1,0.0,67.0,1.0,26.6
+set4_143,carrot juice,80,0.3,1.9,18.6,0.0,17.0,0.9,48.0
+set4_144,acorn dried,144,8.9,2.3,15.2,0.0,0.0,0.3,15.3
+set4_145,fenugreek seeds,36,0.7,2.6,6.5,0.0,0.3,3.7,19.5
+set4_146,peanut topping mcdonalds,181,15.0,7.9,4.6,0.0,0.0,0.4,13.0
+set4_147,beechnuts dried,173,15.0,1.9,10.1,0.0,4.7,0.7,0.3
+set4_148,breadnut tree seeds raw,61,0.3,1.7,13.1,0.0,7.8,0.6,27.7
+set4_149,cumin seeds,8,0.5,0.4,0.9,0.0,0.2,1.4,19.6
+set4_150,pili nuts dried,863,95.5,13.0,4.8,0.0,0.7,4.2,174.0
+set4_151,hazelnuts roasted,194,18.7,4.5,5.3,0.0,1.1,1.3,36.9
+set4_152,lupins cooked,193,4.8,25.8,15.4,0.0,1.8,2.0,84.7
+set4_153,hazelnuts blanched,178,17.3,3.9,4.8,0.0,0.6,0.9,42.2
+set4_154,brazilnuts dried,33,3.3,0.7,0.6,0.0,0.024,0.1,8.0
+set4_155,sunflower seeds dry roasted,47,4.0,1.5,1.9,0.0,0.1,0.3,5.6
+set4_156,ginkgo nuts canned,172,2.5,3.5,34.3,0.0,14.1,0.4,6.2
+set4_157,peanuts cooked,572,39.6,24.3,38.3,0.0,0.0,1.8,99.0
+set4_158,pumpkin squash seeds dried,721,63.3,39.0,13.8,0.0,2.5,11.4,59.3
+set4_159,cashew nuts raw,156,12.4,5.2,8.5,0.0,0.1,1.9,10.5
+set4_160,sunflower seeds dried,269,23.7,9.6,9.2,0.0,0.6,2.4,35.9
+set4_161,lotus seeds dried,106,0.6,4.9,20.6,0.0,0.0,1.1,52.2
+set4_162,butternuts dried,734,68.4,29.9,14.5,0.0,3.8,4.8,63.6
+set4_163,sesame seeds dried,52,4.5,1.6,2.1,0.0,0.0,1.3,87.8
+set4_164,breadfruit seeds,57,1.7,2.2,8.8,0.0,2.0,1.1,10.8
+set4_165,pinyon pine nuts dried,1,0.073,0.083,0.01,0.0,0.004,0.007,0.022
+set4_166,pine nuts dried,909,92.3,18.5,17.7,0.0,1.1,7.5,21.6
+set4_167,flaxseeds,55,4.3,1.9,3.0,0.0,0.023,0.6,26.3
+set4_168,safflower seed kernels dried,146,10.9,4.6,9.7,0.0,0.0,1.4,22.1
+set4_169,pistachio nuts raw,691,55.8,24.9,33.8,0.0,6.9,4.8,129.2
+set4_170,peanuts raw,828,71.9,37.7,23.5,0.0,0.0,6.7,134.3
+set4_171,poppy seeds,46,3.7,1.6,2.5,0.0,0.061,0.9,126.5
+set4_172,valencia peanuts raw,832,69.5,36.6,30.5,0.0,0.0,3.1,90.5
+set4_173,spanish peanuts,832,72.4,38.2,23.1,0.0,0.0,5.7,154.8
+set4_174,dill seeds,20,1.0,1.1,3.6,0.0,1.4,1.1,100.1
+set4_175,caraway seeds,22,1.0,1.3,3.3,0.0,1.4,1.1,46.2
+set4_176,acorn raw,110,6.8,1.7,11.5,0.0,0.0,0.2,11.6
+set4_177,almonds roasted,182,16.6,6.4,5.3,0.0,0.0,1.1,87.3
+set4_178,lotus seeds raw,25,0.1,1.2,4.9,0.0,0.0,0.3,12.5
+set4_179,chestnuts cooked,37,0.4,0.6,7.9,0.0,7.6,0.5,13.0
+set4_180,alfalfa seeds,1,0.075,0.1,0.002,0.0,0.2,0.034,1.0
+set4_181,virginia peanuts roasted,173,14.6,7.8,6.0,0.0,0.0,0.5,25.8
+set4_182,hazelnuts raw,471,45.6,11.2,12.5,0.0,4.7,3.5,85.5
+set4_183,anise seeds,7,0.3,0.4,1.1,0.0,0.4,0.8,13.6
+set4_184,macadamia nuts roasted,215,22.8,2.3,4.0,0.0,0.2,0.8,21.0
+set4_185,studentenfutter alnatura,139,7.8,3.1,13.2,1.7,0.0,0.0,0.0
+set4_186,pumpkin squash seeds roasted,46,3.9,2.4,1.2,0.0,0.1,0.6,4.2
+set4_187,water chestnut raw,120,0.1,1.7,29.7,0.0,5.0,0.034,13.6
+set4_188,chestnuts roasted,37,0.3,0.5,7.9,0.0,3.9,0.1,4.4
+set4_189,ginkgo nuts raw,52,0.5,1.2,10.6,0.0,4.2,0.3,0.6
+set4_190,almonds raw,9,0.7,0.3,0.3,0.0,0.0,0.082,4.0
+set4_191,peanuts roasted,180,15.8,8.4,4.6,0.0,0.2,0.5,18.3
+set4_192,sunflower seeds toasted,829,76.1,23.1,27.6,0.0,1.9,9.1,76.4
+set4_193,sisymbrium seeds,235,3.4,9.0,43.1,0.0,22.7,0.098,1208.4
+set4_194,breadnut tree seeds dried,587,2.7,13.8,127.0,0.0,74.6,7.4,150.4
+set4_195,pecans raw,753,78.4,10.0,15.1,0.0,1.2,2.8,76.3
+set4_196,chia seeds dried,138,8.7,4.7,11.9,0.0,0.5,2.2,178.6
+set4_197,japanese chestnuts roasted,57,0.2,0.8,12.8,0.0,7.9,0.6,9.9
+set4_198,sesame seeds toasted,45,3.8,1.4,2.1,0.0,0.0,1.2,79.1
+set4_199,cashew nuts roasted,174,14.3,5.1,9.0,0.0,0.071,1.8,12.9
+set4_200,lupins raw,668,17.5,65.1,72.7,0.0,8.6,7.8,316.8
+set4_201,mustard seeds ground,10,0.7,0.5,0.6,0.0,0.1,0.2,5.3
+set4_202,mixed nuts roasted,178,15.4,5.2,7.6,0.0,0.1,1.1,21.0
+set4_203,salat mix alestro,61,5.2,0.0,2.4,0.0,0.0,0.0,0.0
+set4_204,chestnuts raw,309,3.3,3.5,66.0,0.0,62.4,1.5,39.2
+set4_205,pistachio nuts roasted,172,13.7,6.3,8.5,0.0,0.3,0.4,0.054
+set4_206,walnut,33,3.3,0.8,0.7,0.0,0.037,0.1,4.9
+set4_207,celery seeds,25,1.6,1.2,2.7,0.0,1.1,2.9,114.9
+set4_208,hickorynuts dried,788,77.2,15.3,21.9,0.0,2.4,2.5,73.2
+set4_209,spanish peanuts roasted,851,72.1,41.2,25.7,0.0,0.0,3.4,147.0
+set4_210,woca seeds dried,102,0.3,2.2,22.6,0.0,0.0,0.4,7.6
+set4_211,pecans roasted,215,22.6,2.8,3.9,0.0,0.2,0.7,20.1
+set4_212,fennel seeds,7,0.3,0.3,1.0,0.0,0.4,0.4,23.9
+set4_213,chinese chestnuts roasted,68,0.3,1.3,14.8,0.0,10.9,0.4,5.4
+set4_214,watermelon seed kernels dried,602,51.2,30.6,16.5,0.0,0.0,7.9,58.3
+set4_215,macadamia nuts raw,38,4.0,0.4,0.7,0.0,0.062,0.2,4.5
+set4_216,pectin,163,0.2,0.2,45.2,0.0,0.0,1.4,3.5
+set4_217,black walnut dried,31,3.0,1.2,0.5,0.0,0.032,0.2,3.1
+set4_218,water chestnut canned,70,0.015,1.2,17.2,0.0,1.8,1.2,5.6
+set4_219,ginkgo nuts dried,98,0.6,2.9,20.5,0.0,8.3,0.5,5.7
+set4_220,virginia peanuts raw,822,71.2,36.8,24.1,0.0,0.0,3.7,129.9
+set4_221,valencia peanuts roasted,177,15.4,8.1,4.9,0.0,0.0,0.5,16.2
+set4_222,nesfit diet cereal nestle,75,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+set4_223,corn grits cooked,182,1.2,4.4,37.9,0.0,0.0,1.5,2.6
+set4_224,amaranth flakes,134,2.7,5.9,27.0,0.0,1.0,0.7,6.5
+set4_225,granola,293,14.6,8.2,32.3,0.0,0.7,2.4,45.6
+set4_226,muesli with fruit nuts,231,3.4,4.3,45.7,0.0,0.0,5.9,25.8
+set4_227,muesli master crumble,124,2.4,2.4,4.5,0.0,0.0,0.0,0.0
+set4_228,bran flakes,131,0.8,4.0,32.2,0.0,0.7,0.3,0.025
+set4_229,nut cereal,245,5.9,4.0,46.2,0.0,10.7,10.3,75.6
+set4_230,corn flakes,108,0.3,1.7,24.6,0.0,0.5,0.083,0.0
+set4_231,corn grits dry,36,0.2,0.7,7.7,0.0,0.0,0.3,0.4
+set5_0,margarine with yoghurt,88,9.8,0.058,0.073,0.0,0.082,0.027,2.8
+set5_1,sunflower seed butter,99,8.8,2.8,3.7,0.0,0.4,0.7,10.2
+set5_2,hazelnut oil,120,13.6,0.0,0.0,0.0,0.0,0.0,0.0
+set5_3,menhaden fish oil,1966,218.0,0.0,0.0,1135.8,0.0,0.0,0.0
+set5_4,cod liver fish oil,123,13.6,0.0,0.0,77.5,0.0,0.0,0.0
+set5_5,sardine oil,123,13.6,0.0,0.0,96.6,0.0,0.0,0.0
+set5_6,cupu assu oil,120,13.6,0.0,0.0,0.0,0.0,0.0,0.0
+set5_7,lard,115,12.8,0.0,0.0,12.2,0.0,0.0,0.0
+set5_8,sesame butter,94,8.1,2.9,3.8,0.0,0.0,3.1,153.6
+set5_9,margarine spread,59,6.7,0.082,0.1,0.1,0.0,0.078,0.6
+set5_10,lard vegetable oil,115,12.8,0.0,0.0,7.2,0.0,0.0,0.0
+set5_11,shortening,113,12.8,0.0,0.0,0.0,0.0,0.0,0.0
+set5_12,vegetable oil spread,75,8.4,0.007,0.1,0.1,0.092,0.0,2.9
+set5_13,cottonseed oil,120,13.6,0.0,0.0,0.0,0.0,0.0,0.0
+set5_14,vegetable oil spread fat free,6,0.5,0.2,0.4,0.2,0.051,0.041,5.7
+set5_15,soy margarine,88,9.9,0.0,0.0,0.0,0.051,0.0,0.0
+set5_16,margarine with salt,100,11.3,0.031,0.017,0.0,0.036,0.0,0.068
+set5_17,margarine,102,11.5,0.037,0.018,0.0,0.076,0.0,0.059
+set5_18,salmon fish oil,123,13.6,0.0,0.0,66.0,0.0,0.0,0.0
+set5_19,nutmeg butter oil,1927,218.0,0.0,0.0,0.0,0.0,0.0,0.0
+set5_20,almond butter,98,8.9,3.4,3.0,0.0,0.0,0.6,55.5
+set5_21,sour cream shoprite,60,5.0,0.0,1.0,0.0,0.0,0.0,0.0
+set5_22,ucuhuba butter oil,120,13.6,0.0,0.0,0.0,0.0,0.0,0.0
+set5_23,chicken fat,115,12.8,0.0,0.0,10.9,0.0,0.0,0.0
+set5_24,herring fish oil,123,13.6,0.0,0.0,104.2,0.0,0.0,0.0
+set5_25,bacon grease,39,4.3,0.0,0.0,4.1,0.0,0.0,0.0
+set5_26,turkey fat,45,5.0,0.0,0.0,5.1,0.0,0.0,0.0
+set5_27,beef tallow,115,12.8,0.0,0.0,14.0,0.0,0.0,0.0
+set5_28,goose fat,45,5.0,0.0,0.0,5.0,0.0,0.0,0.0
+set5_29,duck fat,44,5.0,0.0,0.0,5.0,0.0,0.0,0.0
+set5_30,mutton tallow,45,5.0,0.0,0.0,5.1,0.0,0.0,0.0
+set5_31,grapeseed oil,120,13.6,0.0,0.0,0.0,0.0,0.0,0.0
+set5_32,sheanut oil,1927,218.0,0.0,0.0,0.0,0.0,0.0,0.0
+set5_33,almond oil,120,13.6,0.0,0.0,0.0,0.0,0.0,0.0
+set5_34,sunflower oil,120,13.6,0.0,0.0,0.0,0.0,0.0,0.1
+set5_35,cashew butter,94,7.9,2.8,4.4,0.0,0.0,0.8,6.9
+set5_36,canola oil,124,14.0,0.0,0.0,0.0,0.0,0.0,0.088
+set5_37,babassu oil,1927,218.0,0.0,0.0,0.0,0.0,0.0,0.0
+set5_38,teaseed oil,120,13.6,0.0,0.0,0.0,0.0,0.0,0.0
+set5_39,avocado oil,124,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+set5_40,vegetable palm kernel oil,117,13.6,0.0,0.0,0.0,0.0,0.0,0.0
+set5_41,coconut oil,117,13.6,0.0,0.0,0.0,0.0,0.0,0.029
+set5_42,safflower oil,120,13.6,0.0,0.0,0.0,0.0,0.0,0.0
+set5_43,vegetable oil,120,13.6,0.0,0.0,0.0,0.0,0.0,0.073
+set5_44,apricot kernel oil,40,4.5,0.0,0.0,0.0,0.0,0.0,0.0
+set5_45,peanut oil,119,13.5,0.0,0.0,0.0,0.0,0.004,0.0
+set5_46,poppyseed oil,120,13.6,0.0,0.0,0.0,0.0,0.0,0.0
+set5_47,flaxseed oil,120,13.6,0.086,0.0,0.0,0.0,0.0,0.1
+set5_48,tomatoseed oil,1927,218.0,0.0,0.0,0.0,0.0,0.0,0.0
+set5_49,wheat germ oil,120,13.6,0.0,0.0,0.0,0.0,0.0,0.0
+set5_50,sesame oil,40,4.5,0.0,0.0,0.0,0.0,0.0,0.0
+set5_51,corn granola oil,124,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+set5_52,cocoa butter oil,120,13.6,0.0,0.0,0.0,0.0,0.0,0.0
+set5_53,olive oil,119,13.5,0.0,0.0,0.0,0.0,0.092,0.1
+set5_54,palm kernel oil,40,4.5,0.0,0.0,0.0,0.0,0.0,0.033
+set5_55,mustard oil,124,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+set5_56,rice bran oil,120,13.6,0.0,0.0,0.0,0.0,0.001,0.0
+set5_57,vegetable macaroni dry,308,0.9,11.0,62.9,0.0,0.0,3.6,28.6
+set5_58,chow mein noodles,257,9.9,5.9,37.5,0.0,0.0,2.6,11.2
+set5_59,chinese noodles,456,0.094,0.2,111.9,0.0,0.031,0.1,0.0
+set5_60,vegetable macaroni cooked,172,0.1,6.1,35.7,0.0,0.0,0.7,14.7
+set5_61,corn pasta dry,375,2.2,7.8,83.2,0.0,0.0,1.0,4.2
+set5_62,egg noodles dry,146,1.7,5.4,27.1,31.9,0.0,0.7,13.3
+set5_63,whole wheat spaghetti dry,98,0.4,4.1,21.2,0.0,0.0,1.0,11.3
+set5_64,japanese soba noodles dry,95,0.2,4.1,21.1,0.0,0.0,0.8,9.9
+set5_65,rice noodles dry,103,0.2,1.0,23.6,0.0,0.0,0.2,5.1
+set5_66,spinach spaghetti dry,105,0.4,3.8,21.2,0.0,0.0,0.6,16.4
+set5_67,egg noodles cooked,110,1.7,3.6,20.1,23.2,0.029,0.051,0.0
+set5_68,japanese somen noodles cooked,231,0.3,7.0,48.5,0.0,0.0,0.9,14.1
+set5_69,whole wheat macaroni dry,365,1.5,15.4,78.8,0.0,0.0,3.8,42.0
+set5_70,pasta marinara and ground beef sauce,41,1.6,2.5,4.1,0.2,0.0,0.0,0.0
+set5_71,macaroni raw,390,1.6,13.7,78.4,0.0,0.0,3.5,22.1
+set5_72,spaghetti dry,105,0.4,3.7,21.1,0.0,0.0,0.9,5.9
+set5_73,fusilli cucina,100,0.4,0.0,3.4,0.0,0.0,0.0,0.0
+set5_74,japanese somen noodles dry,101,0.2,3.2,21.0,0.0,0.0,0.4,6.5
+set5_75,pasta cooked,301,2.4,11.8,57.3,75.9,0.0,2.6,13.8
+set5_76,macaroni cooked,221,1.3,8.1,43.2,0.0,0.089,0.1,0.0
+set5_77,spinach egg noodles dry,145,1.7,5.6,26.7,36.1,0.0,1.6,21.3
+set5_78,japanese soba noodles cooked,113,0.1,5.8,24.4,0.0,0.0,0.5,4.6
+set5_79,rice noodles cooked,190,0.4,3.2,42.3,0.0,0.0,0.2,7.0
+set5_80,whole wheat macaroni cooked,174,0.8,7.5,37.2,0.0,0.0,1.5,21.0
+set5_81,spaghetti cooked,363,2.1,13.3,71.0,0.0,0.1,0.2,0.0
+set5_82,whole wheat spaghetti cooked,174,0.8,7.5,37.2,0.0,0.0,1.5,21.0
+set5_83,waffle,218,10.6,5.9,24.7,51.8,0.3,1.7,191.3
+set5_84,baked taco shell,61,2.7,0.8,8.3,0.0,0.0,0.2,12.5
+set5_85,puff pastry,1367,94.3,18.1,112.0,0.0,0.0,6.4,24.5
+set5_86,blueberry muffin,214,9.2,2.6,30.2,17.1,0.034,0.063,0.054
+set5_87,bread crumbs,427,5.7,14.4,77.7,0.0,0.0,5.2,197.6
+set5_88,warm cinnamon roll mcdonalds,113,5.1,2.0,15.0,16.4,0.0,0.5,16.1
+set5_89,corn muffin,201,5.5,3.9,33.7,17.2,0.0,1.9,48.8
+set5_90,tortilla,467,1.9,14.3,98.4,0.0,0.0,7.5,137.9
+set5_91,croutons seasoned,186,7.3,4.3,25.4,2.8,0.0,1.1,38.4
+set5_92,buttermilk waffle,102,3.1,2.4,16.0,4.3,0.0,2.2,98.7
+set5_93,flour tortilla,146,3.7,3.9,24.1,0.0,0.0,1.6,79.9
+set5_94,glazed donut,55,3.0,0.8,6.2,3.9,0.2,0.3,13.1
+set5_95,corn tortilla,52,0.7,1.4,10.7,0.0,0.0,0.3,19.4
+set5_96,muffin,169,6.5,3.9,23.6,22.2,0.2,1.4,114.0
+set5_97,croutons,33,0.5,1.0,5.9,0.0,0.0,0.3,6.1
+set5_98,donut with jelly filling,289,15.9,5.0,33.2,22.1,0.0,1.5,21.3
+set5_99,sweet cinnamon rolls,309,13.6,5.1,42.2,54.8,1.7,1.3,59.8
+set5_100,oat bran muffin,46,1.3,1.2,8.2,0.0,0.0,0.7,10.7
+set5_101,french cruller donut,169,7.5,1.3,24.4,4.5,0.0,1.0,10.7
+set5_102,pancakes,86,3.7,2.4,10.8,22.4,0.1,0.7,83.2
+set5_103,chocolate donut,250,11.9,2.7,34.4,34.2,0.041,1.4,127.8
+set5_104,sweet cheese rolls,238,12.1,4.7,28.8,50.2,0.1,0.5,77.9
+set5_105,eclair,234,19.2,4.4,11.2,121.5,0.2,0.9,31.5
+set5_106,donut with cream filling,307,20.8,5.4,25.5,20.4,0.0,1.6,21.3
+set5_107,fruit toaster pastry,209,5.6,2.4,37.1,0.0,0.0,2.0,5.6
+set5_108,donut,192,10.3,2.3,22.9,14.4,0.027,0.5,27.0
+set5_109,pancakes whole wheat,92,2.9,3.7,12.9,26.8,0.2,1.4,110.0
+set5_110,keikitos,196,10.6,2.9,22.3,0.0,0.0,1.1,26.5
+set5_111,zwieback,30,0.7,0.7,5.2,0.6,0.01,0.083,0.041
+set5_112,chocolate coated donut,81,4.5,0.9,9.2,3.4,0.2,0.7,4.3
+set5_113,waffle toasted,103,3.2,2.4,16.3,5.0,0.0,2.3,101.3
+set5_114,cinnamon toaster pastry,206,7.1,2.6,34.1,0.0,0.017,2.0,17.0
+set5_115,wheat bran bread,89,1.2,3.2,17.2,0.0,0.0,1.1,26.6
+set5_116,white bread,77,1.0,2.6,14.3,0.0,0.038,0.04,0.081
+set5_117,oat bran bread,71,1.3,3.1,11.9,0.0,0.0,0.9,19.5
+set5_118,whole wheat bread natures own,50,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+set5_119,high protein bread dr zaks,152,3.0,0.0,15.3,0.0,0.0,0.0,0.0
+set5_120,wheat bread,79,1.3,3.1,13.8,0.0,0.062,0.066,0.026
+set5_121,egg bread toasted,117,2.4,3.9,19.5,20.7,0.0,1.2,37.7
+set5_122,butter toastbrot ja,66,0.9,0.0,2.0,0.0,0.0,0.0,0.0
+set5_123,vienna bread toasted,93,0.6,3.8,18.0,0.0,0.095,1.1,13.6
+set5_124,vienna bread,92,0.6,3.8,18.1,0.0,0.095,1.2,14.1
+set5_125,protein bread,47,0.4,2.3,8.3,0.0,0.0,0.8,23.6
+set5_126,banana bread,186,6.0,2.5,31.1,24.5,1.0,0.8,12.0
+set5_127,rice bran bread,66,1.2,2.4,11.7,0.0,0.0,1.0,18.6
+set5_128,white fibre wonder bread,95,1.0,3.5,18.0,0.1,0.0,0.0,0.0
+set5_129,focaccia,142,4.5,5.0,20.4,0.0,0.0,1.8,20.0
+set5_130,oat bran bread toasted,70,1.3,3.1,11.8,0.0,0.0,0.9,19.2
+set5_131,rye bread,83,1.1,2.7,15.5,0.0,0.1,0.9,23.4
+set5_132,wheat germ bread,73,0.8,2.7,13.5,0.0,0.033,1.0,24.9
+set5_133,protein bread toasted,46,0.4,2.2,8.2,0.0,0.0,0.8,23.1
+set5_134,oatmeal bread,73,1.2,2.3,13.1,0.0,0.0,0.7,17.8
+set5_135,arepa,215,5.3,5.4,36.4,4.9,0.0,1.0,87.2
+set5_136,raisin bread toasted,86,1.4,2.5,16.5,0.0,0.1,0.9,20.9
+set5_137,cracked wheat bread,74,1.1,2.5,14.0,0.0,0.0,0.8,12.2
+set5_138,garlic bread,151,7.1,3.6,17.9,0.0,0.095,1.3,11.6
+set5_139,rye bread toasted,82,1.0,2.7,15.4,0.0,0.047,0.9,23.2
+set5_140,whole wheat bread,128,2.5,3.9,23.6,0.0,0.0,1.4,15.2
+set5_141,whole wheat bread toasted,128,2.5,3.9,23.7,0.0,0.0,1.4,15.1
+set5_142,pan dulce bread,231,7.3,5.9,35.5,18.9,0.8,1.8,54.2
+set5_143,rice bran bread toasted,66,1.3,2.4,11.8,0.0,0.0,1.0,18.8
+set5_144,pita bread whole wheat,74,0.7,2.7,15.4,0.0,0.0,0.9,4.2
+set5_145,wheat germ bread toasted,73,0.8,2.7,13.6,0.3,0.03,1.0,25.0
+set5_146,pumpernickel bread,65,0.8,2.3,12.4,0.0,0.0,0.7,17.7
+set5_147,frybread,502,18.6,10.2,73.4,10.6,0.0,6.1,86.6
+set5_148,white bread toasted,83,1.1,2.5,15.4,0.3,0.0,0.9,33.7
+set5_149,piki bread,109,2.0,2.5,20.2,0.0,0.0,1.7,51.5
+set5_150,wheat bread toasted,75,1.0,3.1,13.4,0.0,0.008,1.0,39.6
+set5_151,pita bread,165,0.7,5.5,33.4,0.0,0.0,1.6,51.6
+set5_152,potato bread,85,1.0,4.0,15.1,0.0,0.084,0.072,0.072
+set5_153,egg bread,115,2.4,3.8,19.1,20.4,0.0,1.2,37.2
+set5_154,oatmeal bread toasted,73,1.2,2.3,13.2,0.0,0.004,0.7,18.0
+set5_155,cheese bread,196,10.0,5.0,21.5,4.8,0.0,1.2,43.2
+set5_156,pumpernickel bread toasted,80,1.0,2.8,15.1,0.0,0.0,0.9,21.5
+set5_157,raisin bread,88,1.4,2.5,16.7,0.0,0.052,0.9,21.1
+set5_158,pumpernickel roll,77,0.8,3.0,14.8,0.0,0.0,0.8,18.8
+set5_159,cinnamon raisin bagel,71,0.4,2.5,14.4,0.0,0.2,1.0,4.9
+set5_160,english muffin,127,1.1,5.0,25.5,0.0,0.0,1.6,101.5
+set5_161,rye dinner roll,123,1.5,4.4,22.8,0.0,0.0,1.2,12.9
+set5_162,english muffin whole wheat,134,1.4,5.8,26.7,0.0,0.0,1.6,174.9
+set5_163,dinner roll whole wheat,74,1.3,2.4,14.3,0.0,0.0,0.7,29.7
+set5_164,dinner roll,76,1.8,2.4,12.9,0.0,0.0,1.0,49.3
+set5_165,hotdog roll,117,1.6,4.1,21.1,0.0,0.048,0.095,0.008
+set5_166,bagel,245,1.5,10.0,47.9,0.0,0.1,0.2,0.019
+set5_167,oat bran bagel,176,0.8,7.4,36.8,0.0,0.1,2.1,8.3
+set5_168,pain au chocolat de la boulangerie,235,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+set5_169,egg bagel,72,0.5,2.8,13.8,6.2,0.2,1.0,3.4
+set5_170,english muffin toasted,140,1.1,5.4,27.4,0.0,0.9,2.4,102.4
+set5_171,english muffin whole wheat toasted,135,1.4,5.9,26.9,0.0,0.0,1.6,175.7
+set5_172,biscuit,357,16.5,7.1,45.0,3.0,0.2,2.9,237.4
+set5_173,french roll,105,1.6,3.3,19.1,0.0,0.0,1.0,34.6
+set5_174,oat bran dinner roll,78,1.5,3.1,13.3,0.0,0.0,1.4,28.1
+set5_175,pecan shortbread cookies,76,4.6,0.7,8.2,4.6,0.0,0.3,4.2
+set5_176,oatmeal cookies,113,4.5,1.6,17.2,0.0,0.1,0.6,9.3
+set5_177,chocolate wafers,485,15.9,7.4,81.1,2.2,0.0,4.5,34.7
+set5_178,vanilla wafers low fat,353,12.2,4.0,58.9,40.8,0.0,1.9,38.4
+set5_179,chocolate chip cookies mcdonalds,136,6.4,1.6,18.7,18.4,0.0,1.1,9.6
+set5_180,gingersnap cookies,29,0.7,0.4,5.4,0.0,0.0,0.4,5.4
+set5_181,biscotti abbracci mulino bianco,54,2.6,0.4,0.8,0.0,0.0,0.0,0.0
+set5_182,chocolate chip cookie,63,2.8,0.5,9.3,0.0,0.052,0.049,0.036
+set5_183,brownie,243,9.8,2.9,38.3,10.2,0.0,1.4,17.4
+set5_184,shortbread cookies,40,1.9,0.5,5.2,1.6,0.0,0.2,2.8
+set5_185,oatmeal cookies with raisins,65,2.4,1.0,10.3,5.0,0.078,0.4,15.0
+set5_186,peanut butter sandwich cookies,67,3.0,1.2,9.2,0.0,0.093,0.4,7.4
+set5_187,sugar cookies,72,3.2,0.8,10.2,7.7,0.091,0.3,3.2
+set5_188,chocolate covered graham crackers,68,3.2,0.8,9.3,0.0,0.0,0.5,8.1
+set5_189,raisin cookies,60,2.0,0.6,10.2,0.3,0.1,0.3,6.9
+set5_190,vanilla wafers,28,1.2,0.3,4.3,0.0,0.0,0.1,1.5
+set5_191,graham crackers,355,8.5,5.8,64.5,0.0,0.0,3.1,20.2
+set5_192,peanut butter cookies,95,4.8,1.8,11.8,6.2,0.032,0.4,7.8
+set5_193,vanilla sandwich cookie,72,3.0,0.7,10.8,0.0,0.0,0.3,4.1
+set5_194,sugar wafers with creme filling,51,2.3,0.4,7.1,0.0,0.0,0.4,2.7
+set5_195,cheese puffs,197,12.8,2.1,18.6,2.5,0.0,0.7,20.0
+set5_196,saltine crackers,13,0.3,0.3,2.2,0.0,0.062,0.025,0.059
+set5_197,trail mix,139,8.8,4.1,13.5,0.0,0.4,0.9,23.4
+set5_198,corn cones,144,7.6,1.6,17.8,0.0,0.0,0.7,0.8
+set5_199,chocolate pretzels,50,1.8,0.8,7.8,0.0,0.076,0.2,8.1
+set5_200,french toast sticks,73,3.8,1.3,8.9,0.0,0.0,0.4,11.4
+set5_201,crackers,82,4.2,1.1,9.8,0.0,0.087,0.011,0.036
+set5_202,sesame sticks,54,3.7,1.1,4.7,0.0,0.0,0.055,17.0
+set5_203,cheese crackers,34,1.6,0.8,4.2,0.2,0.009,0.032,0.026
+set5_204,oriental rice cracker mix,143,7.2,4.9,14.6,0.0,0.037,0.7,15.3
+set5_205,breadsticks,103,2.4,3.0,17.1,0.0,0.0,1.1,5.5
+set5_206,milk crackers,50,1.7,0.8,7.7,1.2,0.017,0.4,18.9
+set5_207,matzo crackers whole wheat,98,0.4,3.7,22.1,0.0,0.0,1.3,6.4
+set5_208,matzo crackers with egg,109,0.6,3.4,22.0,23.2,0.07,0.8,11.2
+set5_209,granola bites,23,0.9,0.4,3.3,0.0,0.086,0.074,0.015
+set5_210,crackers whole wheat,120,4.0,3.0,19.5,0.0,0.0,0.9,10.1
+set5_211,tropical trail mix,619,23.9,8.8,91.8,0.0,10.6,3.7,79.8
+set5_212,soft pretzels,389,3.6,9.4,79.8,3.5,0.0,4.5,26.5
+set5_213,corn tostada shell,58,2.9,0.8,7.9,0.0,0.0,0.2,9.3
+set5_214,matzo crackers,111,0.4,2.8,23.4,0.0,0.0,0.9,3.6
+set5_215,sesame crunch,9,0.6,0.2,0.9,0.0,0.0,0.019,11.5
+set5_216,trail mix with chocolate chips,707,46.6,20.7,65.6,5.8,1.9,4.9,159.1
+set5_217,cracker meal,440,2.0,10.7,93.0,0.0,0.0,5.3,26.5
+set5_218,puffed rice,153,0.2,2.4,34.1,0.0,0.0,12.0,2.3
+set5_219,filinchen gutena,19,0.2,0.4,0.5,0.0,0.0,0.0,0.0
+set5_220,melba toast crackers,117,1.0,3.6,23.0,0.0,0.0,1.1,27.9
+set5_221,matzo crackers with egg onion,109,1.1,2.8,21.6,12.6,0.026,1.2,10.1
+set5_222,cornnuts,126,4.4,2.4,20.3,0.0,0.0,0.5,2.5
+set5_223,bagel chips,789,26.5,21.6,116.1,0.0,0.0,8.8,42.0
+set5_224,pretzels,115,0.9,3.0,24.1,0.0,0.084,0.08,0.01
+set5_225,potato raw,164,0.2,4.3,37.2,0.0,42.0,1.7,25.6
+set5_226,gatto di patate home made,202,9.4,0.0,4.0,0.0,0.0,0.0,0.0
+set5_227,baked potato,161,0.2,4.3,36.6,0.0,0.5,0.2,0.057
+set5_228,potato sticks,188,12.4,2.4,19.2,0.0,17.0,0.8,6.5
+set5_229,potato cooked,52,0.006,1.1,12.1,0.0,7.8,0.2,3.0
+set5_230,vivaldi potatoes sainsburys,23,0.1,0.0,0.0,0.0,0.0,0.0,0.0
+set5_231,potato ham chowder soup,192,12.5,6.5,13.4,21.6,0.0,1.7,0.0
+set5_232,russet potato raw,292,0.3,7.9,66.7,0.0,21.0,3.2,48.0
+set5_233,russet potato baked,290,0.4,7.9,64.1,0.0,24.8,3.2,53.8
+set5_234,french fries,13,0.4,0.2,2.2,0.0,1.5,0.076,0.8
+set5_235,potato scalloped,216,9.0,7.0,26.4,29.4,26.0,1.4,139.7
+set5_236,cottage fries,11,0.4,0.2,1.9,0.0,0.8,0.025,0.9
+set5_237,mashed potatoes,215,6.8,4.0,35.5,0.0,0.0,0.8,43.6
+set5_238,mashed potato with milk and butter,237,8.9,3.9,35.3,23.1,12.6,0.5,50.4
+set5_239,red potato raw,149,0.3,4.0,33.9,0.0,18.3,1.6,21.3
+set5_240,potato pancake,59,3.2,1.3,6.1,20.9,6.1,0.4,7.0
+set5_241,potato puffs,243,11.0,2.6,35.5,0.0,8.1,0.8,17.9
+set5_242,red potato baked,74,0.1,2.0,16.7,0.0,0.2,0.1,0.075
+set5_243,potatoes canned,132,0.3,3.6,29.7,0.0,22.8,2.2,117.0
+set5_244,potato skin raw,22,0.099,1.0,4.7,0.0,4.3,1.2,11.4
+set5_245,shoestring french fries,4,0.1,0.099,0.7,0.0,0.3,0.052,0.3
+set5_246,hash brown potato,144,9.0,1.4,15.3,0.0,0.068,0.004,0.069
+set5_247,baked chips lays,130,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+set5_248,corn chips,162,10.0,1.9,17.2,0.0,0.073,0.021,0.068
+set5_249,nacho cheese tortilla chips low fat,90,1.0,2.4,18.5,0.6,1.6,1.4,36.2
+set5_250,corn chips barbecue,1036,64.7,13.9,111.3,0.0,3.4,3.0,259.4
+set5_251,corn chips unsalted,490,29.4,5.8,50.5,0.0,1.8,1.5,109.1
+set5_252,potato chips fat free,860,1.4,21.9,190.1,0.0,21.1,8.1,79.5
+set5_253,sweet chilli kettle baked chips,99,2.2,2.0,2.1,0.0,0.0,0.0,0.0
+set5_254,taro chips,11,0.6,0.049,1.6,0.0,0.1,0.008,1.4
+set5_255,potato chips reduced fat,801,35.4,12.1,113.7,0.0,43.7,2.3,35.7
+set5_256,onion snacks,150,6.8,2.3,19.5,0.0,0.5,1.1,8.7
+set5_257,potato chips cheese,843,46.2,14.5,98.1,6.8,92.0,3.1,122.4
+set5_258,yuca cassava chips,9,0.4,0.054,1.2,0.0,0.0,0.099,0.9
+set5_259,tortilla chips low fat,117,1.6,3.1,22.6,0.0,0.095,0.5,45.0
+set5_260,ranch flavor tortilla chips,992,48.8,14.2,124.2,0.0,0.0,2.7,265.3
+set5_261,potato chips,161,10.4,2.1,15.9,0.0,9.3,0.5,7.2
+set5_262,tortilla chips,142,6.2,2.1,20.3,0.0,0.092,0.2,0.014
+set5_263,sweet potato chips,149,9.1,0.8,15.9,0.0,0.0,0.6,16.5
+set5_264,nacho cheese tortilla chips,156,8.2,2.2,18.2,0.0,0.038,0.071,0.002
+set5_265,vegetable chips,134,6.6,1.5,17.1,0.0,1.4,0.4,14.7
+set5_266,taco flavor tortilla chips,1090,54.9,17.9,143.2,11.4,2.0,4.6,351.9
+set5_267,potato chips barbecue,970,64.2,15.2,104.5,0.0,67.1,3.8,99.0
+set5_268,pita chips,137,4.6,3.5,20.5,0.0,0.039,0.065,0.051
+set5_269,potato chips sour cream and onion,1051,67.1,16.0,102.0,13.9,73.9,3.2,142.6
+set5_270,adobo fresco,780,60.2,5.8,53.6,0.0,16.7,9.2,354.2
+set5_271,chili pepper sauce red,3,0.089,0.1,0.6,0.0,4.5,0.051,1.4
+set5_272,creamy ranch sauce mcdonalds,132,14.7,0.3,1.0,5.9,0.0,0.039,8.2
+set5_273,catsup,19,0.066,0.2,4.5,0.0,0.7,0.073,2.7
+set5_274,chili pepper sauce green,3,0.032,0.1,0.8,0.0,10.2,0.023,0.8
+set5_275,red wine vinegar,3,0.0,0.055,0.011,0.0,0.053,0.049,0.9
+set5_276,fish sauce,6,0.013,0.9,0.7,0.0,0.012,0.1,7.7
+set5_277,coleslaw dressing reduced fat,56,3.4,0.0,6.8,4.3,0.0,0.08,6.1
+set5_278,sour dressing,21,2.0,0.4,0.6,0.6,0.1,0.091,13.6
+set5_279,guava sauce cooked,86,0.3,0.8,22.6,0.0,348.4,0.4,16.7
+set5_280,pizza sauce,136,2.9,5.5,21.8,0.0,0.3,0.3,0.0
+set5_281,sweetn sour sauce mcdonalds,48,0.3,0.2,11.0,0.0,0.3,0.2,1.7
+set5_282,nance syrup,4,0.002,0.028,0.8,0.0,0.4,0.013,1.6
+set5_283,french dressing reduced fat,37,2.2,0.072,4.7,0.0,0.0,0.1,1.8
+set5_284,peppercorn dressing,76,8.2,0.2,0.5,6.6,0.09,0.055,2.9
+set5_285,sorghum syrup,61,0.0,0.0,15.7,0.0,0.0,0.8,31.5
+set5_286,ranch dressing fat free,17,0.3,0.039,3.7,1.0,0.0,0.1,7.0
+set5_287,caesar dressing low calorie,17,0.7,0.028,2.8,0.3,0.0,0.016,3.6
+set5_288,sweet sour dressing,2,0.0,0.082,0.6,0.0,1.3,0.078,0.6
+set5_289,mayonnaise imitation fat free,13,0.4,0.043,2.5,1.4,0.0,0.008,1.0
+set5_290,sofrito,488,37.5,26.4,11.2,0.0,42.0,1.9,41.2
+set5_291,turkey gravy instant,27,1.0,0.8,3.9,1.6,0.092,0.6,7.7
+set5_292,teriyaki sauce,16,0.015,1.1,2.8,0.0,0.0,0.3,4.5
+set5_293,tomato sauce,59,0.7,2.9,13.0,0.0,0.2,0.3,0.083
+set5_294,barbecue sauce kraft,28,0.053,0.1,6.5,0.0,0.031,0.1,7.5
+set5_295,cranberry sauce sweetened,418,0.4,0.6,107.8,0.0,5.5,0.6,11.1
+set5_296,coleslaw dressing,62,5.3,0.1,3.8,4.2,0.0,0.01,2.2
+set5_297,onion gravy dry,77,0.7,2.2,16.2,0.5,1.7,0.2,67.2
+set5_298,corn syrup light,62,0.09,0.0,16.9,0.0,0.0,0.0,2.9
+set5_299,bacon tomato dressing,49,5.3,0.3,0.3,0.6,1.3,0.057,0.6
+set5_300,pancake syrup,53,0.075,0.0,13.9,0.0,0.0,0.038,1.0
+set5_301,balsamic vinegar,14,0.0,0.041,2.7,0.0,0.0,0.1,4.3
+set5_302,ranch dressing reduced fat,29,1.9,0.2,3.2,2.4,0.051,0.1,6.0
+set5_303,barbecue sauce mcdonalds,46,0.3,0.4,10.3,0.0,0.0,0.1,3.1
+set5_304,vinegar oil dressing,72,8.0,0.0,0.4,0.0,0.0,0.0,0.0
+set5_305,poppyseed dressing,66,5.5,0.2,4.0,2.5,0.04,0.048,9.7
+set5_306,honey mustard dressing,70,6.1,0.1,3.5,4.4,0.006,0.07,1.8
+set5_307,french dressing fat free,21,0.024,0.01,5.1,0.0,0.0,0.081,0.8
+set5_308,vinegar,3,0.0,0.0,0.089,0.0,0.0,0.002,0.9
+set5_309,spray dressing,13,0.9,0.07,1.3,0.0,0.055,0.096,0.5
+set5_310,honey mustard dressing fat free,25,0.2,0.2,5.8,0.2,0.3,0.053,3.6
+set5_311,mushroom gravy,119,6.4,3.0,13.0,0.0,0.0,1.6,16.7
+set5_312,white sauce,368,26.6,9.6,22.9,17.5,2.0,0.8,295.0
+set5_313,marinara pasta sauce,129,3.9,3.7,19.9,5.3,5.3,2.1,71.3
+set5_314,tomato sauce with mushrooms,86,0.3,3.6,20.7,0.0,30.4,2.2,31.9
+set5_315,pork gravy powder,25,0.6,0.6,4.3,0.7,0.095,0.3,9.3
+set5_316,beef gravy,123,5.5,8.7,11.2,7.0,0.0,1.6,14.0
+set5_317,green goddess dressing,64,6.5,0.3,1.1,6.0,0.037,0.067,5.1
+set5_318,salsa con queso,358,23.8,7.9,27.9,22.5,1.0,0.4,245.0
+set5_319,cocktail sauce,19,0.2,0.2,4.2,0.0,1.7,0.1,3.9
+set5_320,worcestershire sauce,13,0.0,0.0,3.3,0.0,2.2,0.9,18.2
+set5_321,barbecue sauce,29,0.1,0.1,6.9,0.0,0.1,0.1,5.6
+set5_322,tomato sauce with onions,103,0.5,3.8,24.4,0.0,31.1,2.3,41.7
+set5_323,brown gravy dry,22,0.6,0.6,3.6,0.2,0.048,0.1,7.9
+set5_324,blue cheese dressing light,14,0.4,0.3,2.1,1.6,0.0,0.042,10.9
+set5_325,spanish tomato sauce,81,0.7,3.5,17.7,0.0,21.0,8.5,41.5
+set5_326,oyster sauce,9,0.066,0.2,2.0,0.0,0.036,0.069,5.8
+set5_327,cheese sauce,30,2.2,1.5,0.8,5.7,0.067,0.047,46.7
+set5_328,hoisin sauce,35,0.5,0.5,7.1,0.5,0.097,0.2,5.1
+set5_329,pickle relish,20,0.061,0.097,5.3,0.0,0.2,0.1,0.5
+set5_330,tomato sauce with herbs cheese,144,4.7,5.2,25.0,7.3,24.4,2.1,90.3
+set5_331,french dressing,73,7.2,0.1,2.5,0.0,0.6,0.1,3.8
+set5_332,mayonnaise hellmanns,15,1.7,0.0,0.087,0.0,0.0,0.0,0.0
+set5_333,canadian maple syrup,76,0.0,0.0,19.1,0.0,0.0,0.088,30.8
+set5_334,maple syrup,52,0.047,0.09,13.4,0.0,0.0,0.014,20.4
+set5_335,barbecue sauce bulls eye,27,0.1,0.1,6.4,0.0,0.094,0.1,6.9
+set5_336,ranch dressing,65,6.7,0.2,0.9,3.9,0.093,0.085,0.024
+set5_337,tomato ketchup mp,15,0.0,0.0,0.2,0.0,0.0,0.0,0.0
+set5_338,mayonnaise light,36,3.3,0.032,1.4,2.4,0.09,0.039,0.05
+set5_339,mayonnaise dressing,103,11.7,0.0,0.066,0.0,0.0,0.0,1.1
+set5_340,malt syrup,67,0.0,1.3,15.0,0.0,0.0,0.2,12.8
+set5_341,gravy dry,86,2.0,3.3,14.5,1.0,1.8,0.3,37.5
+set5_342,cranberry orange relish,490,0.3,0.8,127.1,0.0,49.5,0.6,30.3
+set5_343,caesar dressing,80,8.5,0.3,0.5,5.7,0.057,0.2,7.1
+set5_344,italian dressing,35,3.1,0.032,1.8,0.0,0.011,0.063,0.059
+set5_345,brown gravy instant,25,0.8,0.6,4.0,0.8,0.1,0.5,7.8
+set5_346,roquefort cheese dressing,15,1.1,0.8,0.4,0.2,0.069,0.069,13.4
+set5_347,blue cheese dressing,71,7.7,0.2,0.7,4.7,0.1,0.058,5.6
+set5_348,duck sauce,80,0.063,0.1,19.7,0.0,0.3,0.1,3.6
+set5_349,au jus,38,0.5,2.8,5.9,0.0,2.4,1.4,9.4
+set5_350,corn syrup dark,57,0.0,0.0,15.5,0.0,0.0,0.044,3.6
+set5_351,buttermilk dressing light,30,1.9,0.2,3.2,2.4,0.061,0.1,6.0
+set5_352,cider vinegar,3,0.0,0.0,0.1,0.0,0.0,0.052,1.0
+set5_353,tartar sauce,32,2.5,0.2,2.0,1.1,0.3,0.047,3.9
+set5_354,pepper hot sauce,1,0.018,0.024,0.031,0.0,3.5,0.035,0.4
+set5_355,tomato chili sauce,6,0.095,0.2,1.2,0.0,1.0,0.087,1.2
+set5_356,turkey gravy dry,26,0.5,0.7,4.6,1.0,0.015,0.2,10.2
+set5_357,salsa sauce,5,0.039,0.3,1.2,0.0,0.3,0.007,5.4
+set5_358,steak sauce,16,0.004,0.2,3.7,0.0,1.2,0.2,3.2
+set5_359,molasses,58,0.068,0.0,14.9,0.0,0.0,0.9,41.0
+set5_360,italian dressing fat free,7,0.1,0.1,1.2,0.3,0.026,0.036,4.2
+set5_361,plum sauce,35,0.2,0.2,8.1,0.0,0.021,0.3,2.3
+set5_362,chow mein stir fry master foods,26,0.2,0.0,0.0,0.0,0.0,0.0,0.0
+set5_363,beef gravy instant,25,0.6,0.7,4.1,0.7,0.01,0.4,9.4
+set5_364,horseradish,2,0.085,0.003,0.6,0.0,0.081,0.052,0.027
+set5_365,grenadine,54,0.0,0.0,13.4,0.0,0.0,0.011,1.2
+set5_366,tabasco sauce,1,0.002,0.045,0.006,0.0,0.2,0.019,0.6
+set5_367,sweet sour sauce,26,0.084,0.02,6.7,0.0,1.5,0.021,1.8
+set5_368,salsa verde,6,0.1,0.2,1.0,0.0,1.8,0.079,1.4
+set5_369,miso,40,1.2,2.6,5.1,0.0,0.04,0.046,0.094
+set5_370,sprouted soybean cooked,76,4.2,8.0,6.1,0.0,7.8,1.2,55.5
+set5_371,soy flour roasted,375,18.6,29.6,28.6,0.0,0.0,4.9,159.8
+set5_372,soy flour low fat,330,7.8,40.0,30.7,0.0,0.0,7.2,250.8
+set5_373,green soybean cooked,127,5.8,11.1,9.9,0.0,0.007,0.1,0.0
+set5_374,azumaya tofu vitasoy,316,16.6,32.8,9.1,0.0,0.0,5.1,711.0
+set5_375,soy proteins isolate,96,1.0,22.8,2.1,0.0,0.0,4.1,50.4
+set5_376,tofu yogurt,246,4.7,9.2,41.8,0.0,0.048,0.2,0.013
+set5_377,bacon meatless,446,42.5,15.4,9.1,0.0,0.0,3.5,33.1
+set5_378,meatless chicken fried,304,16.6,27.7,11.1,0.0,0.0,5.0,54.6
+set5_379,soymilk,109,4.8,7.1,8.4,0.0,0.6,0.3,0.0
+set5_380,soy vermicelli,463,0.1,0.1,115.2,0.0,0.0,2.5,77.0
+set5_381,tofu fried,35,2.6,2.4,1.2,0.0,0.094,0.051,0.099
+set5_382,tempeh,320,17.9,30.8,15.6,0.0,0.0,4.5,184.3
+set5_383,koyadofu,81,5.2,8.9,1.7,0.0,0.029,0.2,0.0
+set5_384,meatless meatloaf,110,5.0,11.8,4.5,0.0,0.0,1.2,16.2
+set5_385,soya vanille joghurt alpro,21,0.6,0.3,1.0,0.0,0.0,0.0,0.0
+set5_386,soybean curd cheese,340,18.2,28.1,15.5,0.0,0.0,12.6,423.0
+set5_387,soy sauce,8,0.054,1.3,0.8,0.0,0.01,0.031,0.0
+set5_388,soybean dry roasted,419,20.1,36.8,30.4,0.0,4.3,3.7,130.2
+set5_389,soybean oil,120,13.6,0.0,0.0,0.0,0.0,0.048,0.0
+set5_390,meatless chicken,376,21.4,39.7,6.1,0.0,0.0,5.5,58.8
+set5_391,soybean cooked,296,15.4,28.6,17.1,0.0,0.4,0.7,0.099
+set5_392,soymilk nonfat,68,0.046,6.0,10.1,0.0,0.0,0.9,281.9
+set5_393,soy flour,23,1.1,1.8,1.8,0.0,0.009,0.2,0.061
+set5_394,soybean lecithin oil,104,13.6,0.0,0.0,0.0,0.0,0.0,0.0
+set5_395,tofu raw,188,11.9,20.0,4.7,0.0,0.2,13.3,868.0
+set5_396,soy chips,109,2.1,7.5,15.0,0.0,0.0,1.5,48.4
+set5_397,green soybean raw,376,17.4,33.2,28.3,0.0,74.2,9.1,504.3
+set5_398,soy proteins concentrate,93,0.1,18.0,7.2,0.0,0.0,3.1,102.7
+set5_399,soybean margarine,34,3.8,0.052,0.043,0.0,0.077,0.0,1.4
+set5_400,chocolate soymilk nonfat,107,0.046,6.0,20.7,0.0,0.0,0.9,281.9
+set5_401,okara,93,2.1,3.9,15.3,0.0,0.1,0.2,0.0
+set5_402,meatless meatballs,284,13.0,30.2,11.5,0.0,0.0,3.1,36.0
+set5_403,vanilla soymilk,131,4.3,7.9,15.3,0.0,0.0,1.6,60.8
+set5_404,soy meal raw,414,2.9,54.8,49.0,0.0,0.0,16.7,297.7
+set5_405,soymilk low fat,104,1.5,4.0,17.5,0.0,0.0,1.1,199.3
+set5_406,sprouted soybean raw,85,4.7,9.2,6.7,0.0,0.1,0.3,0.0
+set5_407,soybean raw,830,37.1,67.9,56.1,0.0,11.2,29.2,515.2
+set5_408,tempeh cooked,55,3.2,5.1,2.6,0.0,0.0,0.6,27.2
+set5_409,vanilla soymilk light,83,2.1,6.4,9.4,0.0,0.0,1.1,298.9
+set5_410,chocolate soymilk,153,3.7,5.5,24.2,0.0,0.2,0.5,0.074
+set5_411,soy oil,120,13.6,0.0,0.0,0.0,0.0,0.0,0.0
+set5_412,natto,169,8.8,14.2,11.5,0.0,0.1,0.5,0.085
+set5_413,chrysanthemum raw,12,0.3,1.7,1.5,0.0,0.061,0.044,0.2
+set5_414,gourd cooked,100,0.6,1.2,25.5,0.0,0.2,0.2,0.03
+set5_415,cauliflower raw,3,0.081,0.2,0.6,0.0,0.019,0.01,0.033
+set5_416,red cabbage raw,53,0.3,2.4,12.5,0.0,96.9,1.4,76.5
+set5_417,broccoli raab raw,9,0.2,1.3,1.1,0.0,0.064,0.022,0.074
+set5_418,napa cabbage cooked,13,0.2,1.2,2.4,0.0,3.5,0.8,31.6
+set5_419,kelp,2,0.067,0.07,0.5,0.0,0.2,0.1,8.4
+set5_420,shallots raw,18,0.061,0.6,4.2,0.0,0.016,0.004,0.007
+set5_421,bamboo shoots raw,49,0.5,4.7,9.4,0.0,0.4,0.3,0.0
+set5_422,jute cooked,32,0.2,3.2,6.3,0.0,28.7,2.7,183.6
+set5_423,red lettuce,4,0.08,0.4,0.6,0.0,0.026,0.093,0.021
+set5_424,broccoli cooked,98,1.1,6.7,20.1,0.0,0.6,0.2,0.4
+set5_425,romanesco raw,20,0.2,1.9,3.9,0.0,56.4,0.5,21.1
+set5_426,eggplant raw,115,0.8,4.5,26.9,0.0,10.1,1.1,41.2
+set5_427,leeks raw,54,0.3,1.3,12.6,0.0,0.2,0.1,0.011
+set5_428,lemongrass citronella,5,0.076,0.038,1.2,0.0,0.1,0.4,3.1
+set5_429,pumpkin cooked,49,0.2,1.8,12.0,0.0,0.1,0.2,0.098
+set5_430,celery cooked,7,0.098,0.3,1.5,0.0,2.3,0.2,15.8
+set5_431,serrano pepper,2,0.075,0.1,0.4,0.0,0.099,0.063,0.021
+set5_432,nopales raw,14,0.063,1.1,2.9,0.0,8.0,0.5,141.0
+set5_433,sweet potato leaves cooked,22,0.2,1.4,4.7,0.0,1.0,0.4,21.1
+set5_434,eggplant cooked,33,0.2,0.8,8.1,0.0,1.3,0.2,5.9
+set5_435,asparagus cooked,3,0.074,0.4,0.6,0.0,0.022,0.031,0.099
+set5_436,rutabaga cooked,72,0.4,2.2,16.4,0.0,45.1,0.4,43.2
+set5_437,parsnips raw,128,0.5,2.0,30.6,0.0,0.2,0.2,0.055
+set5_438,sour pickles,17,0.3,0.5,3.5,0.0,1.6,0.6,0.0
+set5_439,turnip greens cooked,29,0.3,1.6,6.3,0.0,39.5,1.2,197.3
+set5_440,jerusalem artichokes,110,0.047,3.0,26.2,0.0,6.0,5.1,21.0
+set5_441,collard raw,12,0.2,1.1,2.0,0.0,0.003,0.004,0.2
+set5_442,chrysanthemum cooked,20,0.036,1.6,4.3,0.0,0.1,0.1,0.1
+set5_443,oriental radish dried,314,0.8,9.2,73.5,0.0,0.0,7.8,729.6
+set5_444,tomatillos,42,1.3,1.3,7.7,0.0,15.4,0.8,9.2
+set5_445,taro shoots raw,9,0.069,0.8,2.0,0.0,18.1,0.5,10.3
+set5_446,acorn squash raw,172,0.4,3.4,44.9,0.0,47.4,3.0,142.2
+set5_447,leeks dried,10,0.026,0.5,2.4,0.0,3.8,0.2,11.5
+set5_448,cabbage raw,70,0.3,3.6,16.2,0.0,0.3,0.083,0.2
+set5_449,sweet red peppers cooked,19,0.1,0.7,4.5,0.0,124.8,0.3,6.6
+set5_450,sweet red peppers raw,46,0.4,1.5,9.0,0.0,190.3,0.6,10.4
+set5_451,cucumber peeled,16,0.2,0.8,2.9,0.0,0.082,0.018,0.052
+set5_452,purslane raw,9,0.2,0.9,1.5,0.0,9.0,0.9,28.0
+set5_453,peas onions cooked,81,0.4,4.6,15.5,0.0,12.4,1.7,25.2
+set5_454,tomato cooked,22,0.1,1.2,4.9,0.0,0.096,0.052,0.054
+set5_455,taro shoots cooked,20,0.1,1.0,4.5,0.0,26.5,0.6,19.6
+set5_456,scots kale raw,28,0.4,1.9,5.6,0.0,87.1,2.0,137.4
+set5_457,artichoke raw,60,0.2,4.2,13.5,0.0,0.1,0.3,0.045
+set5_458,navy bean sprouts raw,70,0.7,6.4,13.6,0.0,19.6,2.0,15.6
+set5_459,sweet pickles,146,0.7,0.9,33.8,0.0,1.1,0.4,97.6
+set5_460,oriental radish cooked,25,0.4,1.0,5.0,0.0,22.2,0.2,25.0
+set5_461,sweet potato leaves raw,15,0.2,0.9,3.1,0.0,3.9,0.3,27.3
+set5_462,irishmoss,2,0.049,0.037,0.6,0.0,0.2,0.4,3.6
+set5_463,drumstick leaves cooked,25,0.4,2.2,4.7,0.0,13.0,1.0,63.4
+set5_464,winter squash raw,39,0.2,1.1,10.0,0.0,14.3,0.7,32.5
+set5_465,pumpkin raw,30,0.1,1.2,7.5,0.0,10.4,0.9,24.4
+set5_466,chicory greens,7,0.096,0.5,1.4,0.0,0.062,0.081,0.079
+set5_467,spinach cooked,41,0.5,5.3,6.8,0.0,0.4,0.3,0.9
+set5_468,radish pickled,42,0.5,1.7,7.8,0.0,0.0,0.3,42.0
+set5_469,sweet onion,106,0.3,2.6,25.0,0.0,0.4,0.2,0.033
+set5_470,salsify cooked,92,0.2,3.7,20.7,0.0,6.2,0.7,63.5
+set5_471,radish seeds sprouted,16,1.0,1.4,1.4,0.0,11.0,0.3,19.4
+set5_472,turnips raw,51,0.2,1.6,11.8,0.0,0.2,0.2,0.057
+set5_473,burdock root raw,85,0.2,1.8,20.5,0.0,3.5,0.9,48.4
+set5_474,red cabbage cooked,49,0.2,2.6,11.8,0.0,0.4,0.032,0.049
+set5_475,jute raw,10,0.046,1.3,1.6,0.0,0.2,0.049,0.0
+set5_476,hot chile pepper dried,2,0.054,0.054,0.3,0.0,0.2,0.062,0.2
+set5_477,salsify raw,109,0.3,4.4,24.7,0.0,0.4,0.1,0.0
+set5_478,crookneck squash raw,24,0.3,1.3,4.9,0.0,24.5,0.6,26.7
+set5_479,indian squash cooked,38,0.4,0.7,7.6,0.0,0.0,0.0,0.0
+set5_480,poi,269,0.3,0.9,65.4,0.0,0.7,0.4,0.022
+set5_481,sesbania flower cooked,22,0.007,1.2,5.3,0.0,38.5,0.6,22.9
+set5_482,acorn squash cooked,115,0.3,2.3,29.9,0.0,22.1,1.9,90.2
+set5_483,cauliflower cooked,29,0.6,2.3,5.1,0.0,0.2,0.041,0.068
+set5_484,crookneck squash cooked,34,0.7,1.9,6.8,0.0,20.9,0.7,39.6
+set5_485,laver seaweed,1,0.012,0.2,0.1,0.0,1.0,0.087,1.8
+set5_486,mountain yam cooked,119,0.1,2.5,29.0,0.0,0.0,0.6,11.6
+set5_487,pumpkin flowers raw,5,0.084,0.3,1.1,0.0,9.2,0.2,12.9
+set5_488,mustard greens raw,15,0.2,1.6,2.6,0.0,39.2,0.9,64.4
+set5_489,arrowhead,12,0.084,0.6,2.4,0.0,0.1,0.3,1.2
+set5_490,japanese cabbage,45,0.2,2.4,8.5,0.0,1.1,0.7,72.0
+set5_491,mung bean sprouts cooked,24,0.1,2.5,4.5,0.0,14.1,0.8,14.9
+set5_492,scallop squash cooked,29,0.3,1.9,5.9,0.0,19.4,0.6,27.0
+set5_493,pumpkin leaves cooked,15,0.2,1.9,2.4,0.0,0.7,2.3,30.5
+set5_494,hungarian pepper,8,0.1,0.2,1.8,0.0,25.1,0.1,3.2
+set5_495,sweet potato baked,103,0.2,2.3,23.6,0.0,22.3,0.8,43.3
+set5_496,chinese cabbage pe tsai raw,12,0.2,0.9,2.5,0.0,20.5,0.2,58.5
+set5_497,taro raw,116,0.2,1.6,27.5,0.0,4.7,0.6,44.7
+set5_498,yam bean jicama,49,0.1,0.9,11.5,0.0,26.3,0.8,15.6
+set5_499,olives,10,0.9,0.09,0.5,0.0,0.03,0.5,7.4
+set5_500,mustard greens cooked,36,0.7,3.6,6.3,0.0,35.4,1.2,165.2
+set5_501,pumpkin flowers cooked,20,0.1,1.5,4.4,0.0,6.7,1.2,49.6
+set5_502,tree fern cooked,57,0.096,0.4,15.3,0.0,42.6,0.2,11.4
+set5_503,yellow corn raw,606,7.9,15.6,123.3,0.0,0.0,4.5,11.6
+set5_504,endive,9,0.1,0.6,1.7,0.0,3.3,0.4,26.0
+set5_505,wakame,36,0.5,2.4,7.3,0.0,2.4,1.7,120.0
+set5_506,tahitian taro raw,55,1.2,3.5,8.6,0.0,120.0,1.6,161.3
+set5_507,broccoli raw,31,0.3,2.6,6.0,0.0,0.2,0.016,0.092
+set5_508,sweet green peppers raw,30,0.3,1.3,6.9,0.0,119.8,0.5,14.9
+set5_509,chinese cabbage pak choi cooked,20,0.3,2.7,3.0,0.0,44.2,1.8,158.1
+set5_510,agar,1,0.058,0.053,0.3,0.0,0.066,0.002,0.075
+set5_511,watercress,4,0.006,0.8,0.4,0.0,0.085,0.063,0.069
+set5_512,beet greens cooked,39,0.3,3.7,7.9,0.0,35.9,2.7,164.2
+set5_513,winter squash cooked,76,0.7,1.8,18.1,0.0,3.7,0.9,45.1
+set5_514,new zealand spinach raw,8,0.1,0.8,1.4,0.0,16.8,0.4,32.5
+set5_515,okra,4,0.082,0.2,0.9,0.0,2.7,0.082,9.8
+set5_516,yautia tannier,132,0.5,2.0,31.9,0.0,7.0,1.3,12.2
+set5_517,mustard spinach cooked,29,0.4,3.1,5.0,0.0,117.0,1.4,284.4
+set5_518,rhubarb cooked,278,0.1,0.9,74.9,0.0,0.041,0.024,0.081
+set5_519,beets raw,58,0.2,2.2,13.0,0.0,0.026,0.1,0.079
+set5_520,drumstick pods raw,37,0.2,2.1,8.5,0.0,141.0,0.4,30.0
+set5_521,baby zucchini,2,0.089,0.3,0.3,0.0,3.8,0.098,2.3
+set5_522,onion raw,16,0.048,0.4,3.7,0.0,0.098,0.011,0.08
+set5_523,romanesco cooked,39,0.4,3.7,7.7,0.0,88.6,0.9,39.0
+set5_524,butternut squash raw,90,0.2,2.0,23.4,0.0,0.3,0.1,0.075
+set5_525,amaranth leaves,6,0.075,0.7,1.1,0.0,12.1,0.6,60.2
+set5_526,turnip greens raw,18,0.2,0.8,3.9,0.0,33.0,0.6,104.5
+set5_527,spaghetti squash raw,31,0.6,0.6,7.0,0.0,2.1,0.3,23.2
+set5_528,seaweed dry,52,0.3,3.1,9.2,6.6,5.8,13.3,59.8
+set5_529,yam cooked,158,0.2,2.0,37.4,0.0,0.3,0.2,0.083
+set5_530,corn dried,119,3.0,4.1,18.8,0.0,0.0,0.7,7.1
+set5_531,cucumber,23,0.2,1.0,5.4,0.0,4.2,0.4,24.0
+set5_532,arrowroot,78,0.2,5.1,16.1,0.0,2.3,2.7,7.2
+set5_533,cardoon raw,30,0.2,1.2,7.2,0.0,0.2,0.4,0.0
+set5_534,bamboo shoots cooked,14,0.3,1.8,2.3,0.0,0.1,0.083,0.0
+set5_535,summer squash raw,42,0.5,3.1,8.7,0.0,0.6,0.1,0.009
+set5_536,sweet potato raw,112,0.002,2.0,26.2,0.0,0.3,0.2,0.048
+set5_537,green tomato,42,0.4,2.2,9.3,0.0,42.6,0.9,23.7
+set5_538,beet greens raw,8,0.078,0.8,1.6,0.0,11.4,1.0,44.5
+set5_539,savoy cabbage cooked,41,0.2,3.1,9.2,0.0,0.3,0.089,0.0
+set5_540,witloof chicory,9,0.031,0.5,2.1,0.0,1.5,0.1,10.1
+set5_541,turnips cooked,34,0.1,1.1,7.9,0.0,0.1,0.025,0.063
+set5_542,dried tomatoes,5,0.053,0.3,1.1,0.0,0.8,0.2,2.2
+set5_543,radicchio,15,0.2,0.9,2.9,0.0,5.2,0.4,12.4
+set5_544,mixed vegetables cooked,118,0.3,5.2,23.8,0.0,0.1,0.2,0.083
+set5_545,yellow tomato,32,0.6,2.1,6.3,0.0,0.1,0.2,0.0
+set5_546,cardoon cooked,26,0.1,0.9,6.4,0.0,2.0,0.9,86.4
+set5_547,spinach raw,7,0.1,0.9,1.1,0.0,8.4,0.8,29.7
+set5_548,kale raw,7,0.3,0.6,0.9,0.0,19.6,0.3,53.3
+set5_549,drumstick pods cooked,42,0.2,2.5,9.7,0.0,114.5,0.5,23.6
+set5_550,kohlrabi raw,72,0.3,4.5,16.4,0.0,0.4,0.3,0.069
+set5_551,lentil sprouts,82,0.4,6.9,17.0,0.0,12.7,2.5,19.3
+set5_552,carrots raw,25,0.1,0.6,5.8,0.0,0.084,0.022,0.028
+set5_553,red chili peppers,18,0.2,0.8,4.0,0.0,64.7,0.5,6.3
+set5_554,fennel,73,0.5,2.9,17.1,0.0,0.1,0.2,0.1
+set5_555,sweet corn white,63,0.9,2.4,13.9,0.0,0.074,0.049,0.084
+set5_556,celeriac raw,66,0.5,2.3,14.4,0.0,0.3,0.1,0.081
+set5_557,hubbard squash raw,46,0.6,2.3,10.1,0.0,0.2,0.033,0.086
+set5_558,brussels sprouts cooked,8,0.1,0.5,1.5,0.0,13.0,0.3,7.6
+set5_559,carrots cooked,16,0.092,0.3,3.8,0.0,1.7,0.2,13.8
+set5_560,lambs quarters raw,0,0.067,0.08,0.069,0.0,0.0,0.06,3.3
+set5_561,lotus root cooked,6,0.056,0.1,1.4,0.0,2.4,0.059,2.3
+set5_562,split peas raw,672,2.3,48.4,118.9,0.0,3.5,8.7,108.4
+set5_563,scots kale cooked,36,0.5,2.5,7.3,0.0,68.6,2.5,171.6
+set5_564,corn cooked,99,1.5,3.5,21.6,0.0,0.1,0.025,0.055
+set5_565,radish raw,1,0.026,0.042,0.2,0.0,0.096,0.052,0.002
+set5_566,stinging nettles,37,0.007,2.4,6.7,0.0,0.0,1.5,428.1
+set5_567,baby carrots,5,0.053,0.031,1.2,0.0,0.4,0.1,4.8
+set5_568,sweet yellow peppers,50,0.4,1.9,11.8,0.0,341.3,0.9,20.5
+set5_569,taro leaves raw,12,0.2,1.4,1.9,0.0,14.6,0.6,30.0
+set5_570,corn raw,123,1.9,4.7,26.7,0.0,0.1,0.076,0.054
+set5_571,roselle,28,0.4,0.5,6.4,0.0,6.8,0.8,122.6
+set5_572,drumstick leaves raw,13,0.3,2.0,1.7,0.0,10.9,0.8,38.9
+set5_573,scallop squash raw,23,0.3,1.6,5.0,0.0,23.4,0.5,24.7
+set5_574,chicory roots,65,0.2,1.3,15.8,0.0,0.2,0.051,0.0
+set5_575,brussels sprouts raw,8,0.077,0.6,1.7,0.0,16.2,0.3,8.0
+set5_576,kale cooked,42,1.4,3.5,6.3,0.0,0.069,0.2,0.5
+set5_577,pupusas con frijoles,289,11.4,7.0,39.7,0.0,0.0,1.8,64.3
+set5_578,mustard cabbage,36,0.1,1.4,7.2,0.0,0.4,0.077,0.1
+set5_579,gourd raw,19,0.2,1.1,4.1,0.0,0.022,0.016,0.047
+set5_580,butternut squash cooked,80,0.2,1.8,21.0,0.0,30.2,1.2,82.0
+set5_581,burdock root cooked,146,0.2,3.5,35.1,0.0,4.3,1.3,81.3
+set5_582,cassava,330,0.6,2.8,78.4,0.0,0.2,0.2,0.011
+set5_583,peas carrots cooked,77,0.7,4.9,16.2,0.0,13.0,1.5,36.8
+set5_584,romaine lettuce,8,0.1,0.6,1.5,0.0,1.9,0.5,15.5
+set5_585,yam raw,177,0.3,2.3,41.8,0.0,0.4,0.3,0.025
+set5_586,chowchow pickles,296,2.2,3.7,65.3,0.0,14.7,3.4,56.4
+set5_587,prairie turnips raw,20,0.029,0.3,4.5,0.0,0.7,0.2,16.5
+set5_588,savoy cabbage raw,19,0.017,1.4,4.3,0.0,0.1,0.071,0.066
+set5_589,celery raw,6,0.045,0.3,1.2,0.0,0.007,0.056,0.086
+set5_590,celeriac cooked,42,0.3,1.5,9.1,0.0,5.6,0.7,40.3
+set5_591,mustard spinach raw,33,0.5,3.3,5.9,0.0,195.0,2.3,315.0
+set5_592,zucchini raw,44,0.8,3.1,8.1,0.0,0.4,0.1,0.033
+set5_593,okra cooked,35,0.3,3.0,7.2,0.0,26.1,0.4,123.2
+set5_594,white icicle radish,14,0.1,1.1,2.6,0.0,29.0,0.8,27.0
+set5_595,orange tomato,18,0.2,1.3,3.5,0.0,0.071,0.079,0.0
+set5_596,pumpkin leaves raw,7,0.2,1.2,0.9,0.0,4.3,0.9,15.2
+set5_597,spaghetti squash cooked,42,0.4,1.0,10.0,0.0,5.4,0.5,32.6
+set5_598,white corn cooked,100,1.5,3.4,22.4,0.0,0.1,0.052,0.017
+set5_599,artichoke cooked,64,0.4,3.5,14.3,0.0,0.028,0.2,0.035
+set5_600,avocado,432,39.6,5.4,23.0,0.0,0.7,0.5,0.078
+set5_601,string beans wellsley farms,8,0.0,0.3,1.7,1.0,0.0,0.0,0.0
+set5_602,lambs quarters cooked,58,1.3,5.8,9.0,0.0,66.6,1.3,464.4
+set5_603,peas cooked,134,0.4,8.6,25.0,0.0,0.3,0.3,0.011
+set5_604,beets cooked,22,0.085,0.8,5.0,0.0,0.026,0.021,0.099
+set5_605,shallots dried,3,0.013,0.1,0.7,0.0,0.096,0.082,0.043
+set5_606,green lettuce,23,0.2,2.0,4.3,0.0,0.1,0.012,0.2
+set5_607,kohlrabi cooked,48,0.2,3.0,11.0,0.0,0.3,0.2,0.008
+set5_608,kanpyo dried,139,0.3,4.6,35.1,0.0,0.3,0.2,0.0
+set5_609,prairie turnips boiled,18,0.086,0.2,4.2,0.0,0.3,0.1,14.4
+set5_610,broccoli raab cooked,21,0.4,3.3,2.7,0.0,0.2,0.06,0.2
+set5_611,summer squash cooked,49,1.0,2.7,9.9,0.0,0.2,0.3,0.028
+set5_612,taro cooked,187,0.1,0.7,45.7,0.0,0.4,0.3,0.073
+set5_613,spring onion scallions,6,0.077,0.4,1.5,0.0,0.055,0.057,0.006
+set5_614,hubbard squash cooked,57,0.7,2.8,12.3,0.0,0.2,0.095,0.029
+set5_615,jalapeno pepper,4,0.002,0.1,0.9,0.0,0.079,0.045,0.011
+set5_616,new zealand spinach cooked,22,0.3,2.3,3.8,0.0,28.8,1.2,86.4
+set5_617,sesbania flower raw,1,0.095,0.012,0.2,0.0,2.2,0.091,0.6
+set5_618,spirulina dried,20,0.5,4.0,1.7,0.0,0.7,2.0,8.4
+set5_619,chinese cabbage pe tsai cooked,17,0.2,1.8,2.9,0.0,18.8,0.4,38.1
+set5_620,zucchini cooked,27,0.6,2.1,4.8,0.0,23.2,0.7,32.4
+set5_621,green olives pickled,4,0.4,0.073,0.1,0.0,0.012,0.071,0.072
+set5_622,lotus root raw,85,0.1,3.0,19.8,0.0,50.6,1.3,51.8
+set5_623,grape leaves,13,0.3,0.8,2.4,0.0,1.6,0.4,50.8
+set5_624,dill pickled cucumber,17,0.2,0.9,3.7,0.0,1.1,0.5,60.1
+set5_625,skunk cabbage,11,0.1,1.5,1.8,0.0,30.8,0.9,43.1
+set5_626,banana pepper,9,0.1,0.5,1.8,0.0,27.3,0.2,4.6
+set5_627,oriental radish raw,61,0.3,2.0,13.9,0.0,74.4,1.4,91.3
+set5_628,purslane cooked,21,0.2,1.7,4.1,0.0,12.1,0.9,89.7
+set5_629,rhubarb raw,11,0.1,0.5,2.3,0.0,0.042,0.018,0.058
+set5_630,swamp cabbage,20,0.2,2.0,3.6,0.0,15.7,1.3,52.9
+set5_631,mung bean sprouts raw,6,0.044,0.6,1.2,0.0,0.033,0.072,0.069
+set5_632,onion cooked,7,0.034,0.2,1.5,0.0,0.078,0.067,0.084
+set5_633,swiss chard raw,7,0.042,0.6,1.3,0.0,10.8,0.6,18.4
+set5_634,peas raw,117,0.6,7.9,21.0,0.0,58.0,2.1,36.3
+set5_635,cabbage cooked,35,0.019,1.9,8.3,0.0,0.2,0.067,0.2
+set5_636,taro leaves cooked,35,0.6,3.9,5.6,0.0,51.5,1.7,124.7
+set5_637,leeks cooked,38,0.2,1.0,9.4,0.0,5.2,1.4,37.2
+set5_638,split peas cooked,227,0.8,16.3,40.2,0.0,0.8,2.5,27.4
+set5_639,sweet corn yellow,58,0.4,4.1,14.2,0.0,0.068,0.075,0.0
+set5_640,asparagus raw,2,0.037,0.3,0.5,0.0,0.067,0.039,0.088
+set5_641,collard cooked,63,1.4,5.1,10.7,0.0,34.6,2.1,267.9
+set5_642,swiss chard cooked,35,0.1,3.3,7.2,0.0,31.5,4.0,101.5
+set5_643,nopales cooked,22,0.003,2.0,4.9,0.0,7.9,0.7,244.4
+set5_644,tahitian taro cooked,60,0.9,5.7,9.4,0.0,52.1,2.1,204.1
+set5_645,chinese cabbage pak choi raw,9,0.1,1.1,1.5,0.0,31.5,0.6,73.5
+set5_646,green chili pepper,18,0.097,0.9,4.3,0.0,0.1,0.059,0.017
+set5_647,mountain yam raw,91,0.1,1.8,22.2,0.0,3.5,0.6,35.4
+set5_648,parsnips cooked,114,0.5,2.1,27.2,0.0,0.1,0.2,0.065
+set5_649,tomato stewed,97,3.3,2.4,16.1,0.0,0.1,0.1,0.0
+set5_650,sweet green peppers cooked,19,0.1,0.7,4.5,0.0,54.3,0.3,6.6
+set5_651,white corn raw,143,2.0,5.3,31.6,0.0,0.08,0.5,0.081
+set5_652,rutabaga raw,286,1.2,8.3,66.5,0.0,193.0,3.4,332.0
+set5_653,jalapeno peppers canned,37,1.3,1.3,6.4,0.0,13.6,2.6,31.3
+set5_654,pumpkin canned,83,0.7,2.7,19.8,0.0,10.3,3.4,63.7
+set5_655,peas onions canned,61,0.5,3.9,10.3,0.0,3.6,1.0,20.4
+set5_656,sweet mashed potato canned,258,0.5,5.0,59.1,0.0,13.3,3.4,76.5
+set5_657,hominy canned,119,1.5,2.4,23.5,0.0,0.0,1.0,16.5
+set5_658,tomato puree canned,95,0.5,4.1,22.5,0.0,0.3,0.7,0.038
+set5_659,dried tomatoes canned in oil,6,0.4,0.2,0.7,0.0,3.1,0.057,1.4
+set5_660,mixed vegetables canned,88,0.6,3.5,17.5,0.0,0.2,0.3,0.0
+set5_661,straw mushrooms canned,2,0.09,0.2,0.3,0.0,0.099,0.06,0.0
+set5_662,capers canned,2,0.089,0.2,0.4,0.0,0.4,0.1,3.4
+set5_663,red peppers canned,15,0.058,0.7,3.7,0.0,49.6,0.4,5.1
+set5_664,carrots canned,104,0.6,2.6,24.4,0.0,0.5,0.5,0.028
+set5_665,tomatoes in tomato juice canned,41,0.3,1.9,9.6,0.0,22.3,2.3,74.4
+set5_666,asparagus canned,62,0.7,7.4,10.2,0.0,67.8,2.5,61.7
+set5_667,sweet red peppers canned,25,0.4,1.1,5.5,0.0,65.1,1.1,57.4
+set5_668,onions canned,12,0.084,0.5,2.5,0.0,2.7,0.011,28.4
+set5_669,turnip greens canned,27,0.4,2.0,4.0,0.0,22.3,2.2,169.9
+set5_670,hearts of palm,9,0.2,0.8,1.5,0.0,2.6,1.0,19.1
+set5_671,spinach canned,44,0.9,4.9,6.8,0.0,31.6,3.7,194.2
+set5_672,sweet potato canned,568,1.3,6.3,133.5,0.0,67.0,5.1,95.7
+set5_673,corn canned,49,0.6,1.6,11.1,0.0,0.011,0.02,0.0
+set5_674,peas carrots canned,97,0.7,5.5,21.6,0.0,0.2,0.3,0.059
+set5_675,crookneck squash canned,27,0.1,1.3,6.2,0.0,5.7,1.5,25.2
+set5_676,tomatoes canned,77,0.7,4.0,17.6,0.0,22.3,3.1,82.3
+set5_677,pimento canned,44,0.6,2.1,9.8,0.0,163.0,3.2,11.5
+set5_678,sweet green peppers canned,25,0.4,1.1,5.5,0.0,65.1,1.1,57.4
+set5_679,peas canned,57,0.8,3.5,9.5,0.0,0.0,0.091,0.0
+set5_680,chili peppers canned,29,0.4,1.0,6.4,0.0,47.5,1.8,50.0
+set5_681,green peppers canned,15,0.074,0.7,3.7,0.0,49.6,0.4,5.1
+set5_682,grape leaves canned,20,0.6,1.2,3.3,0.0,3.2,0.8,81.8
+set5_683,sauerkraut canned,27,0.2,1.3,6.1,0.0,0.2,0.1,0.096
+set5_684,beets canned,69,0.2,2.0,16.2,0.0,6.9,1.5,32.0
+set5_685,stewed tomatoes canned,66,0.5,2.3,15.8,0.0,0.091,0.3,0.039
+set5_686,tomato paste canned,215,1.2,11.3,49.5,0.0,57.4,7.8,94.3
+set5_687,bacon ranch salad mcdonalds,389,20.1,28.1,19.4,70.2,30.9,1.9,146.7
+set5_688,caesar salad with grilled chicken mcdonalds,201,5.6,29.1,11.3,71.0,31.4,1.8,189.4
+set5_689,caesar salad mcdonalds,94,4.4,6.8,9.1,10.7,30.0,1.3,183.2
+set5_690,vegetable salad,22,0.054,1.7,4.4,0.0,32.0,0.9,17.9
+set5_691,vegetable salad with chicken,70,1.5,11.6,2.5,47.9,11.6,0.7,24.7
+set5_692,potato salad,358,20.5,6.7,27.9,170.0,25.0,1.6,47.5
+set5_693,taco salad taco bell,906,48.9,35.7,80.5,101.3,0.0,9.4,506.4
+set5_694,iceberg lettuce,8,0.045,0.5,1.7,0.0,0.042,0.033,0.079
+set5_695,cornsalad,12,0.2,1.1,2.0,0.0,0.2,0.092,0.0
+set5_696,potato salad with egg,393,23.5,4.9,40.5,42.5,2.0,1.3,37.5
+set5_697,side salad mcdonalds,17,0.2,0.9,3.7,0.0,13.7,0.6,20.9
+set5_698,caesar salad with crispy chicken mcdonalds,349,16.4,25.7,19.2,55.6,30.9,1.8,188.5
+set5_699,grape apple salad with walnuts,191,8.2,3.5,25.6,1.6,7.8,0.5,70.1
+set5_700,vegetable salad with cheese egg,68,3.9,5.8,3.2,65.1,6.5,0.4,66.5
+set5_701,celtuce,1,0.088,0.071,0.3,0.0,1.6,0.079,3.1
+set5_702,arugula,5,0.1,0.5,0.7,0.0,3.0,0.3,32.0
+set5_703,vegetable salad with shrimp,71,1.7,9.7,4.4,119.5,6.1,0.6,39.3
+set5_704,coleslaw,292,18.9,1.8,28.4,7.6,0.2,0.039,0.1
+set5_705,shiitake mushrooms cooked,10,0.007,0.3,2.6,0.0,0.064,0.2,0.0
+set5_706,shiitake mushrooms raw,6,0.039,0.4,1.3,0.0,0.0,0.05,0.4
+set5_707,crimini mushrooms,1,0.018,0.2,0.3,0.0,0.001,0.098,0.0
+set5_708,mushrooms raw,15,0.2,2.2,2.3,0.0,1.5,0.4,2.1
+set5_709,portabella mushrooms grilled,35,0.7,4.0,5.4,0.0,0.1,0.5,0.0
+set5_710,maitake mushrooms,0,0.017,0.016,0.072,0.0,0.08,0.013,0.0
+set5_711,shiitake mushrooms dried,11,0.061,0.3,2.7,0.0,0.1,0.022,0.4
+set5_712,chanterelle mushrooms,2,0.063,0.033,0.4,0.0,0.01,0.067,0.0
+set5_713,cloud ear fungus dried,80,0.2,2.6,20.4,0.0,0.0,1.6,44.5
+set5_714,mushrooms cooked,44,0.7,3.4,8.3,0.0,0.1,0.8,0.0
+set5_715,pepeao dried,72,0.1,1.2,19.4,0.0,0.2,1.2,0.0
+set5_716,truffles,61,4.1,0.7,5.4,6.4,0.019,0.2,18.8
+set5_717,jews ear,25,0.095,0.5,6.7,0.0,0.6,0.6,15.8
+set5_718,enoki mushrooms,1,0.099,0.062,0.2,0.0,0.095,0.099,0.0
+set5_719,morel mushrooms,4,0.07,0.4,0.7,0.0,0.055,0.056,0.0
+set5_720,portabella mushrooms raw,19,0.3,1.8,3.3,0.0,0.0,0.3,2.6
+set5_721,oyster mushroom,5,0.035,0.5,0.9,0.0,0.056,0.008,0.0
